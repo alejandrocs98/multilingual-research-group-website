@@ -6,12 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Allan Lab
-email: your-email@domain.com
+title: BCEM
+email: a.reyes@uniandes.edu.co
 description: > # this means to ignore newlines until "baseurl:"
-  Website of the AllanLab.
 baseurl: ""
 url: ""
+
+plugins:
+  - jekyll-polyglot
+  - jekyll-paginate 
+  - jekyll-redirect-from
 
 include:
   - .htaccess
@@ -27,8 +31,6 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
-
 # Markdown Processing
 kramdown:
   input: GFM
@@ -40,3 +42,35 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+
+
+# other info
+twitter_username: bcem_uniandes
+github_username:  BCEM-UniAndes
+scholar_username: "hbXF8UEAAAAJ"
+resgate_username: "Alejandro-Reyes-15"
+orcid_username: "0000-0003-2907-3265"
+publons_username: 
+arxiv_username: 
+biorxiv_username: 
+linkedin_username: "alejandro-reyes-79a5a255"
+mendeley_username: 
+strava_username: 
+maplocation: uniandes
+author: "Alejandro Reyes"
+
+# Map info -> check how to use
+map_latitude: 4.601915
+map_longitude: -74.066209
+map_title: 'uniandes'
+# map_apikey: "AIzaSyD3OqSEPg5iyHcriIfz-776IahCE3DhxZY"
+
+#Polyglot -> Multilingual configuration
+langsep: "|"
+languages: ["en", "es"]
+default_lang: "en"
+exclude_from_localization: ["js", "images", "fonts", "flags", "css"]
+parallel_localization: true
+lang_from_path: true
+whitelist:
+  - jekyll-redirect-from
