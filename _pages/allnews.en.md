@@ -1,9 +1,11 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "BCEM - News"
 sitemap: false
-permalink: /allnews.html
+permalink: allnews/
+lang: en
+inheader: false
 ---
 
 # News
