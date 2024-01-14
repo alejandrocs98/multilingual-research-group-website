@@ -1,0 +1,179 @@
+# - title: ""
+#   authors: ""
+#   journal: 
+#   journalshort: 
+#   reference: ""
+#   year: 2023
+#   doi: 
+#   arxiv:
+#   biorxiv: 
+#   news: 
+#   description: 
+#   image: 
+#   mendeley: 
+#   researchgate: 
+#   pmid: 
+#   preprint: 0
+#   highlight: 0
+
+- title: "Genomic and Evolutionary Features of Nine AHPND Positive _Vibrio parahaemolyticus Strains_ Isolated from South American Shrimp Farms"
+  authors: "A. Castellanos, L. Restrepo, L. Bajaña, I. Betancourt, B. Bayot, A. Reyes"
+  journal: Microbiology Spectrum
+  journalshort: Microbiol. Spectr.
+  reference: "11 (4), e04851-22"
+  year: 2023
+  doi: 10.1128/spectrum.04851-22
+  arxiv:
+  biorxiv: 
+  news: 
+  description: 
+  image: 
+  mendeley: 
+  researchgate: 
+  pmid: 
+  preprint: 0
+  highlight: 0
+
+- title: "Comparative genomics identifies conserved and variable TAL effectors in African strains of the cotton pathogen Xanthomonas citri pv. malvacearum"
+  authors: "A. L. Perez-Quintero, L. M. Rodriguez-R, S. Cuesta-Morrondo, E. Hakalová, D. Betancurt-Anzola, L. C. Camelo Valera, L. A. Chica Cardenas, L. Matiz-Ceron, J. Jacobs, V. Roman-Reyna, A. Reyes Muñoz, A. J. Bernal, R. Koebnik"
+  journal: Phytopathology
+  journalshort: Phytopathology
+  reference:
+  year: 2023
+  doi: 10.1094/PHYTO-12-22-0477-SC
+  arxiv:
+  biorxiv: 
+  news: 
+  description: 
+  image: 
+  mendeley: 
+  researchgate: 
+  pmid: 
+  preprint: 0
+  highlight: 0
+
+- title: "Bacteriophages playing nice: Lysogenic bacteriophage replication stable in the human gut microbiota"
+  authors: "S. G. Sutcliffe, A. Reyes, C. F. Maurice"
+  journal: iScience
+  journalshort: iScience
+  reference: "26 (2), 106007"
+  year: 2023
+  doi: 10.1016/j.isci.2023.106007
+  arxiv:
+  biorxiv: 
+  news: 
+  description: "Bacteriophages, viruses specific to bacteria, coexist with their bacterial hosts with limited diversity fluctuations in the guts of healthy individuals where they replicate mostly via lysogenic replication."
+  image: phage_lyso.png
+  mendeley: 
+  researchgate: 
+  pmid: 
+  preprint: 0
+  highlight: 1
+
+- title: "Rational Design of Profile HMMs for Sensitive and Specific Sequence Detection with Case Studies Applied to Viruses, Bacteriophages, and Casposons"
+  authors: "L. S. Oliveira, A. Reyes, B. E. Dutilh, A. Gruber"
+  journal: Viruses
+  journalshort: Viruses
+  reference: 15 (2), 519
+  year: 2023
+  doi: 10.3390/v15020519
+  arxiv:
+  biorxiv: 
+  news: 
+  description: 
+  image: 
+  mendeley: 
+  researchgate: 
+  pmid: 
+  preprint: 0
+  highlight: 0
+
+- title: "Four principles to establish a universal virus taxonomy"
+  authors: "P. Simmonds, E. M. Adriaenssens, F. M. Zerbini, N. GA. Abrescia, P. Aiewsakun, P. Alfenas-Zerbini, Y. Bao, J. Barylski, C. Drosten, S. Duffy, W. P. Duprex, B. E. Dutilh, S. F. Elena, M. L. García, S. Junglen, A. Katzourakis, E. V. Koonin, M. Krupovic, J. H. Kuhn, A. J. Lambert, E. J. Lefkowitz, M. Łobocka, C. Lood, J. Mahony, J. P. Meier-Kolthoff, A. R. Mushegian, H. M. Oksanen, M. M. Poranen, A. Reyes-Muñoz, D. L. Robertson, S. Roux, L. Rubino, S. Sabanadzovic, S. Siddell, T. Skern, D. B. Smith, M. B. Sullivan, N. Suzuki, D. Turner, K. Van Doorslaer, A. Vandamme, A. Varsani, N. Vasilakis"
+  journal: PLoS Biology
+  journalshort: PLoS Biol.
+  reference: "21 (2), e3001922"
+  year: 2023
+  doi: 10.1371/journal.pbio.3001922
+  arxiv:
+  biorxiv: 
+  news: 
+  description: 
+  image: 
+  mendeley: 
+  researchgate: 
+  pmid: 
+  preprint: 0
+  highlight: 0
+
+- title: "Abolishment of morphology-based taxa and change to binomial species names: 2022 taxonomy update of the ICTV bacterial viruses subcommittee"
+  authors: "D. Turner, A. N. Shkoporov, C. Lood, A. D. Millard, B. E. Dutilh, P. Alfenas-Zerbini, L. J. van Zyl, R. K. Aziz, H. M. Oksanen, M. M. Poranen, A. M. Kropinski, J. Barylski, J. R. Brister, N. Chanisvili, R. A. Edwards, F. Enault, A. Gillis, P. Knezevic, M. Krupovic, I. Kurtböke, A. Kushkina, R. Lavigne, S. Lehman, M. Lobocka, C. Moraru, A. Moreno Switt, V. Morozova, J. Nakavuma, A. Reyes Muñoz, J. Rūmnieks, B. L. Sarkar, M. B. Sullivan, J. Uchiyama, J. Wittmann, T. Yigang, E. M. Adriaenssens"
+  journal: Archives of Virology
+  journalshort: Arch. Virol.
+  reference: 168 (2), 74
+  year: 2023
+  doi: 10.1007/s00705-022-05694-2
+  arxiv:
+  biorxiv: 
+  news: 
+  description: 
+  image: 
+  mendeley: 
+  researchgate: 
+  pmid: 
+  preprint: 0
+  highlight: 0
+
+- title: "Mining of Thousands of Prokaryotic Genomes Reveals High Abundance of Prophages with a Strictly Narrow Host Range"
+  authors: "G. López-Leal, L. C. Camelo-Valera, J. M. Hurtado-Ramírez, J. Verleyen, S. Castillo-Ramírez, A. Reyes-Muñoz"
+  journal: mSystems
+  journalshort: mSystems
+  reference: "7 (4), e00326-22"
+  year: 2023
+  doi: 10.1128/msystems.00326-22
+  arxiv:
+  biorxiv: 
+  news: 
+  description: 
+  image: 
+  mendeley: 
+  researchgate: 
+  pmid: 
+  preprint: 0
+  highlight: 0
+
+- title: "Computational Tools for the Analysis of Uncultivated Phage Genomes"
+  authors: "J. S. Andrade-Martínez, L. C. Camelo Valera, L. A. Chica Cardenas, L. Forero-Junco, G. López-Leal, J. L. Moreno-Gallego, G. Rangel-Pineros, A. Reyes"
+  journal: Microbiology and Molecular Biology Reviews
+  journalshort: Mol. Biol. Rev
+  reference: "86 (2), e00004-21"
+  year: 2023
+  doi: 10.1128/mmbr.00004-21
+  arxiv:
+  biorxiv: 
+  news: 
+  description: "Over a century of bacteriophage research has uncovered a plethora of fundamental aspects of their biology, ecology, and evolution."
+  image: tools_viromes.png
+  mendeley: 
+  researchgate: 
+  pmid: 
+  preprint: 0
+  highlight: 1
+
+# - title: ""
+#   authors: ""
+#   journal: 
+#   journalshort: 
+#   reference: ""
+#   year: 2023
+#   doi: 
+#   arxiv:
+#   biorxiv: 
+#   news: 
+#   description: 
+#   image: 
+#   mendeley: 
+#   researchgate: 
+#   pmid: 
+#   preprint: 0
+#   highlight: 0
