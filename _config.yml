@@ -70,3 +70,22 @@ parallel_localization: true
 lang_from_path: true
 whitelist:
   - jekyll-redirect-from
+
+# Footer
+footer1:
+  en: 2023 BCEM. Powered by <a href="https://jekyllrb.com">Jekyll</a>
+  es: 2023 BCEM. Impulsado por <a href="https://jekyllrb.com">Jekyll</a>
+footer2:
+  en: We are part of the <a href="https://cienciasbiologicas.uniandes.edu.co">Biological Sciences Department</a> at <a href="https://uniandes.edu.co/">Universidad de los Andes </a> in
+  es: Somos parte del <a href="https://cienciasbiologicas.uniandes.edu.co">Departmento de Ciencias Biológicas</a> de la <a href="https://uniandes.edu.co/">Universidad de los Andes </a> en
+footer3:
+  en: Follow us
+  es: Siguenos
+
+# News panel
+newsheader:
+  en: News
+  es: Noticias
+newscontinue:
+  en: see all News
+  es: ver todas las Noticias
