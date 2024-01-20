@@ -4,7 +4,8 @@ position: "Student"
 country: col
 website: 
 photo: alejandro_castellanos.jpg
-info: Master's Student, started January 2022
+info: Masters Student, Computational Biology
+started: Jan 2022
 email: a.castellanoss@uniandes.edu.co
 description: 
 number_educ: 3
