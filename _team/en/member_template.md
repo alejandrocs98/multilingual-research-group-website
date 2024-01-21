@@ -7,7 +7,7 @@ photo:
 info: 
 email: 
 description: 
-number_educ: 3
+number_educ: 
 education1: 
 education2: 
 education3: 
@@ -21,5 +21,5 @@ arxivusername:
 biorxivusername: 
 linkedinusername: 
 cv: 
-past: 0
+past: 
 ---

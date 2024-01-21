@@ -1,11 +1,14 @@
 ---
 name: Juan S. Andrade
-position: "Student"
+position: Student
 country: col
 photo: 
-info: "Bachelor's and Master's Student (2016-2020). Now: PhD Student at Weill Cornell Medicine"
+info: B.Sc. & M.Sc.
 linkedinusername:
-orcidusername: "0000-0001-7852-630X"
+orcidusername: 0000-0001-7852-630X
 past: 1
-now: usa
+started: 2016
+ended: 2020
+now: Gradaute Student @ Weill Cornell Medicine
+country_now: usa
 ---

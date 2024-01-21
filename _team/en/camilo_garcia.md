@@ -5,7 +5,7 @@ country: col
 website: https://camilogarciabotero.github.io/
 photo: camilo-garcia.jpeg
 info: Graduate Student, Biology
-started: Jan 2023
+started: 2023
 email: a.castellanoss@uniandes.edu.co
 description: 
 number_educ: 2

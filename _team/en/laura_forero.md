@@ -1,11 +1,14 @@
 ---
 name: Laura M. Forero-Junco
-position: "Student"
+position: Student
 country: col
 photo: 
-info: "Bachelor's and Master's Student (2014-2019). Now: PhD Student at University of Copenhagen"
+info: B.Sc. & M.Sc.
 linkedinusername:
-orcidusername: "0000-0001-7634-1002"
+orcidusername: 0000-0001-7634-1002
 past: 1
-now: dnk
+started: 2014
+ended: 2019
+now: Graduate Student @ University of Copenhagen
+country_now: dnk
 ---
