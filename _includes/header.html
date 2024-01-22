@@ -15,15 +15,20 @@
 	  <ul class="nav navbar-nav navbar-right">
 		{% for node in site.pages %}
 		{% if node.inheader == true %}
-		<!-- <li><a href="{{ site.url }}{{ node.url }}">{{ node.title }}</a></li> -->
-		<li><a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}{{ node.url }}">{{ node.title }}</a></li>
+
+		<li><a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}{{ node.url }}">{{ node.title }}</a></li>
 		{% endif %}
 		{% endfor %}
 
-		{% for tongue in site.languages %}
-		  <a {% if tongue == site.active_lang %}style="font-weight: bold;"{% endif %} {% static_href %}href="{% if tongue == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/{{ tongue }}{{page.url}}{% endif %}"{% endstatic_href %} >{{ tongue }}</a>{%- if forloop.last == false -%}{{" "}}{{ site.langsep }}{%- endif -%}
-		{% endfor %}
 		
+			{% for tongue in site.languages %}
+			  <a {% if tongue == site.active_lang %}style="font-weight: bold;"{% endif %}
+				{% static_href %}href="{% if tongue == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/{{ tongue }}{{page.url}}{% endif %}"{% endstatic_href %}>{{ tongue }}</a>
+			  {%- if forloop.last == false -%}{{" "}}{{ site.langsep }}{%- endif -%}
+			{% endfor %}
+		
+		  
+
 	  </ul>
 	</div>
   </div>
