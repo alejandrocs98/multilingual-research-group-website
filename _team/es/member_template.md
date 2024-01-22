@@ -1,18 +1,18 @@
 ---
-name: 
-position: 
+name:
 country: 
 website: 
 photo: 
 info: 
-email: 
-description: 
-number_educ: 3
+started:
+ended:  
+number_educ: 
 education1: 
 education2: 
 education3: 
-twitterusername: 
-githubusername:  
+education4: 
+email: 
+cv: 
 scholarusername: 
 resgateusername: 
 orcidusername: 
@@ -20,6 +20,9 @@ publonsusername:
 arxivusername: 
 biorxivusername: 
 linkedinusername: 
-cv: 
-past: 0
+twitterusername: 
+githubusername:  
+interests:
+after:
+country_after: 
 ---

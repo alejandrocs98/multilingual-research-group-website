@@ -89,3 +89,11 @@ newsheader:
 newscontinue:
   en: see all News
   es: ver todas las Noticias
+
+# Team pages
+interests:
+  en: Interests
+  es: Intereses
+started:
+  en: started
+  es: desde

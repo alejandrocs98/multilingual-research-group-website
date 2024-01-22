@@ -1,17 +1,16 @@
 ---
 name: Camilo García-Botero
-position: "Student"
 country: col
 website: https://camilogarciabotero.github.io/
 photo: camilo-garcia.jpeg
-info: Ph.D. Student, started January 2023
-email: a.castellanoss@uniandes.edu.co
-description: 
+info: Estudiante Doctoral, Biología
+started: 2023
+ended: 
 number_educ: 2
-education1: M.Sc. in Biosciences, Universidad EAFIT, Medellín, Colombia
-education2: B.Sc. in Biology, Universidad EAFIT, Medellín, Colombia
-twitterusername: Gaspardelanoche
-githubusername:  camilogarciabotero
+education1: M.Sc. en Biociencías, Universidad EAFIT, Medellín, Colombia
+education2: B.Sc. en Biología, Universidad EAFIT, Medellín, Colombia
+email: ca.garcia2@uniandes.edu.co
+cv: 
 scholarusername: OJ6452UAAAAJ
 resgateusername: Camilo-Garcia-Botero-2
 orcidusername: 0000-0002-0426-7007
@@ -19,6 +18,9 @@ publonsusername:
 arxivusername: 
 biorxivusername: 
 linkedinusername: alejandrocs98
-cv: 
-past: 0
+twitterusername: Gaspardelanoche
+githubusername:  camilogarciabotero
+interests: 
+after: 
+country_after: 
 ---
