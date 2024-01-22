@@ -71,6 +71,11 @@ lang_from_path: true
 whitelist:
   - jekyll-redirect-from
 
+# Header language menu
+langmenu:
+  en: Language
+  es: Idioma
+
 # Footer
 footer1:
   en: 2023 BCEM. Powered by <a href="https://jekyllrb.com">Jekyll</a>

@@ -21,7 +21,7 @@
   doi: 10.1038/s41587-023-01844-2
   issn: 1546-1696
   journal: Nature Biotechnology
-  keywords: Genetic databases, Metagenomics
+  keywords: Metagenomics, Genetic databases
   language: en
   month: July
   number: '7'
@@ -39,8 +39,8 @@
   doi: 10.1371/journal.pcbi.1011422
   issn: 1553-7358
   journal: PLOS Computational Biology
-  keywords: Bacteriophages, Eukaryota, Genome annotation, Hidden Markov models, Metagenomics,
-    Taxonomy, Viral genomics, Viral taxonomy
+  keywords: Metagenomics, Genome annotation, Taxonomy, Bacteriophages, Eukaryota,
+    Hidden Markov models, Viral genomics, Viral taxonomy
   language: en
   month: August
   number: '8'
@@ -60,7 +60,7 @@
   doi: 10.1094/PHYTO-12-22-0477-SC
   issn: 0031-949X
   journal: "Phytopathology\xAE"
-  keywords: bacterial blight, cotton, evolution, genome sequencing, phylogenomic analysis,
+  keywords: evolution, bacterial blight, cotton, genome sequencing, phylogenomic analysis,
     resistance, TAL effector, Xanthomonas
   month: August
   number: '8'
@@ -91,7 +91,7 @@
   doi: 10.1016/j.isci.2023.106007
   issn: 2589-0042
   journal: iScience
-  keywords: Microbiology, Microbiome, Virology
+  keywords: Microbiome, Microbiology, Virology
   language: English
   month: February
   number: '2'
@@ -134,8 +134,8 @@
   doi: 10.1371/journal.pbio.3001922
   issn: 1545-7885
   journal: PLOS Biology
-  keywords: Evolutionary genetics, Evolutionary systematics, Phylogenetics, RNA viruses,
-    Taxonomy, Viral evolution, Viral genomics, Viral taxonomy
+  keywords: Phylogenetics, Evolutionary genetics, Taxonomy, Viral evolution, Viral
+    genomics, Viral taxonomy, Evolutionary systematics, RNA viruses
   language: en
   month: February
   number: '2'
@@ -205,8 +205,8 @@
   doi: 10.1371/journal.pcbi.1009218
   issn: 1553-7358
   journal: PLOS Computational Biology
-  keywords: Bioinformatics, Computer software, Culture, Human learning, Instructors,
-    Low and middle income countries, Sustainability science, Workshops
+  keywords: Computer software, Workshops, Bioinformatics, Culture, Sustainability
+    science, Human learning, Instructors, Low and middle income countries
   language: en
   month: August
   number: '8'
@@ -218,8 +218,8 @@
   volume: '17'
   year: 2021
 - ENTRYTYPE: article
-  ID: pena-gonzalez_analysis_2022
-  author: "A Pe\xF1a-Gonz\xE1lez, AR Mu\xF1oz"
+  ID: pena_gonzalez_analysis_2022
+  author: "A Pe\xF1a Gonz\xE1lez, A Reyes Mu\xF1oz"
   copyright: http://creativecommons.org/licenses/by/4.0/
   doi: 10.7490/f1000research.1118938.1
   journal: F1000Research
@@ -236,6 +236,7 @@
 - ENTRYTYPE: article
   ID: hernandez_functional_2022
   author: "R Hern\xE1ndez, M Chaib De Mares, H Jimenez, A Reyes, A Caro-Quintero"
+  doi: 10.3389/fmicb.2022.813002
   issn: 1664-302X
   journal: Frontiers in Microbiology
   title: Functional and Phylogenetic Characterization of Bacteria in Bovine Rumen
@@ -247,6 +248,7 @@
 - ENTRYTYPE: article
   ID: matiz-ceron_taxonomical_2022
   author: L Matiz-Ceron, A Reyes, J Anzola
+  doi: 10.3389/fpls.2021.782663
   issn: 1664-462X
   journal: Frontiers in Plant Science
   title: Taxonomical Evaluation of Plant Chloroplastic Markers by Bayesian Classifier
@@ -261,7 +263,7 @@
   doi: 10.1038/s41598-021-04679-6
   issn: 2045-2322
   journal: Scientific Reports
-  keywords: Bacteriophages, Metagenomics, Microbiome
+  keywords: Microbiome, Metagenomics, Bacteriophages
   language: en
   month: January
   number: '1'
@@ -294,7 +296,7 @@
   doi: 10.1016/j.foodcont.2021.108417
   issn: 0956-7135
   journal: Food Control
-  keywords: Authentication, DNA-Sequencing, Fish, Food fraud, Mislabelling, Seafood,
+  keywords: Seafood, Authentication, DNA-Sequencing, Fish, Food fraud, Mislabelling,
     Spectral library
   month: January
   pages: '108417'
@@ -344,8 +346,8 @@
   doi: 10.1186/s40168-021-01043-8
   issn: 2049-2618
   journal: Microbiome
-  keywords: Acute hepatopancreatic necrosis disease (AHPND), Comparative genomics,
-    Horizontal gene transfer (HGT), Metagenomics, Microbiome, Probiotics, Vibrio diabolicus
+  keywords: Microbiome, Metagenomics, Comparative genomics, Probiotics, Acute hepatopancreatic
+    necrosis disease (AHPND), Horizontal gene transfer (HGT), Vibrio diabolicus
   language: en
   month: April
   number: '1'
@@ -399,8 +401,8 @@
   volume: '166'
   year: 2021
 - ENTRYTYPE: article
-  ID: gonzalez_practical_2021
-  author: "AP Gonzalez, AR Mu\xF1oz, AM Leiva"
+  ID: pena_gonzalez_practical_2021
+  author: "A Pe\xF1a Gonz\xE1lez, A Reyes Mu\xF1oz, A Madrigal Leiva"
   copyright: http://creativecommons.org/licenses/by/4.0/
   doi: 10.7490/f1000research.1118763.1
   journal: F1000Research
@@ -417,7 +419,8 @@
   year: 2021
 - ENTRYTYPE: article
   ID: vasquez_non-extensive_2021
-  author: "AF V\xE1squez, AR Mu\xF1oz, J Duitama, A Gonz\xE1lez Barrios"
+  author: "AF V\xE1squez, A Reyes Mu\xF1oz, J Duitama, A Gonz\xE1lez Barrios"
+  doi: 10.3389/fchem.2021.700802
   issn: 2296-2646
   journal: Frontiers in Chemistry
   title: Non-Extensive Fragmentation of Natural Products and Pharmacophore-Based Virtual
@@ -430,6 +433,7 @@
   ID: ras_challenges_2021
   author: "V Ras, P Carvajal-L\xF3pez, P Gopalasingam, A Matimba, PA Chauke, N Mulder,\
     \ F Guerfali, VD Del Angel, A Reyes, G Oliveira, J De Las Rivas, M Cristancho"
+  doi: 10.3389/feduc.2021.710971
   issn: 2504-284X
   journal: Frontiers in Education
   shorttitle: Challenges and {Considerations} for {Delivering} {Bioinformatics} {Training}
@@ -443,6 +447,7 @@
 - ENTRYTYPE: article
   ID: hernandez_disentangling_2021
   author: "R Hern\xE1ndez, H Jimenez, C Vargas-Garcia, A Caro-Quintero, A Reyes"
+  doi: 10.3389/fmicb.2021.664754
   issn: 1664-302X
   journal: Frontiers in Microbiology
   title: Disentangling the Complexity of the Rumen Microbial Diversity Through Fractionation
@@ -510,7 +515,7 @@
   doi: 10.1038/s41598-021-85990-0
   issn: 2045-2322
   journal: Scientific Reports
-  keywords: Conservation biology, Ecology, Metagenomics, Microbiology
+  keywords: Metagenomics, Ecology, Microbiology, Conservation biology
   language: en
   month: March
   number: '1'
@@ -547,8 +552,8 @@
   doi: 10.1089/phage.2020.0028
   issn: 2641-6530
   journal: PHAGE
-  keywords: bacteriophage education, Lactobacillus phage, Latin America, Mycobacterium
-    phage
+  keywords: Mycobacterium phage, bacteriophage education, Lactobacillus phage, Latin
+    America
   month: March
   number: '1'
   pages: 7--10
@@ -565,7 +570,7 @@
   doi: 10.1089/phage.2020.0029
   issn: 2641-6530
   journal: PHAGE
-  keywords: Lactobacillus casei, Lactobacillus phage, probiotics
+  keywords: Lactobacillus phage, Lactobacillus casei, probiotics
   month: March
   number: '1'
   pages: 57--63
@@ -628,8 +633,8 @@
     and Podoviridae (Caudoviricetes)
   year: 2021
 - ENTRYTYPE: article
-  ID: gonzalez_essentials_2020
-  author: "AP Gonzalez, AR Mu\xF1oz"
+  ID: pena_gonzalez_essentials_2020
+  author: "A Pe\xF1a Gonz\xE1lez, A Reyes Mu\xF1oz"
   copyright: http://creativecommons.org/licenses/by/4.0/
   doi: 10.7490/f1000research.1118334.1
   journal: F1000Research
@@ -643,8 +648,8 @@
   volume: '9'
   year: 2020
 - ENTRYTYPE: article
-  ID: gonzalez_essentials_2020-1
-  author: "AP Gonzalez, AR Mu\xF1oz"
+  ID: pena_gonzalez_essentials_2020-1
+  author: "A Pe\xF1a Gonz\xE1lez, A Reyes Mu\xF1oz"
   copyright: http://creativecommons.org/licenses/by/4.0/
   doi: 10.7490/f1000research.1118333.1
   journal: F1000Research
@@ -664,8 +669,8 @@
   doi: 10.3390/nu12102938
   issn: 2072-6643
   journal: Nutrients
-  keywords: 16S rRNA, 24-h dietary recall, Colombians, community dwellers, food consumption,
-    gut microbiome, short-chain fatty acids
+  keywords: 16S rRNA, gut microbiome, 24-h dietary recall, Colombians, community dwellers,
+    food consumption, short-chain fatty acids
   language: en
   month: October
   number: '10'
@@ -699,6 +704,7 @@
   author: "D Botero, J Monk, MJ Rodr\xEDguez Cubillos, A Rodr\xEDguez Cubillos, M\
     \ Restrepo, V Bernal-Galeano, A Reyes, A Gonz\xE1lez Barrios, B\xD8 Palsson, S\
     \ Restrepo, A Bernal"
+  doi: 10.3389/fgene.2020.00837
   issn: 1664-8021
   journal: Frontiers in Genetics
   shorttitle: Genome-{Scale} {Metabolic} {Model} of {Xanthomonas} phaseoli pv. manihotis
@@ -711,6 +717,7 @@
 - ENTRYTYPE: article
   ID: pacheco-montealegre_fine_2020
   author: "ME Pacheco-Montealegre, LL D\xE1vila-Mora, LM Botero-Rute, A Reyes, A Caro-Quintero"
+  doi: 10.3389/fmicb.2020.00650
   issn: 1664-302X
   journal: Frontiers in Microbiology
   title: Fine Resolution Analysis of Microbial Communities Provides Insights Into
@@ -752,8 +759,8 @@
   doi: 10.1371/journal.pone.0221540
   issn: 1932-6203
   journal: PLOS ONE
-  keywords: Cellular stress responses, Gene expression, Genomics, Non-coding RNA,
-    Ribosomal RNA, RNA sequencing, Ultraviolet C, Ultraviolet radiation
+  keywords: Gene expression, RNA sequencing, Genomics, Ribosomal RNA, Cellular stress
+    responses, Non-coding RNA, Ultraviolet C, Ultraviolet radiation
   language: en
   month: December
   number: '12'
@@ -787,7 +794,7 @@
   doi: 10.1038/s41564-019-0494-6
   issn: 2058-5276
   journal: Nature Microbiology
-  keywords: Bacteriophages, Environmental microbiology, Microbiome
+  keywords: Microbiome, Environmental microbiology, Bacteriophages
   language: en
   month: October
   number: '10'
@@ -806,7 +813,7 @@
   doi: 10.1038/s41598-019-48200-6
   issn: 2045-2322
   journal: Scientific Reports
-  keywords: Antimicrobial resistance, Metagenomics
+  keywords: Metagenomics, Antimicrobial resistance
   language: en
   month: August
   number: '1'
@@ -824,8 +831,8 @@
   doi: 10.1038/s41598-019-47742-z
   issn: 2045-2322
   journal: Scientific Reports
-  keywords: Classification and taxonomy, Herpes virus, Phylogenetics, Phylogeny, Viral
-    evolution
+  keywords: Phylogenetics, Classification and taxonomy, Viral evolution, Herpes virus,
+    Phylogeny
   language: en
   month: August
   number: '1'
@@ -843,7 +850,7 @@
   doi: 10.1016/j.chom.2019.01.019
   issn: 1931-3128
   journal: Cell Host \& Microbe
-  keywords: concordant and discordant monozygotic twins, human gut microbiome, human
+  keywords: human gut microbiome, concordant and discordant monozygotic twins, human
     gut virome
   language: English
   month: February
@@ -891,8 +898,8 @@
   doi: 10.1038/nbt.4306
   issn: 1546-1696
   journal: Nature Biotechnology
-  keywords: Environmental microbiology, Genetic databases, Metagenomics, Phage biology,
-    Virology
+  keywords: Metagenomics, Environmental microbiology, Phage biology, Virology, Genetic
+    databases
   language: en
   month: January
   number: '1'
@@ -929,7 +936,7 @@
   doi: 10.1038/s41598-018-30903-x
   issn: 2045-2322
   journal: Scientific Reports
-  keywords: Comparative genomics, Molecular evolution, Pathogens
+  keywords: Pathogens, Comparative genomics, Molecular evolution
   language: en
   month: August
   number: '1'
@@ -958,6 +965,7 @@
   ID: gonzalez-zapata_holobiont_2018
   author: "FL Gonzalez-Zapata, P Bongaerts, C Ram\xEDrez-Portilla, B Adu-Oppong, G\
     \ Walljasper, A Reyes, JA Sanchez"
+  doi: 10.3389/fmars.2018.00029
   issn: 2296-7745
   journal: Frontiers in Marine Science
   title: Holobiont Diversity in a Reef-Building Coral over Its Entire Depth Range
@@ -988,6 +996,7 @@
 - ENTRYTYPE: article
   ID: dutilh_editorial_2017
   author: BE Dutilh, A Reyes, RJ Hall, KL Whiteson
+  doi: 10.3389/fmicb.2017.01710
   issn: 1664-302X
   journal: Frontiers in Microbiology
   shorttitle: Editorial
@@ -1020,8 +1029,8 @@
   doi: 10.2147/AGG.S136574
   issn: 'null'
   journal: Advances in Genomics and Genetics
-  keywords: de novo diagnosis, DNA assembly, metagenomic analysis, molecular markers,
-    profile hidden Markov models, viral discovery
+  keywords: profile hidden Markov models, de novo diagnosis, DNA assembly, metagenomic
+    analysis, molecular markers, viral discovery
   month: July
   pages: 29--45
   shorttitle: Use of profile hidden {Markov} models in viral discovery
@@ -1033,6 +1042,7 @@
 - ENTRYTYPE: article
   ID: borbon-garcia_captivity_2017
   author: "A Borb\xF3n-Garc\xEDa, A Reyes, M Vives-Fl\xF3rez, S Caballero"
+  doi: 10.3389/fmicb.2017.01316
   issn: 1664-302X
   journal: Frontiers in Microbiology
   shorttitle: Captivity {Shapes} the {Gut} {Microbiota} of {Andean} {Bears}
@@ -1045,6 +1055,7 @@
 - ENTRYTYPE: article
   ID: rodriguez-castano_advances_2017
   author: "GP Rodriguez-Casta\xF1o, A Caro-Quintero, A Reyes, F Lizcano"
+  doi: 10.3389/fgene.2016.00224
   issn: 1664-8021
   journal: Frontiers in Genetics
   title: Advances in Gut Microbiome Research, Opening New Strategies to Cope with
@@ -1057,6 +1068,7 @@
   ID: alves_genseed-hmm_2016
   author: JMP Alves, AL de Oliveira, TOM Sandberg, JL Moreno-Gallego, MAF de Toledo,
     EMM de Moura, LS Oliveira, AM Durham, DU Mehnert, PMdA Zanotto, A Reyes, A Gruber
+  doi: 10.3389/fmicb.2016.00269
   issn: 1664-302X
   journal: Frontiers in Microbiology
   shorttitle: '{GenSeed}-{HMM}'
@@ -1138,7 +1150,7 @@
   doi: 10.1016/j.virol.2012.12.005
   issn: 0042-6822
   journal: Virology
-  keywords: Alternative splicing, Polyomavirus, Recombination, Tumor antigen, Virus
+  keywords: Recombination, Alternative splicing, Polyomavirus, Tumor antigen, Virus
     discovery
   month: February
   number: '2'
@@ -1157,8 +1169,8 @@
   doi: 10.1186/1471-2164-13-249
   issn: 1471-2164
   journal: BMC Genomics
-  keywords: Conditional Mutual Information, Insertion Site, IS6110 Element, Restriction
-    Fragment Length Polymorphism, Tuberculosis
+  keywords: Tuberculosis, Conditional Mutual Information, Insertion Site, IS6110 Element,
+    Restriction Fragment Length Polymorphism
   month: June
   number: '1'
   pages: '249'
@@ -1190,7 +1202,7 @@
   doi: 10.1038/nrmicro2853
   issn: 1740-1534
   journal: Nature Reviews Microbiology
-  keywords: Metagenomics, Microbiota, Next-generation sequencing, Phage biology
+  keywords: Metagenomics, Microbiota, Phage biology, Next-generation sequencing
   language: en
   month: September
   number: '9'
@@ -1267,7 +1279,7 @@
   doi: 10.1038/nature09199
   issn: 1476-4687
   journal: Nature
-  keywords: Genomics, Microbiota, Virology
+  keywords: Microbiota, Genomics, Virology
   language: en
   month: July
   number: '7304'
@@ -1313,10 +1325,10 @@
   urldate: '2024-01-22'
   volume: '87'
   year: 2007
-- ENTRYTYPE: article
+- ENTRYTYPE: incollection
   ID: portillo_chapter_2007
   author: "PD Portillo, A Reyes, L Salazar, MJ Garc\xEDa"
-  journal: Tuberculosis Textbook
+  booktitle: Tuberculosis {Textbook}
   language: en
   title: 'Chapter 4: Genomics and Proteomics'
   year: 2007
@@ -1326,7 +1338,7 @@
   doi: 10.1016/j.dci.2006.05.003
   issn: 0145-305X
   journal: Developmental \& Comparative Immunology
-  keywords: -actin, Gene expression, Hyperthermia, SSH, Subcuticular epithelium, Viral
+  keywords: Gene expression, -actin, Hyperthermia, SSH, Subcuticular epithelium, Viral
     proteins, White spot syndrome virus
   month: January
   number: '1'

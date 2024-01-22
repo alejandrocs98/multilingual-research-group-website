@@ -1,35 +1,36 @@
 {% assign lang = site.active_lang %}
 <div class="navbar navbar-default navbar-fixed-top" role="navigation">
   <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">BCEM @ Uniandes</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		{% for node in site.pages %}
-		{% if node.inheader == true %}
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">BCEM @ Uniandes</a>
+    </div>
 
-		<li><a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}{{ node.url }}">{{ node.title }}</a></li>
-		{% endif %}
-		{% endfor %}
+    <div class="collapse navbar-collapse" id="navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        {% for node in site.pages %}
+          {% if node.inheader == true %}
+            <li><a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}{{ node.url }}">{{ node.title }}</a></li>
+          {% endif %}
+        {% endfor %}
 
-		
-			{% for tongue in site.languages %}
-			  <a {% if tongue == lang %}style="font-weight: bold;"{% endif %}
-				{% static_href %}href="{% if tongue == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/{{ tongue }}{{page.url}}{% endif %}"{% endstatic_href %}>{{ tongue }}</a>
-			  {%- if forloop.last == false -%}{{" "}}{{ site.langsep }}{%- endif -%}
-			{% endfor %}
-		
-		  
-
-	  </ul>
-	</div>
+        <!-- Language Selector Section -->
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{site.langmenu[lang]}} {% if lang == 'en' %} <span class="flag-icon flag-icon-gbr"></span> {% else %} <span class="flag-icon flag-icon-esp"></span> {% endif %} <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            {% for tongue in site.languages %}
+              <li><a {% if tongue == lang %}style="font-weight: bold;"{% endif %}
+                {% static_href %}href="{% if tongue == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/{{ tongue }}{{page.url}}{% endif %}"{% endstatic_href %}>{{ tongue }} {% if tongue == 'en' %} <span class="flag-icon flag-icon-gbr"></span> {% else %} <span class="flag-icon flag-icon-esp"></span> {% endif %} </a></li>
+              {%- if forloop.last == false -%}<li role="separator" class="divider"></li>{%- endif -%}
+            {% endfor %}
+          </ul>
+        </li>
+      </ul>
+    </div>
   </div>
 </div>
