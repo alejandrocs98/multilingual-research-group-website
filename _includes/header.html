@@ -13,8 +13,9 @@
 
     <div class="collapse navbar-collapse" id="navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
-        {% for node in site.pages %}
-          {% if node.inheader == true %}
+        {% assign sorted_pages = site.pages | sort: "inheader_order" %}
+        {% for node in sorted_pages %}
+          {% if node.inheader_order != nil %}
             <li><a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}{{ node.url }}">{{ node.title }}</a></li>
           {% endif %}
         {% endfor %}
