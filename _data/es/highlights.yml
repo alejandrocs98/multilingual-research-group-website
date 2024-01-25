@@ -1,0 +1,80 @@
+- ENTRYTYPE: article
+  image: virify.png
+  ID: rangel-pineros_virify_2023
+  author: "G Rangel-Pineros, A Almeida, M Beracochea, E Sakharova, M Marz, AR Mu\xF1\
+    oz, M H\xF6lzer, RD Finn"
+  doi: 10.1371/journal.pcbi.1011422
+  issn: 1553-7358
+  journal: PLOS Computational Biology
+  keywords: Metagenomics, Genome annotation, Taxonomy, Bacteriophages, Eukaryota,
+    Hidden Markov models, Viral genomics, Viral taxonomy
+  language: en
+  month: August
+  number: '8'
+  pages: e1011422
+  shorttitle: '{VIRify}'
+  title: 'VIRify: An integrated detection, annotation and taxonomic classification
+    pipeline using virus-specific protein profile hidden Markov models'
+  url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011422
+  description: El estudio presenta VIRify, un proceso computacional para caracterizar comunidades virales a partir de datos de secuenciación. VIRify identifica con precisión contigs virales y profagos, utilizando modelos de Markov ocultos de perfil para la clasificación taxonómica, demostrando una alta precisión en diversos conjuntos de datos, incluyendo comunidades microbianas simuladas y estudios metagenómicos.
+  urldate: '2024-01-22'
+  volume: '19'
+  year: 2023
+- ENTRYTYPE: article
+  image: tools_viromes.png
+  ID: andrade-martinez_computational_2022
+  author: "JS Andrade-Mart\xEDnez, LC Camelo Valera, LA Chica C\xE1rdenas, L Forero-Junco,\
+    \ G L\xF3pez-Leal, JL Moreno-Gallego, G Rangel-Pineros, A Reyes"
+  doi: 10.1128/mmbr.00004-21
+  journal: Microbiology and Molecular Biology Reviews
+  month: March
+  number: '2'
+  pages: e00004--21
+  title: Computational Tools for the Analysis of Uncultivated Phage Genomes
+  url: https://journals.asm.org/doi/full/10.1128/mmbr.00004-21
+  description: Esta revisión profundiza en los significativos avances de la investigación sobre bacteriófagos, destacando el impacto de la metagenómica para desvelar la vasta diversidad genética de los fagos, lo que ha llevado al desarrollo de herramientas computacionales para analizar las secuencias genómicas de los fagos a través de cinco análisis clave.
+  urldate: '2024-01-22'
+  volume: '86'
+  year: 2022
+- ENTRYTYPE: article
+  image: covid.jpg
+  ID: hufsky_computational_2021
+  author: "F Hufsky, K Lamkiewicz, A Almeida, A Aouacheria, C Arighi, A Bateman, J\
+    \ Baumbach, N Beerenwinkel, C Brandt, ... A Reyes, L Richardson, DL Robertson, S Sadegh, JB Singer, K Theys,\
+    \ C Upton, M Welzel, L Williams, M Marz"
+  doi: 10.1093/bib/bbaa232
+  issn: 1477-4054
+  journal: Briefings in Bioinformatics
+  month: March
+  number: '2'
+  pages: 642--663
+  shorttitle: Computational strategies to combat {COVID}-19
+  title: 'Computational strategies to combat COVID-19: useful tools to accelerate
+    SARS-CoV-2 and coronavirus research'
+  url: https://doi.org/10.1093/bib/bbaa232
+  description: Este trabajo explora la aparición de herramientas bioinformáticas adaptadas al SARS-CoV-2, ofreciendo una visión completa de sus aplicaciones en la detección de infecciones, el análisis de datos de secuenciación, el seguimiento de la pandemia, el estudio de la evolución del virus y el desarrollo de estrategias terapéuticas para hacer frente a la actual crisis del COVID-19.
+  urldate: '2024-01-22'
+  volume: '22'
+  year: 2021
+- ENTRYTYPE: article
+  image: twins.png
+  ID: moreno-gallego_virome_2019
+  author: JL Moreno-Gallego, S Chou, SCD Rienzi, JK Goodrich, TD Spector, JT Bell,
+    ND Youngblut, I Hewson, A Reyes, RE Ley
+  doi: 10.1016/j.chom.2019.01.019
+  issn: 1931-3128
+  journal: Cell Host & Microbe
+  keywords: human gut microbiome, concordant and discordant monozygotic twins, human
+    gut virome
+  language: English
+  month: February
+  number: '2'
+  pages: 261--272.e5
+  pmid: '30763537'
+  title: Virome Diversity Correlates with Intestinal Microbiome Diversity in Adult
+    Monozygotic Twins
+  url: https://www.cell.com/cell-host-microbe/abstract/S1931-3128(19)30059-9
+  description: El viroma sigue siendo un componente relativamente inexplorado del microbioma. Moreno-Gallego y Chou et al. examinaron los viromas de gemelos monocigóticos para averiguar cómo se relaciona la diversidad del microbioma con la diversidad del viroma, sin variables genéticas del huésped. Las parejas de gemelos se clasificaron según su concordancia alta o baja en el microbioma, lo que reveló una correlación entre los viromas.
+  urldate: '2024-01-22'
+  volume: '25'
+  year: 2019
