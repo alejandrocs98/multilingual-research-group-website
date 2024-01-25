@@ -1,10 +1,12 @@
 {% assign lang = site.active_lang %}
+
 <div class="well">
-  <h4>{{ site.newsheader[lang] }}</h4>
+  <a class="twitter-timeline" href="https://twitter.com/bcem_uniandes?ref_src=twsrc%5Etfw">Tweets by BCEM @ Uniandes</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <!-- <h4>{{ site.newsheader[lang] }}</h4>
 
   {% for article in site.data.news limit:6 %}
     <p>{{ article.date }}<br>{{ article.headline | markdownify }}</p>
-  {% endfor %}
+  {% endfor %} -->
 
-  <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews">... {{ site.newscontinue[lang] }}</a></h4>
+  <!-- <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews">... {{ site.newscontinue[lang] }}</a></h4> -->
 </div>
