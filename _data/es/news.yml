@@ -1,3 +1,11 @@
+- date: "January 25, 2024"
+  headline: "Charla de Alejandro Reyes en la 1ra Escuela Andina de Dinámica Patógeno-Hospedero"
+  fullnews: "Hoy nuestro PI dió la charla _Tracking antibiotic resistance in environmental samples and the potential for phage therapy as an alternative treatment_ en la <a target='_blank' href='https://sites.google.com/view/andean-host-pathogens-24'>1ra Escuela Andina de Dinámica Patógeno-Hospedero</a> organizada en Uniandes"
+  image: "andean.png"
+- date: "December 15, 2023"
+  headline: "Felicitaciones a Luisa Sacristán por su Tesis de maestría!"
+  fullnews: "¡Enhorabuena a nuestra estudiante de máster Luisa Sacristán por conseguir el 2º puesto en el concurso al mejor proyecto de tesis en el simposio interno del DCB!"
+  image:
 - date: "26 de agosto de 2023"
   headline: "Esto es una prueba - <a target='_blank' href='https://bcem-uniandes.github.io/'>BCEM</a>"
   fullnews: "Pruebas de noticias de BCEM. <a target='_blank' href='https://bcem-uniandes.github.io/'>Current website</a>"

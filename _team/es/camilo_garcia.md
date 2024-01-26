@@ -20,7 +20,7 @@ biorxivusername:
 linkedinusername: alejandrocs98
 twitterusername: Gaspardelanoche
 githubusername:  camilogarciabotero
-interests: 
+interests: Descubrimiento y clasificación de genes de fagos
 after: 
 country_after: 
 ---

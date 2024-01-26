@@ -86,6 +86,9 @@ footer2:
 footer3:
   en: Follow us
   es: Siguenos
+footer4: 
+  en: Contact
+  es: Contacto
 
 # News panel
 newsheader:

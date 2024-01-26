@@ -5,14 +5,19 @@ excerpt: "BCEM - News"
 sitemap: false
 permalink: allnews/
 lang: en
-inheader: false
 ---
 
 # News
 
-<a class="twitter-timeline" href="https://twitter.com/bcem_uniandes?ref_src=twsrc%5Etfw">Tweets by BCEM @ Uniandes</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<!-- {% for article in site.data.news %}
-  <p>{{ article.date }} <br> {{ article.headline | markdownify }}</p>
-{% endfor %} -->
+{% for article in site.data.news %}
+<p>
+<strong>
+{{ article.date }}</strong>  --- {{ article.headline }} <br>
+<em>{% if article.fullnews %}{{ article.fullnews }}<br>{% endif %}</em>
+{% if article.image %}
+<img src="{{ site.url }}{{ site.basurl }}/images/newspic/{{ article.image }}" class="img" height = "250px" width="auto"  style="float: left" alt = "sometext" />
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+{% endif %}
+</p>
+{% endfor %}
 

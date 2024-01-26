@@ -15,7 +15,11 @@ inheader_order:
 
 </div>
 
-#### Welcome! _(Para ver la página en español [haga click aquí]({{ site.url }}{{ site.baseurl }}/es/ ) <span class="flag-icon flag-icon-esp"></span>)_
+<div style="text-align: center; margin-bottom: 0px;">
+
+##### ( _Para ver la página en español [haga click aquí]({{ site.url }}{{ site.baseurl }}/es/ ) <span class="flag-icon flag-icon-esp"></span>_ )
+
+</div>
 
 [We]({{ site.url }}{{ site.baseurl }}/team) are a multidisciplinary group involved in the development of computational biology. We work in diverse research areas such as microbial ecology, genomics, population genetics and systems biology.
 
@@ -27,8 +31,7 @@ inheader_order:
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <!-- <li data-target="#carousel" data-slide-to="5"></li> -->
+        <!-- <li data-target="#carousel" data-slide-to="4"></li> -->
     </ol>
 
     <!-- Items -->
@@ -43,13 +46,10 @@ inheader_order:
             <img src="{{ site.url }}{{ site.baseurl }}/images/homeslides/Virus_1.png" alt="Slide 3" width="100%" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslides/2023-1-Pic-37.jpg" alt="Slide 4" width="100%" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslides/MG_9700.jpg" alt="Slide 5" width="100%" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslides/MG_9700.jpg" alt="Slide 4" width="100%" />
         </div>
         <!-- <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslides/Fig_Science_Web.jpg" alt="Slide 6" width="100%" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslides/Fig_Science_Web.jpg" alt="Slide 5" width="100%" />
         </div>     -->
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -69,12 +69,7 @@ The BCEM is a research group based on principles of excellence and scientific ri
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Uniandes.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_DCB.png" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cabana.thumbnail" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Uniandes.png" style="width: 225px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_DCB.png" style="width: 175px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cabana.thumbnail" style="width: 225px">
 </figure>
-
-<!-- Funding:<br />
-      - StG and CoG from the <a href="https://erc.europa.eu">ERC</a><br />
-		  - <a href="http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme">Vidi </a> and <a href='https://www.fom.nl/en/news/press-releases/2016/11/18/28634/'>Projectruimte</a> grants from <a href="http://www.nwo.nl">NWO</a> <br />
-		  - <a href="https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront">Frontier of Nanosciences</a>, a gravity program from <a href="http://www.nwo.nl">NWO</a> -->

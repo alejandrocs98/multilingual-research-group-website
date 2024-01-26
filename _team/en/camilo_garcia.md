@@ -20,7 +20,7 @@ biorxivusername:
 linkedinusername: alejandrocs98
 twitterusername: Gaspardelanoche
 githubusername:  camilogarciabotero
-interests: 
+interests: Phage genes discovery and classification
 after: 
 country_after: 
 ---

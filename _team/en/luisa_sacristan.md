@@ -1,0 +1,28 @@
+---
+name: Luisa Sacristán
+country: col
+website: 
+photo: luisa_sacristan.jpg
+info: Researcher
+started: 2022
+ended:  
+number_educ: 2
+education1: M.Sc. in Computational Biology, Universidad de los Andes, Bogotá, Colombia
+education2: B.Sc. in Microbiology, Universidad de Pamplona, Pamplona, Colombia
+education3: 
+education4: 
+email: lf.sacristan2215@uniandes.edu.co
+cv: 
+scholarusername: 
+resgateusername: 
+orcidusername: 
+publonsusername: 
+arxivusername: 
+biorxivusername: 
+linkedinusername: 
+twitterusername: 
+githubusername: lusacristan
+interests: Ancient DNA metagenomics
+after:
+country_after: 
+---

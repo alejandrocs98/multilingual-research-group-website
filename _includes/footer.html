@@ -10,7 +10,19 @@
           <p>{{ site.footer2[lang] }} <span class="flag-icon flag-icon-col"></span></p>
         </div>
         <div class="col-sm-4">
-          <p>{{ site.footer3[lang] }}:
+          <p style="text-align: left; margin-bottom: 0px;"> 
+            {% for tongue in site.languages %}
+              {% if tongue == lang %}
+                {% if tongue == site.default_lang %}
+                  <a href="{{ site.url }}{{ site.baseurl }}/contact/">{{ site.footer4[lang] }} <i class="fa fa-paper-plane"></i></a>
+                {% else %}
+                  <a href="{{ site.url }}{{ site.baseurl }}/{{ tongue }}/contact/">{{ site.footer4[lang] }} <i class="fa fa-paper-plane"></i></a>
+                {% endif %}
+              {% endif %}
+            {% endfor %}
+          </p>
+          <p style="text-align: left; margin-bottom: 0px;">
+            {{ site.footer3[lang] }}:
             <a target="_blank" href="https://twitter.com/{{ site.twitter_username }}" class="waves-effect waves-teal btn-flat my-twitter-link" data-tooltip="twitter"><i class="fa fa-twitter"></i></a> |
             <a target="_blank" href="https://github.com/{{ site.github_username }}" class="waves-effect waves-teal btn-flat my-github-link" data-tooltip="github"><i class="fa fa-github"></i></a>
           </p>
