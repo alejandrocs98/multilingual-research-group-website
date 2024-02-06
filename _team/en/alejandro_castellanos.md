@@ -3,7 +3,7 @@ name: Alejandro Castellanos
 country: col
 website: 
 photo: alejandro_castellanos.jpg
-info: Visiting Researcher, Computational Biology
+info: Visiting Researcher
 started: 2018
 ended: 
 email: a.castellanoss@uniandes.edu.co
