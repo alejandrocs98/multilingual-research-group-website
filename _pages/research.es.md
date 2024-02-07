@@ -1,7 +1,7 @@
 ---
 title: "Investigación"
 layout: textlay
-excerpt: "BCEM - Investigación"
+excerpt: "BIOMAC - Investigación"
 sitemap: false
 permalink: research/
 lang: es
@@ -11,7 +11,7 @@ inheader_order: 2
 # Investigación
 
 <!-- <em>"Simplicity is the greatest form of sophistication"</em>  -->
-Trabajamos en diversas áreas de investigación, como ecología microbiana, genómica, genética de poblaciones y biología de sistemas.
+Trabajamos en diversas áreas de investigación, como las enfermedades tropicales, fisiología cuantitativa, políticas públicas y logística en salud.
 
 ---
 #### **Políticas Públicas**
