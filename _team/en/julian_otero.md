@@ -3,7 +3,7 @@ name: Julian Otero Acosta
 country: col
 website: 
 photo: nathalia_portilla.jpg
-info: Research Assistance, TRACE
+info: Research Professional, TRACE
 started: 2022
 ended:  
 number_educ: 2
