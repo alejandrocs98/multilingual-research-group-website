@@ -1,6 +1,6 @@
 # Site settings
-title: BCEM
-email: a.reyes@uniandes.edu.co
+title: BIOMAC
+email: om.santos@uniandes.edu.co
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: ""
 url: ""
@@ -41,19 +41,19 @@ kramdown:
 
 
 # other info
-twitter_username: bcem_uniandes
-github_username:  BCEM-UniAndes
-scholar_username: "hbXF8UEAAAAJ"
-resgate_username: "Alejandro-Reyes-15"
-orcid_username: "0000-0003-2907-3265"
+twitter_username: 
+github_username:  biomac-lab
+scholar_username: 
+resgate_username: 
+orcid_username: 
 publons_username: 
 arxiv_username: 
 biorxiv_username: 
-linkedin_username: "alejandro-reyes-79a5a255"
+linkedin_username: 
 mendeley_username: 
 strava_username: 
 maplocation: uniandes
-author: "Alejandro Reyes"
+author: 
 
 # Map info -> check how to use
 map_latitude: 4.601915
@@ -64,7 +64,7 @@ map_title: 'uniandes'
 #Polyglot -> Multilingual configuration
 langsep: "|"
 languages: ["en", "es"]
-default_lang: "en"
+default_lang: "es"
 exclude_from_localization: ["js", "images", "fonts", "flags", "css"]
 parallel_localization: true
 lang_from_path: true
@@ -78,8 +78,8 @@ langmenu:
 
 # Footer
 footer1:
-  en: 2023 BCEM. Powered by <a href="https://jekyllrb.com">Jekyll</a>
-  es: 2023 BCEM. Impulsado por <a href="https://jekyllrb.com">Jekyll</a>
+  en: 2024 BIOMAC. Powered by <a href="https://jekyllrb.com">Jekyll</a>
+  es: 2024 BIOMAC. Impulsado por <a href="https://jekyllrb.com">Jekyll</a>
 footer2:
   en: We are part of the <a href="https://cienciasbiologicas.uniandes.edu.co">Biological Sciences Department</a> at <a href="https://uniandes.edu.co/">Universidad de los Andes </a> in
   es: Somos parte del <a href="https://cienciasbiologicas.uniandes.edu.co">Departmento de Ciencias Biológicas</a> de la <a href="https://uniandes.edu.co/">Universidad de los Andes </a> en
