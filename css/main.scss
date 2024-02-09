@@ -19,9 +19,37 @@ figcaption {
     margin-bottom: 20px;
 }
 
-
+a {
+    color: #fa0000;
+}
+a:hover{
+    color: #393939;
+}
 
 /* Top navigation bar */
+.navbar {
+	background-color: #3D3D3D;
+}
+.navbar a {
+	color: #ffffff !important;
+}
+.dropdown-menu {
+	background-color: #3D3D3D;
+	a {
+		color: #ffffff !important;
+	}
+  }
+
+// set color of bottom panel, and text
+div.panel-footer {
+	background-color: #3D3D3D;
+  color: #ffffff;
+}
+
+// set color of links
+div.panel-footer a {
+  color: #FFF9C4;
+}
 
 
 p.byline {

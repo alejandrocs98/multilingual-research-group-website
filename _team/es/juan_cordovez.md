@@ -16,7 +16,7 @@ scholarusername: qAcAG5sAAAAJ
 resgateusername: 
 orcidusername: 
 linkedinusername: 
-publonsusername: 
+publonsusername:
 twitterusername: JM_Cordovez
 githubusername:  
 arxivusername: 

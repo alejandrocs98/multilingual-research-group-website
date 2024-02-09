@@ -15,6 +15,7 @@ Trabajamos en diversas áreas de investigación, como las enfermedades tropicale
 
 ---
 #### **Políticas Públicas**
+
 ![]({{ site.url }}{{ site.baseurl }}/images/research/MicEco.png){: style="width: 350px; float: left; margin: 0px  10px"}
 
 En nuestro Grupo de Investigación en Biología Matemática y Computacional, nos enfocamos en proyectos relacionados con Políticas Públicas en diversas áreas. En primer lugar, investigamos la dinámica de la red de contactos locales y la propagación del SARS-CoV-2 en Bogotá, Colombia, mediante modelos híbridos y herramientas de análisis. Asimismo, hemos desarrollado modelos matemáticos para pronosticar la dinámica de la transmisión del COVID-19 entre diferentes ciudades y municipios del país, proporcionando una valiosa herramienta para la gestión y control de la pandemia. Además, hemos dedicado nuestros esfuerzos a investigar la dinámica de adyuvantes de glifosato utilizados en herbicidas para la erradicación de cultivos ilegales en Colombia, analizando su influencia en el medio ambiente. Nuestro objetivo primordial es proporcionar información clave para respaldar la toma de decisiones en políticas de salud pública, y así contribuir al bienestar de la sociedad a través de investigaciones fundamentales y herramientas efectivas.
@@ -29,6 +30,7 @@ En nuestro Grupo de Investigación en Biología Matemática y Computacional, nos
 ---
 
 #### **Fisiología Cuantitativa**
+
 ![]({{ site.url }}{{ site.baseurl }}/images/research/Virus_2.png){: style="width: 250px; float: left; margin: 0px  10px"}
 
 En nuestro Grupo de Investigación en Biología Matemática y Computacional, nos dedicamos a proyectos relacionados con la fisiología humana, exploramos campos como la fisiología pulmonar y la neurofisiología. Utilizando un modelo tridimensional de las vías respiratorias pulmonares, obtenido de tomografías computarizadas (CT), hemos estudiado el flujo de aire en diferentes regiones pulmonares. Estos valores son cruciales como parámetros de entrada para nuestro modelo matemático que visualiza la zonificación del índice V/Q para un intercambio de gases óptimo. Además, en neurofisiología, investigamos cómo los patrones de actividad eléctrica en el cerebro se relacionan con funciones cognitivas y de control motor. Nuestro enfoque multidisciplinario contribuye al conocimiento fundamental en fisiología y neurofisiología, con potenciales aplicaciones clínicas. 
