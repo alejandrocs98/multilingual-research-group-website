@@ -1,16 +1,11 @@
 ---
-name: Daniela Betancurt
+name: Jaime Cascante 
 country: col
 website: 
 photo: 
 info: M.Sc.
 started: 2020
-ended: 2022
-number_educ: 
-education1: 
-education2: 
-education3: 
-education4: 
+ended: 2023
 email: 
 cv: 
 scholarusername: 
@@ -22,7 +17,6 @@ biorxivusername:
 linkedinusername: 
 twitterusername: 
 githubusername:  
-interests:
-after: Estudiante Doctoral @ The Pennsylvania State University
-country_after: usa
+after: 
+country_after: 
 ---

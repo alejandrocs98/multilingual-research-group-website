@@ -10,18 +10,18 @@ inheader_order:
 
 <div style="text-align: left; margin-bottom: 20px;">
 
-![]({{ site.url }}{{ site.baseurl }}/images/bcem_logo_nt.png){: style="width: 155px; float: left; margin: 0px  10px"}
-# Biología Computacional y Ecología Microbiana
+![]({{ site.url }}{{ site.baseurl }}/images/biomac_logo_nt.png){: style="width: 95px; float: left; margin: 0px  10px"}
+# Biología Matemática y Computacional
 
 </div>
 
 <div style="text-align: center; margin-bottom: 0px;">
 
-##### ( _To see the page in english [click here]({{ site.url }}{{ site.baseurl }} ) <span class="flag-icon flag-icon-gbr"></span>_ )
+##### ( _To see the page in english [click here]({{ site.url }}{{ site.baseurl }}/en/ ) <span class="flag-icon flag-icon-gbr"></span>_ )
 
 </div>
 
-[Somos]({{ site.url }}{{ site.baseurl }}/team) un grupo multidisciplinar implicado en el desarrollo de la biología computacional. Trabajamos en diversas áreas de investigación como la ecología microbiana, la genómica, la genética de poblaciones y la biología de sistemas.
+El grupo de investigación en Biología Matemática y Computacional (BIOMAC) de la Universidad de los Andes inició actividades en el año 2010 y ha graduado dos estudiantes doctorales y más de 10 estudiantes de maestría. En este grupo aplicamos herramientas matemáticas y computacionales para modelar sistemas biológicos y afines, por medio de simulaciones de modelos que permiten entender y reproducir comportamientos observados e hipotéticos.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -63,7 +63,7 @@ inheader_order:
 </div>
 
 
-El BCEM es un grupo de investigación basado en principios de excelencia y rigor científico, que garantiza una investigación científica de alta calidad. Nuestros miembros se caracterizan por su pasión y curiosidad científica, así como por su alto nivel de compromiso y disciplina. Como investigadores nos basamos en el respeto mutuo, partiendo de un principio de empatía y solidaridad con el otro, reconociéndonos en nuestra singularidad, es decir, en la diferencia, lo que implica respeto y búsqueda de equidad. <br>
+Realizamos nuestra investigación con base en sistemas dinámicos y capturamos los cambios de variables a través de sistemas de ecuaciones diferenciales, sistemas determinísticos o probabilísticos y sistemas estocásticos. La parametrización de los modelos para nuestros proyectos, se lleva a cabo por medio de trabajo de campo, en el laboratorio o basados en la literatura. Gracias a estos modelos, es posible entender los procesos detrás de procesos complejos que involucran variables biológicas, médicas y sociales: Los modelos y la toma de datos campo son el laboratorio en el BIOMAC. <br>
 
 [He]({{ site.url }}{{ site.baseurl }}/research) aquí una descripción más detallada de nuestros intereses de investigación.
 
