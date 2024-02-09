@@ -1,16 +1,15 @@
 ---
 name: Carlos Bravo Vega
 country: col
-website: 
-photo: carlos_bravo.jpg
-info: Investigador Postdoctoral, Departamento de Ingeniería Biomédica
-started: 2019
-ended:  
+website: https://ingbiomedica.uniandes.edu.co/es/departamento/egresados/doctores-ibio/carlos-bravo
+photo: carlos_bravo.jpeg
+info: Investigador Postdoctoral, Ingeniería Biomédica
+started: 2013
+ended: 
 number_educ: 3
-education1: Ph.D. en Ingeniería Biomédica, Universidad de los Andes, Bogotá, Colombia
+education1: Ph.D. en Ingeniería, Universidad de los Andes, Bogotá, Colombia
 education2: M.Sc. en Ingeniería Biomédica, Universidad de los Andes, Bogotá, Colombia
 education3: B.Sc. en Ingeniería Química, Universidad de los Andes, Bogotá, Colombia
-education4: 
 email: ca.bravo955@uniandes.edu.co
 cv: 
 scholarusername: 
@@ -22,7 +21,7 @@ biorxivusername:
 linkedinusername: 
 twitterusername: 
 githubusername:  
-interests: Fisiología cuantitativa, Epidemiología
-after:
+interests: Accidente ofídico
+after: 
 country_after: 
 ---

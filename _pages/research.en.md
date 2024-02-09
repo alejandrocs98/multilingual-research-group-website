@@ -1,7 +1,7 @@
 ---
 title: "Research"
 layout: textlay
-excerpt: "BCEM - Research"
+excerpt: "BIOMAC - Research"
 sitemap: false
 permalink: research/
 lang: en
@@ -11,41 +11,35 @@ inheader_order: 2
 # Research
 
 <!-- <em>"Simplicity is the greatest form of sophistication"</em>  -->
-We work in diverse research areas such as microbial ecology, genomics, population genetics and systems biology.
+We work in diverse research areas such as tropical diseases, quantitative physiology, public policies and health logistics.
 
 ---
 
-#### **Microbial Ecology**
+#### **Public Policies**
 ![]({{ site.url }}{{ site.baseurl }}/images/research/MicEco.png){: style="width: 350px; float: left; margin: 0px  10px"}
 
-Ecology and microbiology seemed to be concepts that had nothing in common for several decades, and the field of microbial ecology took a long time to emerge and consolidate. This was largely due to the lack of tools and technologies to explore this field. However, with the development of technologies, algorithms and methodologies that allow the simultaneous study of all (micro)organisms present in an environment at a specific time, in the last decade it has been possible to study microorganisms and their interactions together in what is now known as meta-omics sciences.
+In our Research Group in Mathematical and Computational Biology, we focus on projects related to Public Policies in various areas. First, we investigate the dynamics of the local contact network and the spread of SARS-CoV-2 in Bogotá, Colombia, using hybrid models and analysis tools. Additionally, we have developed mathematical models to forecast the dynamics of COVID-19 transmission among different cities and municipalities in the country, providing a valuable tool for pandemic management and control. Furthermore, we have dedicated our efforts to researching the dynamics of glyphosate adjuvants used in herbicides for the eradication of illegal crops in Colombia, analyzing their impact on the environment. Our primary goal is to provide key information to support decision-making in public health policies and contribute to societal well-being through fundamental research and effective tools.
 
-Initially metagenomics allowed us to access the composition and genetic potential of environments, later transcriptomics allowed us to approach gene expression in those environments and now with proteomics and metabolomics we can begin to understand the different interactions between members of a community. However, all these techniques have developed quite rapidly and the technologies and algorithms for the analysis and interpretation of these data have evolved more in response to the particular needs of research groups than in a rational thinking to optimize the use of data and resources, taking advantage of the advances in computing capabilities that are currently available.
-
-[[Frontiers in Microbiology, 2022](https://www.frontiersin.org/articles/10.3389/fmicb.2022.813002/full)]
-[[Microbiome, 2021](https://link.springer.com/article/10.1186/s40168-021-01043-8)]
-[[Nutrients, 2020](https://www.mdpi.com/2072-6643/12/10/2938)]
-  
 ---
 
-#### **Ecological virus-host relationships in the human gut**
+#### **Tropical diseases**
 ![]({{ site.url }}{{ site.baseurl }}/images/research/Nature_Cover_2010.jpg){: style="width: 300px; float: right; margin: 0px  10px"}
 
-The human gut microbiota is the set of all organisms living in the human gastrointestinal tract. This amazingly diverse community is composed of the 3 domains of life and their respective viruses. Since the emergence of molecular techniques for the study of microbial communities, the gut microbiota has been a major target of study and large consortia such as the HMP in the USA and MetaHIT in Europe have devoted a great deal of resources to characterize these communities. However, the major effort to study these communities has been made on their prokaryotic component ignoring for the most part the viral component. In fact, this component may be greater in number and diversity than the bacterial component itself. Viruses are present in any environment where a potential host is found and their predation dynamics, lytic or lysogenic cycles can have important consequences on the dynamics and behavior of the community in general. The study and characterization of the relationships between viruses (with bacterial or eukaryotic hosts) and their diverse implications in the community and therefore their consequences in the health of the human host, are an important objective of the group's research.
-
-[[iScience, 2023](https://www.cell.com/iscience/fulltext/S2589-0042(23)00084-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2589004223000846%3Fshowall%3Dtrue)]
-[[Scientific Reports, 2022](https://www.nature.com/articles/s41598-021-04679-6)]
+In our Research Group in Mathematical and Computational Biology, we are dedicated to projects related to Tropical Diseases, focusing on Dengue, Zika, and Chikungunya transmitted by the Aedes aegypti mosquito. We study the dynamics of water storage in households and its impact on mosquito reproduction, as well as demographic, socioeconomic, climatic, and regional factors that influence the spread of these diseases. Additionally, we investigate the antigenic and genetic evolution of Dengue and the interactions among humans, mosquitoes, and the environment. Furthermore, we address diseases transmitted by other vectors such as Anopheles spp and hemipterans, researching Malaria and Chagas Disease in specific contexts such as mining and particular climatic regions. Our multidisciplinary approach allows us to gain comprehensive perspectives for the control and prevention of these diseases, thus contributing to the well-being of affected communities and the advancement of scientific knowledge in this field.
 
 ---
 
-#### **Characterization of virome and viral genomes**
+#### **Quantitative Physiology**
 ![]({{ site.url }}{{ site.baseurl }}/images/research/Virus_2.png){: style="width: 250px; float: left; margin: 0px  10px"}
 
-With the emergence of new DNA sequencing techniques, the study of different environmental viral communities has been boosted, which has led us to realize that we know less than 1% of the global viral diversity. It is common in the different studies carried out on viral communities that the vast majority (80% on average) of the data remain unanalyzed because they do not have significant similarity to reference viruses (being the comparison with reference databases the main tool for analysis). Although massive sequencing techniques have boosted the number of (short) sequences of viral origin deposited in databases, sequencing of complete viral genomes has been limited, causing reference databases to stagnate in size. This makes it imperative to develop bioinformatics tools that allow us to better discover and characterize this viral diversity and unravel the full potential that these genomes are encoding. An important line of research in the group is to develop such tools adapted to modern sequencing technologies and state-of-the-art computational tools currently available.
+In our Research Group in Mathematical and Computational Biology, we engage in projects related to human physiology, exploring fields such as pulmonary physiology and neurophysiology. Using a three-dimensional model of the pulmonary airways derived from computed tomography (CT) scans, we have studied airflow in different lung regions. These values are crucial as input parameters for our mathematical model that visualizes the zonation of the V/Q ratio for optimal gas exchange. Furthermore, in neurophysiology, we investigate how patterns of electrical activity in the brain relate to cognitive and motor control functions. Our multidisciplinary approach contributes to fundamental knowledge in physiology and neurophysiology, with potential clinical applications.
 
-[[Viruses, 2023](https://www.mdpi.com/1999-4915/15/2/519)]
-[[mSystems, 2022](https://journals.asm.org/doi/full/10.1128/msystems.00326-22)]
-[[Viruses, 2021](https://www.mdpi.com/1999-4915/13/6/1164)]
+
+#### **Health Logistics**
+![]({{ site.url }}{{ site.baseurl }}/images/research/Virus_2.png){: style="width: 250px; float: left; margin: 0px  10px"}
+
+In our Research Group in Mathematical and Computational Biology, we focus on projects related to Health Logistics. We address the issue of poisoning caused by snakebites (Ophidian Accident) and seek to implement prevention and control strategies. Additionally, we investigate organ allocation for transplantation using a stochastic agent-based model with the goal of proposing more effective allocation schemes. Furthermore, we explore oncolytic virotherapy as an innovative alternative in cancer treatment, utilizing mathematical models to understand the dynamics of interaction between cancer cells and the myxoma virus. For this project, we collaborate with the Center for Immunotherapy, Vaccinology, and Virotherapy at the Institute for Biodesign at Arizona State University (ASU) to contribute to the improvement of health logistics and the well-being of society.
+
 
 <!-- <div style="text-align: justify">
 
