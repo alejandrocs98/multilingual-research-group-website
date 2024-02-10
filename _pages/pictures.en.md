@@ -39,22 +39,4 @@ inheader_order: 5
 </div>
 {% endif %}
 
----
-
-## BCEM along the years
-
-{% for pic in site.data.pictures_gens %}
-
-<div class="row">
-
-<h3>{{pic.year}}</h3>
-
-<div class="col-sm-12 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/gens/{{ pic.image }}" class="img-responsive" width="100%" style="float: left" />
-</div>
-
-</div>
-
-{% endfor %}
-
 <p> &nbsp; </p>

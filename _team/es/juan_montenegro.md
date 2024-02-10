@@ -18,9 +18,9 @@ publonsusername:
 arxivusername: 
 biorxivusername: 
 linkedinusername: jmontenegrot
-twitterusername: @JuanMonTorres
-githubusername:  @Juanmontenegro99
+twitterusername: JuanMonTorres
+githubusername:  Juanmontenegro99
 interests: Predicción epidemiológica a través de machine learning.
 after: 
-country_after: 
+country_after: col
 ---

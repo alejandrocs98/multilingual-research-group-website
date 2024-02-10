@@ -37,16 +37,16 @@ El grupo de investigación en Biología Matemática y Computacional (BIOMAC) de 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslides/2023-1-Pic-29.jpg" alt="Slide 1" width="100%" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslides/snake-in-a-grass-area.jpg" alt="Slide 1" width="100%" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslides/Nature_Cover_2010.png" alt="Slide 2" width="100%" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslides/The-Na-K-ATPase-is-suggested-to-work-in-concert-with-the-glutamate-transporter_W640.jpg" alt="Slide 2" width="100%" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslides/Virus_1.png" alt="Slide 3" width="100%" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslides/web_1_258.png" alt="Slide 3" width="100%" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslides/MG_9700.jpg" alt="Slide 4" width="100%" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslides/img_0616.jpg" alt="Slide 4" width="100%" />
         </div>
         <!-- <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/homeslides/Fig_Science_Web.jpg" alt="Slide 5" width="100%" />
@@ -69,7 +69,7 @@ Realizamos nuestra investigación con base en sistemas dinámicos y capturamos l
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Uniandes.png" style="width: 225px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_DCB.png" style="width: 175px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cabana.thumbnail" style="width: 225px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Uniandes.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/harmonize.png" style="width: 225px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-tracelac.png" style="width: 200px">
 </figure>

@@ -1,6 +1,6 @@
 ---
 name: Juan Manuel Cordovez
-photo: BCEM-22.jpg
+photo: juan_cordovez.jpg
 country: col
 website: https://ingbiomedica.uniandes.edu.co/departamento/nuestro-equipo/profesores-planta/juan-manuel-cordovez
 info: Profesor Asociado, Departamento de Ingeniería Biomédica
