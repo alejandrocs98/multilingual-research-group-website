@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 layout: textlay
-excerpt: "BCEM - Contact"
+excerpt: "BIOMAC - Contact"
 sitemap: false
 permalink: contact/
 lang: en
@@ -13,12 +13,11 @@ inheader_order:
 
 <br>
 
-<i class="fa fa-map-marker"></i> 
-Universidad de los Andes <br>
-Hermes Building, Office 201 <br>
+<i class="fa fa-map-marker"></i> Universidad de los Andes <br>
 Cra 1 Nº 18A - 10, Bogotá, Colombia <br>
+<i class="fa fa-building"></i> Building J, Office 211 <br>
 
-<i class="fa fa-envelope-o"></i> a.reyes[at]uniandes.edu.co
+<i class="fa fa-envelope-o"></i> om.santos[at]uniandes.edu.co
 
 <i class="fa fa-phone"></i> +(601) 339 49 99
 

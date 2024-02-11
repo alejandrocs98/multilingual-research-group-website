@@ -1,7 +1,7 @@
 ---
 title: "(Pics)"
 layout: piclay
-excerpt: "BCEM - Pics"
+excerpt: "BIOMAC - Pics"
 sitemap: false
 permalink: pictures/
 lang: en

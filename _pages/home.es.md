@@ -1,7 +1,7 @@
 ---
 title: "Inicio"
 layout: homelay
-excerpt: "BCEM - Inicio"
+excerpt: "BIOMAC - Inicio"
 sitemap: false
 permalink: /
 lang: es

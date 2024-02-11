@@ -1,7 +1,7 @@
 ---
 title: "Vacantes"
 layout: textlay
-excerpt: "BCEM - Vacantes"
+excerpt: "BIOMAC - Vacantes"
 sitemap: false
 permalink: vacancies/
 lang: es

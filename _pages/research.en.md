@@ -34,6 +34,9 @@ In our Research Group in Mathematical and Computational Biology, we are dedicate
 
 In our Research Group in Mathematical and Computational Biology, we engage in projects related to human physiology, exploring fields such as pulmonary physiology and neurophysiology. Using a three-dimensional model of the pulmonary airways derived from computed tomography (CT) scans, we have studied airflow in different lung regions. These values are crucial as input parameters for our mathematical model that visualizes the zonation of the V/Q ratio for optimal gas exchange. Furthermore, in neurophysiology, we investigate how patterns of electrical activity in the brain relate to cognitive and motor control functions. Our multidisciplinary approach contributes to fundamental knowledge in physiology and neurophysiology, with potential clinical applications.
 
+<br>
+
+---
 
 #### **Health Logistics**
 ![]({{ site.url }}{{ site.baseurl }}/images/research/LdI_Politicas_Publicas.jpg){: style="width: 350px; float: right; margin: 0px  10px"}

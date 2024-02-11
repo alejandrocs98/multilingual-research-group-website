@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "BCEM - News"
+excerpt: "BIOMAC - News"
 sitemap: false
 permalink: allnews/
 lang: en

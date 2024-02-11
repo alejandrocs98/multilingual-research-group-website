@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 layout: gridlay
-excerpt: "BCEM - Publications"
+excerpt: "BIOMAC - Publications"
 sitemap: false
 permalink: publications/
 lang: en

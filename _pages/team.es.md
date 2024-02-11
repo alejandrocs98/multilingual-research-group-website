@@ -1,7 +1,7 @@
 ---
 title: "Equipo"
 layout: gridlay
-excerpt: "BCEM - Equipo"
+excerpt: "BIOMAC - Equipo"
 sitemap: false
 permalink: team/
 lang: es
