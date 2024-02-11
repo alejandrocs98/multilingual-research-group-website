@@ -1,1351 +1,1223 @@
 - ENTRYTYPE: article
-  ID: villabona_conserved_2023
-  author: N Villabona, N Moran, T Hammer, A Reyes
-  doi: 10.1128/msphere.00139-23
-  journal: mSphere
-  month: October
-  number: '6'
-  pages: e00139--23
-  title: Conserved, yet disruption-prone, gut microbiomes in neotropical bumblebees
-  url: https://journals.asm.org/doi/full/10.1128/msphere.00139-23
-  urldate: '2024-01-22'
-  volume: '8'
-  year: 2023
-- ENTRYTYPE: article
-  ID: adriaenssens_guidelines_2023
-  author: EM Adriaenssens, S Roux, JR Brister, I Karsch-Mizrachi, JH Kuhn, A Varsani,
-    T Yigang, A Reyes, C Lood, EJ Lefkowitz, MB Sullivan, RA Edwards, P Simmonds,
-    L Rubino, S Sabanadzovic, M Krupovic, BE Dutilh
-  copyright: 2023 This is a U.S. Government work and not under copyright protection
-    in the US; foreign copyright protection may apply
-  doi: 10.1038/s41587-023-01844-2
-  issn: 1546-1696
-  journal: Nature Biotechnology
-  keywords: Metagenomics, Genetic databases
-  language: en
-  month: July
-  number: '7'
-  pages: 898--902
-  title: Guidelines for public database submission of uncultivated virus genome sequences
-    for taxonomic classification
-  url: https://www.nature.com/articles/s41587-023-01844-2
-  urldate: '2024-01-22'
-  volume: '41'
-  year: 2023
-- ENTRYTYPE: article
-  ID: rangel-pineros_virify_2023
-  author: "G Rangel-Pineros, A Almeida, M Beracochea, E Sakharova, M Marz, AR Mu\xF1\
-    oz, M H\xF6lzer, RD Finn"
-  doi: 10.1371/journal.pcbi.1011422
-  issn: 1553-7358
-  journal: PLOS Computational Biology
-  keywords: Metagenomics, Genome annotation, Taxonomy, Bacteriophages, Eukaryota,
-    Hidden Markov models, Viral genomics, Viral taxonomy
-  language: en
-  month: August
-  number: '8'
-  pages: e1011422
-  shorttitle: '{VIRify}'
-  title: 'VIRify: An integrated detection, annotation and taxonomic classification
-    pipeline using virus-specific protein profile hidden Markov models'
-  url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011422
-  urldate: '2024-01-22'
-  volume: '19'
-  year: 2023
-- ENTRYTYPE: article
-  ID: perez-quintero_comparative_2023
-  author: "AL P\xE9rez-Quintero, LM Rodriguez-R, S Cuesta-Morrondo, E Hakalov\xE1\
-    , D Betancurt-Anzola, LCC Valera, LAC Cardenas, L Matiz-C\xE9ron, JM Jacobs, V\
-    \ Roman-Reyna, AR Mu\xF1oz, AJB Giraldo, R Koebnik"
-  doi: 10.1094/PHYTO-12-22-0477-SC
-  issn: 0031-949X
-  journal: "Phytopathology\xAE"
-  keywords: evolution, bacterial blight, cotton, genome sequencing, phylogenomic analysis,
-    resistance, TAL effector, Xanthomonas
-  month: August
-  number: '8'
-  pages: 1387--1393
-  title: Comparative Genomics Identifies Conserved and Variable TAL Effectors in African
-    Strains of the Cotton Pathogen Xanthomonas citri pv. malvacearum
-  url: https://apsjournals.apsnet.org/doi/abs/10.1094/PHYTO-12-22-0477-SC
-  urldate: '2024-01-22'
-  volume: '113'
-  year: 2023
-- ENTRYTYPE: article
-  ID: castellanos_genomic_2023
-  author: "A Castellanos, L Restrepo, L Baja\xF1a, I Betancourt, B Bayot, A Reyes"
-  doi: 10.1128/spectrum.04851-22
-  journal: Microbiology Spectrum
-  month: June
-  number: '4'
-  pages: e04851--22
-  title: Genomic and Evolutionary Features of Nine AHPND Positive Vibrio parahaemolyticus
-    Strains Isolated from South American Shrimp Farms
-  url: https://journals.asm.org/doi/full/10.1128/spectrum.04851-22
-  urldate: '2024-01-22'
-  volume: '11'
-  year: 2023
-- ENTRYTYPE: article
-  ID: sutcliffe_bacteriophages_2023
-  author: SG Sutcliffe, A Reyes, CF Maurice
-  doi: 10.1016/j.isci.2023.106007
-  issn: 2589-0042
-  journal: iScience
-  keywords: Microbiome, Microbiology, Virology
+  ID: santos-vega_quantifying_2023
+  author: M Santos-Vega, R Lowe, L Anselin, V Desai, KG Vaishnav, A Naik, M Pascual
+  doi: 10.1016/S2542-5196(23)00249-8
+  issn: 2542-5196
+  journal: The Lancet Planetary Health
   language: English
-  month: February
-  number: '2'
-  pmid: '36798434'
-  shorttitle: Bacteriophages playing nice
-  title: 'Bacteriophages playing nice: Lysogenic bacteriophage replication stable
-    in the human gut microbiota'
-  url: https://www.cell.com/iscience/abstract/S2589-0042(23)00084-6
-  urldate: '2024-01-22'
-  volume: '26'
-  year: 2023
-- ENTRYTYPE: article
-  ID: oliveira_rational_2023
-  author: LS Oliveira, A Reyes, BE Dutilh, A Gruber
-  copyright: http://creativecommons.org/licenses/by/3.0/
-  doi: 10.3390/v15020519
-  issn: 1999-4915
-  journal: Viruses
-  keywords: mutual information theory, profile HMMs, sequence classes, sequence entropy,
-    viral classification, viral detection
-  language: en
-  month: February
-  number: '2'
-  pages: '519'
-  title: Rational Design of Profile HMMs for Sensitive and Specific Sequence Detection
-    with Case Studies Applied to Viruses, Bacteriophages, and Casposons
-  url: https://www.mdpi.com/1999-4915/15/2/519
-  urldate: '2024-01-22'
-  volume: '15'
-  year: 2023
-- ENTRYTYPE: article
-  ID: simmonds_four_2023
-  author: "P Simmonds, EM Adriaenssens, FM Zerbini, NGA Abrescia, P Aiewsakun, P Alfenas-Zerbini,\
-    \ Y Bao, J Barylski, C Drosten, S Duffy, WP Duprex, BE Dutilh, SF Elena, ML Garc\xED\
-    a, S Junglen, A Katzourakis, EV Koonin, M Krupovic, JH Kuhn, AJ Lambert, EJ Lefkowitz,\
-    \ M \u0141obocka, C Lood, J Mahony, JP Meier-Kolthoff, AR Mushegian, HM Oksanen,\
-    \ MM Poranen, A Reyes-Mu\xF1oz, DL Robertson, S Roux, L Rubino, S Sabanadzovic,\
-    \ S Siddell, T Skern, DB Smith, MB Sullivan, N Suzuki, D Turner, KV Doorslaer,\
-    \ A Vandamme, A Varsani, N Vasilakis"
-  doi: 10.1371/journal.pbio.3001922
-  issn: 1545-7885
-  journal: PLOS Biology
-  keywords: Phylogenetics, Evolutionary genetics, Taxonomy, Viral evolution, Viral
-    genomics, Viral taxonomy, Evolutionary systematics, RNA viruses
-  language: en
-  month: February
-  number: '2'
-  pages: e3001922
-  title: Four principles to establish a universal virus taxonomy
-  url: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001922
-  urldate: '2024-01-22'
-  volume: '21'
-  year: 2023
-- ENTRYTYPE: article
-  ID: turner_abolishment_2023
-  author: "D Turner, AN Shkoporov, C Lood, AD Millard, BE Dutilh, P Alfenas-Zerbini,\
-    \ LJ van Zyl, RK Aziz, HM Oksanen, MM Poranen, AM Kropinski, J Barylski, JR Brister,\
-    \ N Chanisvili, RA Edwards, F Enault, A Gillis, P Knezevic, M Krupovic, I Kurtb\xF6\
-    ke, A Kushkina, R Lavigne, S Lehman, M Lobocka, C Moraru, A Moreno Switt, V Morozova,\
-    \ J Nakavuma, A Reyes Mu\xF1oz, J R\u016Bmnieks, B Sarkar, MB Sullivan, J Uchiyama,\
-    \ J Wittmann, T Yigang, EM Adriaenssens"
-  doi: 10.1007/s00705-022-05694-2
-  issn: 1432-8798
-  journal: Archives of Virology
-  language: en
-  month: January
-  number: '2'
-  pages: '74'
-  shorttitle: Abolishment of morphology-based taxa and change to binomial species
-    names
-  title: 'Abolishment of morphology-based taxa and change to binomial species names:
-    2022 taxonomy update of the ICTV bacterial viruses subcommittee'
-  url: https://doi.org/10.1007/s00705-022-05694-2
-  urldate: '2024-01-22'
-  volume: '168'
-  year: 2023
-- ENTRYTYPE: article
-  ID: lopez-leal_mining_2022
-  author: "G L\xF3pez-Leal, LC Camelo-Valera, JM Hurtado-Ram\xEDrez, J Verleyen, S\
-    \ Castillo-Ram\xEDrez, A Reyes-Mu\xF1oz"
-  doi: 10.1128/msystems.00326-22
-  journal: mSystems
-  month: July
-  number: '4'
-  pages: e00326--22
-  title: Mining of Thousands of Prokaryotic Genomes Reveals High Abundance of Prophages
-    with a Strictly Narrow Host Range
-  url: https://journals.asm.org/doi/full/10.1128/msystems.00326-22
-  urldate: '2024-01-22'
+  month: December
+  number: '12'
+  pages: e985--e998
+  pmid: '38056969'
+  shorttitle: Quantifying climatic and socioeconomic drivers of urban malaria in {Surat},
+    {India}
+  title: 'Quantifying climatic and socioeconomic drivers of urban malaria in Surat,
+    India: a statistical spatiotemporal modelling study'
+  url: https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(23)00249-8/fulltext
+  urldate: '2024-01-23'
   volume: '7'
-  year: 2022
+  year: 2023
 - ENTRYTYPE: article
-  ID: andrade-martinez_computational_2022
-  author: "JS Andrade-Mart\xEDnez, LC Camelo Valera, LA Chica C\xE1rdenas, L Forero-Junco,\
-    \ G L\xF3pez-Leal, JL Moreno-Gallego, G Rangel-Pineros, A Reyes"
-  doi: 10.1128/mmbr.00004-21
-  journal: Microbiology and Molecular Biology Reviews
-  month: March
+  ID: romeo-aznar_crowded_2023
+  author: V Romeo-Aznar, M Santos-Vega, O Telle, R Paul, M Pascual
+  copyright: CC BY Attribution 4.0 International
+  language: en
+  month: June
+  shorttitle: Crowded and warmer
+  title: 'Crowded and warmer: unequal dengue risk at high spatial resolution across
+    a megacity of India'
+  url: https://eartharxiv.org/repository/view/5472/
+  urldate: '2024-01-23'
+  year: 2023
+- ENTRYTYPE: article
+  ID: bravo-vega_generalized_2023
+  author: "C Bravo-Vega, C Renjifo-Iba\xF1ez, M Santos-Vega, LJL Nu\xF1ez, T Angarita-Sierra,\
+    \ JM Cordovez"
+  doi: 10.1371/journal.pntd.0011117
+  issn: 1935-2735
+  journal: PLOS Neglected Tropical Diseases
+  keywords: Ecological niches, Epidemiology, Colombia, Ecological risk, Medical risk
+    factors, Public and occupational health, Snakebite, Snakes
+  language: en
+  month: February
   number: '2'
-  pages: e00004--21
-  title: Computational Tools for the Analysis of Uncultivated Phage Genomes
-  url: https://journals.asm.org/doi/full/10.1128/mmbr.00004-21
-  urldate: '2024-01-22'
-  volume: '86'
-  year: 2022
-- ENTRYTYPE: article
-  ID: moore_ten_2021
-  author: "B Moore, P Carvajal-L\xF3pez, PA Chauke, M Cristancho, VDD Angel, SL Fernandez-Valverde,\
-    \ A Ghouila, P Gopalasingam, FZ Guerfali, A Matimba, SL Morgan, G Oliveira, V\
-    \ Ras, A Reyes, JDL Rivas, N Mulder"
-  doi: 10.1371/journal.pcbi.1009218
-  issn: 1553-7358
-  journal: PLOS Computational Biology
-  keywords: Computer software, Workshops, Bioinformatics, Culture, Sustainability
-    science, Human learning, Instructors, Low and middle income countries
-  language: en
-  month: August
-  number: '8'
-  pages: e1009218
-  title: Ten simple rules for organizing a bioinformatics training course in low-
-    and middle-income countries
-  url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009218
-  urldate: '2024-01-22'
+  pages: e0011117
+  shorttitle: A generalized framework for estimating snakebite underreporting using
+    statistical models
+  title: 'A generalized framework for estimating snakebite underreporting using statistical
+    models: A study in Colombia'
+  url: https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011117
+  urldate: '2024-01-23'
   volume: '17'
-  year: 2021
+  year: 2023
 - ENTRYTYPE: article
-  ID: pena_gonzalez_analysis_2022
-  author: "A Pe\xF1a Gonz\xE1lez, A Reyes Mu\xF1oz"
-  copyright: http://creativecommons.org/licenses/by/4.0/
-  doi: 10.7490/f1000research.1118938.1
-  journal: F1000Research
-  language: en
-  month: April
-  number: '401'
-  pages: '401'
-  title: Analysis and exploration of microbial traits in a wet coffee fermentation
-    experiment using MGnify
-  url: https://f1000research.com/documents/11-401
-  urldate: '2024-01-22'
-  volume: '11'
-  year: 2022
-- ENTRYTYPE: article
-  ID: hernandez_functional_2022
-  author: "R Hern\xE1ndez, M Chaib De Mares, H Jimenez, A Reyes, A Caro-Quintero"
-  doi: 10.3389/fmicb.2022.813002
-  issn: 1664-302X
-  journal: Frontiers in Microbiology
-  title: Functional and Phylogenetic Characterization of Bacteria in Bovine Rumen
-    Using Fractionation of Ruminal Fluid
-  url: https://www.frontiersin.org/articles/10.3389/fmicb.2022.813002
-  urldate: '2024-01-22'
-  volume: '13'
-  year: 2022
-- ENTRYTYPE: article
-  ID: matiz-ceron_taxonomical_2022
-  author: L Matiz-Ceron, A Reyes, J Anzola
-  doi: 10.3389/fpls.2021.782663
-  issn: 1664-462X
-  journal: Frontiers in Plant Science
-  title: Taxonomical Evaluation of Plant Chloroplastic Markers by Bayesian Classifier
-  url: https://www.frontiersin.org/articles/10.3389/fpls.2021.782663
-  urldate: '2024-01-22'
-  volume: '12'
-  year: 2022
-- ENTRYTYPE: article
-  ID: clavijo_gut_2022
-  author: "V Clavijo, T Morales, MJ Vives-Flores, A Reyes Mu\xF1oz"
-  copyright: 2022 The Author(s)
-  doi: 10.1038/s41598-021-04679-6
-  issn: 2045-2322
-  journal: Scientific Reports
-  keywords: Microbiome, Metagenomics, Bacteriophages
-  language: en
-  month: January
-  number: '1'
-  pages: '991'
-  title: The gut microbiota of chickens in a commercial farm treated with a Salmonella
-    phage cocktail
-  url: https://www.nature.com/articles/s41598-021-04679-6
-  urldate: '2024-01-22'
-  volume: '12'
-  year: 2022
-- ENTRYTYPE: incollection
-  ID: adriaenssens_taxonomy_2022
-  author: E Adriaenssens, AM Kropinski, T D, M Krupovic, A Millard, BE Dutilh, HM
-    Oksanen, C Lood, A Reyes, C Moraru, RK Aziz, T Yigang, J Barylski, M Lobocka,
-    BL Sarkar, A Gillis, LJ van Zyl, SM Lehman, MB Sullivan, J Wittmann, AI Kushkina,
-    P Knezevic, JR Brister, RA Edwards, I Kurtboke, M Poranen, R Lavigne, AN Shkoporov,
-    J Uchiyama, AI Moreno Switt, F Enault
-  booktitle: '{ICTV} {Online}: {International} {Committee} on {Taxonomy} of {Viruses}
-    ({ICTV})'
-  keywords: 11832 Microbiology and virology
-  publisher: International Committee on Taxonomy of Viruses (ICTV)
-  shorttitle: Taxonomy proposal 2021
-  title: 'Taxonomy proposal 2021: Abolish the order Caudovirales and the families
-    Myoviridae, Siphoviridae and Podoviridae (Caudoviricetes)'
-  year: 2022
-- ENTRYTYPE: article
-  ID: varunjikar_comparing_2022
-  author: MS Varunjikar, C Moreno-Ibarguen, JS Andrade-Martinez, H Tung, I Belghit,
-    M Palmblad, PA Olsvik, A Reyes, JD Rasinger, KK Lie
-  doi: 10.1016/j.foodcont.2021.108417
-  issn: 0956-7135
-  journal: Food Control
-  keywords: Seafood, Authentication, DNA-Sequencing, Fish, Food fraud, Mislabelling,
-    Spectral library
-  month: January
-  pages: '108417'
-  title: Comparing novel shotgun DNA sequencing and state-of-the-art proteomics approaches
-    for authentication of fish species in mixed samples
-  url: https://www.sciencedirect.com/science/article/pii/S0956713521005557
-  urldate: '2024-01-22'
-  volume: '131'
-  year: 2022
-- ENTRYTYPE: article
-  ID: rangel-pineros_trees_2021
-  author: "G Rangel-Pineros, A Millard, S Michniewski, D Scanlan, K Sir\xE9n, A Reyes,\
-    \ B Petersen, MR Clokie, T Sicheritz-Pont\xE9n"
-  doi: 10.1089/phage.2021.0008
-  issn: 2641-6530
-  journal: PHAGE
-  keywords: comparative genomics, genomic graph database, phage genomics
-  month: December
-  number: '4'
-  pages: 194--203
-  shorttitle: From {Trees} to {Clouds}
-  title: "From Trees to Clouds: PhageClouds for Fast Comparison of \u223C640,000 Phage\
-    \ Genomic Sequences and Host-Centric Visualization Using Genomic Network Graphs"
-  url: https://www.liebertpub.com/doi/full/10.1089/phage.2021.0008
-  urldate: '2024-01-22'
-  volume: '2'
-  year: 2021
-- ENTRYTYPE: article
-  ID: dutilh_perspective_2021
-  author: "BE Dutilh, A Varsani, Y Tong, P Simmonds, S Sabanadzovic, L Rubino, S Roux,\
-    \ AR Mu\xF1oz, C Lood, EJ Lefkowitz, JH Kuhn, M Krupovic, RA Edwards, JR Brister,\
-    \ EM Adriaenssens, MB Sullivan"
-  doi: 10.1016/j.coviro.2021.10.011
-  issn: 1879-6257
-  journal: Current Opinion in Virology
-  month: December
-  pages: 207--215
-  title: Perspective on taxonomic classification of uncultivated viruses
-  url: https://www.sciencedirect.com/science/article/pii/S1879625721001334
-  urldate: '2024-01-22'
-  volume: '51'
-  year: 2021
-- ENTRYTYPE: article
-  ID: restrepo_microbial_2021
-  author: "L Restrepo, C Dom\xEDnguez-Borbor, L Baja\xF1a, I Betancourt, J Rodr\xED\
-    guez, B Bayot, A Reyes"
-  doi: 10.1186/s40168-021-01043-8
-  issn: 2049-2618
-  journal: Microbiome
-  keywords: Microbiome, Metagenomics, Comparative genomics, Probiotics, Acute hepatopancreatic
-    necrosis disease (AHPND), Horizontal gene transfer (HGT), Vibrio diabolicus
-  language: en
-  month: April
-  number: '1'
-  pages: '88'
-  title: Microbial community characterization of shrimp survivors to AHPND challenge
-    test treated with an effective shrimp probiotic (Vibrio diabolicus)
-  url: https://doi.org/10.1186/s40168-021-01043-8
-  urldate: '2024-01-22'
-  volume: '9'
-  year: 2021
-- ENTRYTYPE: article
-  ID: ayala-usma_whole_2021
-  author: "DA Ayala-Usma, M C\xE1rdenas, R Guyot, MCD Mares, A Bernal, AR Mu\xF1oz,\
-    \ S Restrepo"
-  doi: 10.1186/s12864-021-08079-y
-  issn: 1471-2164
-  journal: BMC Genomics
-  language: en
-  month: November
-  number: '1'
-  pages: '795'
-  title: A whole genome duplication drives the genome evolution of Phytophthora betacei,
-    a closely related species to Phytophthora infestans
-  url: https://doi.org/10.1186/s12864-021-08079-y
-  urldate: '2024-01-22'
-  volume: '22'
-  year: 2021
-- ENTRYTYPE: article
-  ID: krupovic_bacterial_2021
-  author: "M Krupovic, D Turner, V Morozova, M Dyall-Smith, HM Oksanen, R Edwards,\
-    \ BE Dutilh, SM Lehman, A Reyes, DP Baquero, MB Sullivan, J Uchiyama, J Nakavuma,\
-    \ J Barylski, MJ Young, S Du, P Alfenas-Zerbini, A Kushkina, AM Kropinski, I Kurtb\xF6\
-    ke, JR Brister, C Lood, BL Sarkar, T Yigang, Y Liu, L Huang, J Wittmann, N Chanishvili,\
-    \ LJ van Zyl, J Rumnieks, T Mochizuki, M Jalasvuori, RK Aziz, M \u0141obocka,\
-    \ KM Stedman, AN Shkoporov, A Gillis, X Peng, F Enault, P Knezevic, R Lavigne,\
-    \ S Rhee, V Cvirkaite-Krupovic, C Moraru, AI Moreno Switt, MM Poranen, A Millard,\
-    \ D Prangishvili, EM Adriaenssens"
-  doi: 10.1007/s00705-021-05205-9
-  issn: 1432-8798
-  journal: Archives of Virology
+  ID: kache_bridging_2022
+  author: PA Kache, M Santos-Vega, AM Stewart-Ibarra, EM Cook, KC Seto, MA Diuk-Wasser
+  copyright: 2022 Springer Nature Limited
+  doi: 10.1038/s41559-022-01876-y
+  issn: 2397-334X
+  journal: Nature Ecology \& Evolution
+  keywords: Epidemiology, Health sciences, Urban ecology
   language: en
   month: November
   number: '11'
-  pages: 3239--3244
-  shorttitle: Bacterial {Viruses} {Subcommittee} and {Archaeal} {Viruses} {Subcommittee}
-    of the {ICTV}
-  title: 'Bacterial Viruses Subcommittee and Archaeal Viruses Subcommittee of the
-    ICTV: update of taxonomy changes in 2021'
-  url: https://doi.org/10.1007/s00705-021-05205-9
-  urldate: '2024-01-22'
-  volume: '166'
-  year: 2021
-- ENTRYTYPE: article
-  ID: pena_gonzalez_practical_2021
-  author: "A Pe\xF1a Gonz\xE1lez, A Reyes Mu\xF1oz, A Madrigal Leiva"
-  copyright: http://creativecommons.org/licenses/by/4.0/
-  doi: 10.7490/f1000research.1118763.1
-  journal: F1000Research
-  language: en
-  month: August
-  number: '861'
-  pages: '861'
-  shorttitle: '{\textless}p{\textgreater}{Practical} metagenomics'
-  title: 'Practical metagenomics: The Study of human gut microbiome in health and
-    disease: Applications in Acute Diarrheal Diseases (ADD)'
-  url: https://f1000research.com/documents/10-861
-  urldate: '2024-01-22'
-  volume: '10'
-  year: 2021
-- ENTRYTYPE: article
-  ID: vasquez_non-extensive_2021
-  author: "AF V\xE1squez, A Reyes Mu\xF1oz, J Duitama, A Gonz\xE1lez Barrios"
-  doi: 10.3389/fchem.2021.700802
-  issn: 2296-2646
-  journal: Frontiers in Chemistry
-  title: Non-Extensive Fragmentation of Natural Products and Pharmacophore-Based Virtual
-    Screening as a Practical Approach to Identify Novel Promising Chemical Scaffolds
-  url: https://www.frontiersin.org/articles/10.3389/fchem.2021.700802
-  urldate: '2024-01-22'
-  volume: '9'
-  year: 2021
-- ENTRYTYPE: article
-  ID: ras_challenges_2021
-  author: "V Ras, P Carvajal-L\xF3pez, P Gopalasingam, A Matimba, PA Chauke, N Mulder,\
-    \ F Guerfali, VD Del Angel, A Reyes, G Oliveira, J De Las Rivas, M Cristancho"
-  doi: 10.3389/feduc.2021.710971
-  issn: 2504-284X
-  journal: Frontiers in Education
-  shorttitle: Challenges and {Considerations} for {Delivering} {Bioinformatics} {Training}
-    in {LMICs}
-  title: 'Challenges and Considerations for Delivering Bioinformatics Training in
-    LMICs: Perspectives From Pan-African and Latin American Bioinformatics Networks'
-  url: https://www.frontiersin.org/articles/10.3389/feduc.2021.710971
-  urldate: '2024-01-22'
+  pages: 1601--1616
+  title: Bridging landscape ecology and urban science to respond to the rising threat
+    of mosquito-borne diseases
+  url: https://www.nature.com/articles/s41559-022-01876-y
+  urldate: '2024-01-23'
   volume: '6'
-  year: 2021
+  year: 2022
 - ENTRYTYPE: article
-  ID: hernandez_disentangling_2021
-  author: "R Hern\xE1ndez, H Jimenez, C Vargas-Garcia, A Caro-Quintero, A Reyes"
-  doi: 10.3389/fmicb.2021.664754
-  issn: 1664-302X
-  journal: Frontiers in Microbiology
-  title: Disentangling the Complexity of the Rumen Microbial Diversity Through Fractionation
-    Using a Sucrose Density Gradient
-  url: https://www.frontiersin.org/articles/10.3389/fmicb.2021.664754
-  urldate: '2024-01-22'
-  volume: '12'
-  year: 2021
-- ENTRYTYPE: article
-  ID: moreno-gallego_informative_2021
-  author: JL Moreno-Gallego, A Reyes
-  copyright: http://creativecommons.org/licenses/by/3.0/
-  doi: 10.3390/v13061164
-  issn: 1999-4915
-  journal: Viruses
-  keywords: eukaryotic viruses, orthologous gropus, phages, random forest, ViPhOGs
-  language: en
-  month: June
-  number: '6'
-  pages: '1164'
-  title: Informative Regions In Viral Genomes
-  url: https://www.mdpi.com/1999-4915/13/6/1164
-  urldate: '2024-01-22'
-  volume: '13'
-  year: 2021
-- ENTRYTYPE: article
-  ID: vasquez_discovery_2021
-  author: "AF V\xE1squez, A Reyes Mu\xF1oz, J Duitama, A Gonz\xE1lez Barrios"
-  doi: 10.1080/07391102.2020.1763839
-  issn: 0739-1102
-  journal: Journal of Biomolecular Structure and Dynamics
-  keywords: molecular docking, multi-target ligands, pharmacophore modeling, RECAP,
-    virtual screening
-  month: June
-  number: '9'
-  pages: 3285--3299
-  pmid: '32362218'
-  title: Discovery of new potential CDK2/VEGFR2 type II inhibitors by fragmentation
-    and virtual screening of natural products
-  url: https://doi.org/10.1080/07391102.2020.1763839
-  urldate: '2024-01-22'
-  volume: '39'
-  year: 2021
-- ENTRYTYPE: article
-  ID: lopez-leal_novel_2021
-  author: "G L\xF3pez-Leal, A Reyes-Mu\xF1oz, RI Santamaria, MA Cevallos, C P\xE9\
-    rez-Monter, S Castillo-Ram\xEDrez"
-  doi: 10.1007/s00705-021-05010-4
-  issn: 1432-8798
-  journal: Archives of Virology
-  language: en
-  month: May
-  number: '5'
-  pages: 1401--1408
-  title: A novel vieuvirus from multidrug-resistant Acinetobacter baumannii
-  url: https://doi.org/10.1007/s00705-021-05010-4
-  urldate: '2024-01-22'
-  volume: '166'
-  year: 2021
-- ENTRYTYPE: article
-  ID: quiroga-gonzalez_monitoring_2021
-  author: "C Quiroga-Gonz\xE1lez, LAC Cardenas, M Ram\xEDrez, A Reyes, C Gonz\xE1\
-    lez, PR Stevenson"
-  copyright: 2021 The Author(s)
-  doi: 10.1038/s41598-021-85990-0
+  ID: cascante-vega_estimating_2022
+  author: J Cascante-Vega, JM Cordovez, M Santos-Vega
+  copyright: 2022 The Author(s)
+  doi: 10.1038/s41598-022-15514-x
   issn: 2045-2322
   journal: Scientific Reports
-  keywords: Metagenomics, Ecology, Microbiology, Conservation biology
+  keywords: Computational models, Viral infection
+  language: en
+  month: August
+  number: '1'
+  pages: '13568'
+  title: "Estimating and forecasting the burden and spread of Colombia\u2019s SARS-CoV2\
+    \ first wave"
+  url: https://www.nature.com/articles/s41598-022-15514-x
+  urldate: '2024-01-23'
+  volume: '12'
+  year: 2022
+- ENTRYTYPE: article
+  ID: cardenas_genomic_2022
+  author: "P C\xE1rdenas, V Corredor, M Santos-Vega"
+  doi: 10.1126/sciadv.abo0173
+  journal: Science Advances
+  month: July
+  number: '28'
+  pages: eabo0173
+  title: Genomic epidemiological models describe pathogen evolution across fitness
+    valleys
+  url: https://www.science.org/doi/full/10.1126/sciadv.abo0173
+  urldate: '2024-01-23'
+  volume: '8'
+  year: 2022
+- ENTRYTYPE: techreport
+  ID: gonzalez-uribe_mixed-methods_2022
+  author: "C Gonz\xE1lez-Uribe, N Ya\xF1ez, AO Ni\xF1o, N Velasco, JM Cordovez, M\
+    \ Santos-Vega, N Ni\xF1o-Machado, A Burbano, A Forbes, CAA Guio, S Turner, D Higuera-Mendieta,\
+    \ S Mart\xEDnez-Cabezas"
+  copyright: http://creativecommons.org/licenses/by/4.0/
+  doi: 10.12688/f1000research.110958.1
+  institution: F1000Research
+  keywords: artificial intelligence, COVID-19, data science, decision-making
+  language: en
+  month: June
+  number: 11:691
+  shorttitle: A mixed-methods study on the design of {Artificial} {Intelligence} and
+    data science-based strategies to inform public health responses to {COVID}-19
+    in different local health ecosystems
+  title: 'A mixed-methods study on the design of Artificial Intelligence and data
+    science-based strategies to inform public health responses to COVID-19 in different
+    local health ecosystems: A study protocol for COLEV'
+  url: https://f1000research.com/articles/11-691
+  urldate: '2024-01-23'
+  year: 2022
+- ENTRYTYPE: article
+  ID: bravo-vega_disentangling_2022
+  author: C Bravo-Vega, M Santos-Vega, JM Cordovez
+  doi: 10.1371/journal.pntd.0010270
+  issn: 1935-2735
+  journal: PLOS Neglected Tropical Diseases
+  keywords: Epidemiology, Colombia, Ecological risk, Public and occupational health,
+    Snakebite, Snakes, Neglected tropical diseases, Seasons
   language: en
   month: March
-  number: '1'
-  pages: '6522'
-  title: Monitoring the variation in the gut microbiota of captive woolly monkeys
-    related to changes in diet during a reintroduction process
-  url: https://www.nature.com/articles/s41598-021-85990-0
-  urldate: '2024-01-22'
-  volume: '11'
-  year: 2021
+  number: '3'
+  pages: e0010270
+  shorttitle: Disentangling snakebite dynamics in {Colombia}
+  title: 'Disentangling snakebite dynamics in Colombia: How does rainfall and temperature
+    drive snakebite temporal patterns?'
+  url: https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0010270
+  urldate: '2024-01-23'
+  volume: '16'
+  year: 2022
 - ENTRYTYPE: article
-  ID: payaslian_isolation_2021
-  author: "F Payaslian, V Gradaschi, L Rond\xF3n Salazar, ME Dieterle, E Urd\xE1niz,\
-    \ M Di Paola, J Pe\xF1a C\xE1rcamo, F Zon, E Sosa, D Fernandez Do Porto, M Dunne,\
-    \ P Goeller, J Klumpp, RR Raya, A Reyes, M Piuri"
-  doi: 10.1089/phage.2020.0030
-  issn: 2641-6530
-  journal: PHAGE
-  keywords: LysB, M. tuberculosis, Mycobacterium phage
-  month: March
-  number: '1'
-  pages: 43--49
-  shorttitle: Isolation and {Characterization} of {vB}\_MsmS\_Celfi
-  title: 'Isolation and Characterization of vB\_MsmS\_Celfi: A New Mycobacterium tuberculosis
-    Bacteriophage'
-  url: https://www.liebertpub.com/doi/abs/10.1089/phage.2020.0030
-  urldate: '2024-01-22'
-  volume: '2'
-  year: 2021
-- ENTRYTYPE: article
-  ID: payaslian_tightening_2021
-  author: "F Payaslian, V Gradaschi, L Rond\xF3n Salazar, ME Dieterle, E Urd\xE1niz,\
-    \ M Di Paola, F Zon, M Allievi, C Sanchez Rivas, RR Raya, A Reyes, M Piuri"
-  doi: 10.1089/phage.2020.0028
-  issn: 2641-6530
-  journal: PHAGE
-  keywords: Mycobacterium phage, bacteriophage education, Lactobacillus phage, Latin
-    America
-  month: March
-  number: '1'
-  pages: 7--10
-  title: Tightening Bonds in Latin America Through Phage Discovery
-  url: https://www.liebertpub.com/doi/full/10.1089/phage.2020.0028
-  urldate: '2024-01-22'
-  volume: '2'
-  year: 2021
-- ENTRYTYPE: article
-  ID: gradaschi_genome_2021
-  author: "V Gradaschi, F Payaslian, ME Dieterle, L Rond\xF3n Salazar, E Urd\xE1niz,\
-    \ M Di Paola, J Pe\xF1a C\xE1rcamo, F Zon, M Allievi, E Sosa, D Fernandez Do Porto,\
-    \ M Dunne, P Goeller, J Klumpp, RR Raya, A Reyes, M Piuri"
-  doi: 10.1089/phage.2020.0029
-  issn: 2641-6530
-  journal: PHAGE
-  keywords: Lactobacillus phage, Lactobacillus casei, probiotics
-  month: March
-  number: '1'
-  pages: 57--63
-  title: Genome Sequence and Characterization of Lactobacillus casei Phage, vB\_LcaM\_Lbab1
-    Isolated from Raw Milk
-  url: https://www.liebertpub.com/doi/abs/10.1089/phage.2020.0029
-  urldate: '2024-01-22'
-  volume: '2'
-  year: 2021
-- ENTRYTYPE: article
-  ID: hufsky_computational_2021
-  author: "F Hufsky, K Lamkiewicz, A Almeida, A Aouacheria, C Arighi, A Bateman, J\
-    \ Baumbach, N Beerenwinkel, C Brandt, M Cacciabue, S Chuguransky, O Drechsel,\
-    \ RD Finn, A Fritz, S Fuchs, G Hattab, A Hauschild, D Heider, M Hoffmann, M H\xF6\
-    lzer, S Hoops, L Kaderali, I Kalvari, M von Kleist, R Kmiecinski, D K\xFChnert,\
-    \ G Lasso, P Libin, M List, HF L\xF6chel, MJ Martin, R Martin, J Matschinske,\
-    \ AC McHardy, P Mendes, J Mistry, V Navratil, EP Nawrocki, \xC1N O\u2019Toole,\
-    \ N Ontiveros-Palacios, AI Petrov, G Rangel-Pineros, N Redaschi, S Reimering,\
-    \ K Reinert, A Reyes, L Richardson, DL Robertson, S Sadegh, JB Singer, K Theys,\
-    \ C Upton, M Welzel, L Williams, M Marz"
-  doi: 10.1093/bib/bbaa232
-  issn: 1477-4054
-  journal: Briefings in Bioinformatics
-  month: March
-  number: '2'
-  pages: 642--663
-  shorttitle: Computational strategies to combat {COVID}-19
-  title: 'Computational strategies to combat COVID-19: useful tools to accelerate
-    SARS-CoV-2 and coronavirus research'
-  url: https://doi.org/10.1093/bib/bbaa232
-  urldate: '2024-01-22'
-  volume: '22'
-  year: 2021
-- ENTRYTYPE: article
-  ID: cardenas_bacterial_2021
-  author: LAC Cardenas, V Clavijo, M Vives, A Reyes
-  doi: 10.7717/peerj.10571
-  issn: 2167-8359
-  journal: PeerJ
+  ID: santos-vega_neglected_2022
+  author: M Santos-Vega, PP Martinez, KG Vaishnav, V Kohli, V Desai, MJ Bouma, M Pascual
+  copyright: 2022 The Author(s)
+  doi: 10.1038/s41467-022-28145-7
+  issn: 2041-1723
+  journal: Nature Communications
+  keywords: Ecology, Ecological epidemiology, Diseases
   language: en
   month: January
-  pages: e10571
-  title: Bacterial meta-analysis of chicken cecal microbiota
-  url: https://peerj.com/articles/10571
-  urldate: '2024-01-22'
+  number: '1'
+  pages: '533'
+  title: The neglected role of relative humidity in the interannual variability of
+    urban malaria in Indian cities
+  url: https://www.nature.com/articles/s41467-022-28145-7
+  urldate: '2024-01-23'
+  volume: '13'
+  year: 2022
+- ENTRYTYPE: article
+  ID: cascante-vega_how_2022
+  author: J Cascante-Vega, S Torres-Florez, J Cordovez, M Santos-Vega
+  doi: 10.1098/rsos.210803
+  journal: Royal Society Open Science
+  keywords: behaviour, game theory, mathematical epidemiology, transmission drivers
+  month: January
+  number: '1'
+  pages: '210803'
+  shorttitle: How disease risk awareness modulates transmission
+  title: 'How disease risk awareness modulates transmission: coupling infectious disease
+    models with behavioural dynamics'
+  url: https://royalsocietypublishing.org/doi/full/10.1098/rsos.210803
+  urldate: '2024-01-23'
   volume: '9'
+  year: 2022
+- ENTRYTYPE: article
+  ID: ballesteros_deciphering_2021
+  author: "N Ballesteros, M Mu\xF1oz, LH Pati\xF1o, C Hern\xE1ndez, F Gonz\xE1lez-Casabianca,\
+    \ I Carroll, M Santos-Vega, J Cascante, A Angel, A Feged-Rivadeneira, M Palma-Cuero,\
+    \ C Fl\xF3rez, S Gomez, Avd Guchte, Z Khan, J Dutta, A Obla, HA Alshammary, AS\
+    \ Gonzalez-Reiche, MM Hernandez, EM Sordillo, V Simon, Hv Bakel, AE Paniz-Mondolfi,\
+    \ JD Ram\xEDrez"
+  doi: 10.1371/journal.pntd.0009327
+  issn: 1935-2735
+  journal: PLOS Neglected Tropical Diseases
+  keywords: Genomics, Phylogenetic analysis, Genome analysis, Epidemiology, SARS CoV
+    2, Colombia, Brazil, Indigenous populations
+  language: en
+  month: April
+  number: '4'
+  pages: e0009327
+  title: Deciphering the introduction and transmission of SARS-CoV-2 in the Colombian
+    Amazon Basin
+  url: https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0009327
+  urldate: '2024-01-23'
+  volume: '15'
   year: 2021
-- ENTRYTYPE: incollection
-  ID: adriaenssens_abolish_2021
-  author: "E Adriaenssens, A Kropinski, D Turner, M Krupovic, A Millard, B Dutilh,\
-    \ H Oksanen, C Lood, A Reyes, C Moraru, R Aziz, Y Tong, J Barylski, M \u0141obocka,\
-    \ B Sarkar, A Gillis, L van Zyl, S Lehman, M Sullivan, J Wittman, A Kushkina,\
-    \ P Knezevic, J Brister, R Edwards, D Kurtb\xF6ke, M Poranen, R Lavigne, A Shkoporov,\
-    \ J Uchiyama, A Moreno-Switt, F Enault"
-  booktitle: International {Committee} on {Taxonomy} of {Viruses}
-  keywords: Caudovirales, Caudoviricetes, monophyletic, Myoviridae, Podoviridae, Siphoviridae,
-    Taxonomic
-  publisher: International Committee on Taxonomy of Viruses
-  title: Abolish the order Caudovirales and the families Myoviridae, Siphoviridae
-    and Podoviridae (Caudoviricetes)
+- ENTRYTYPE: misc
+  ID: baeza_unapparent_2021
+  author: A Baeza, M Santos-Vega, AE Escalante, H Eakin
+  copyright: "\xA9 2021, Posted by Cold Spring Harbor Laboratory. This pre-print is\
+    \ available under a Creative Commons License (Attribution-NonCommercial-NoDerivs\
+    \ 4.0 International), CC BY-NC-ND 4.0, as described at http://creativecommons.org/licenses/by-nc-nd/4.0/"
+  doi: 10.1101/2021.01.17.427028
+  language: en
+  month: January
+  publisher: bioRxiv
+  title: The unapparent effect of climate forcing on urban amoebiasis in Mexico City
+  url: https://www.biorxiv.org/content/10.1101/2021.01.17.427028v1
+  urldate: '2024-01-23'
   year: 2021
 - ENTRYTYPE: article
-  ID: pena_gonzalez_essentials_2020
-  author: "A Pe\xF1a Gonz\xE1lez, A Reyes Mu\xF1oz"
-  copyright: http://creativecommons.org/licenses/by/4.0/
-  doi: 10.7490/f1000research.1118334.1
-  journal: F1000Research
-  language: en
-  month: October
-  number: '1195'
-  pages: '1195'
-  title: Essentials in Metagenomics (Part II)
-  url: https://f1000research.com/documents/9-1195
-  urldate: '2024-01-22'
-  volume: '9'
-  year: 2020
-- ENTRYTYPE: article
-  ID: pena_gonzalez_essentials_2020-1
-  author: "A Pe\xF1a Gonz\xE1lez, A Reyes Mu\xF1oz"
-  copyright: http://creativecommons.org/licenses/by/4.0/
-  doi: 10.7490/f1000research.1118333.1
-  journal: F1000Research
-  language: en
-  month: October
-  number: '1194'
-  pages: '1194'
-  title: Essentials in metagenomics (Part I)
-  url: https://f1000research.com/documents/9-1194
-  urldate: '2024-01-22'
-  volume: '9'
-  year: 2020
-- ENTRYTYPE: article
-  ID: garcia-vega_diet_2020
-  author: "\xC1S Garc\xEDa-Vega, V Corrales-Agudelo, A Reyes, JS Escobar"
-  copyright: http://creativecommons.org/licenses/by/3.0/
-  doi: 10.3390/nu12102938
-  issn: 2072-6643
-  journal: Nutrients
-  keywords: 16S rRNA, gut microbiome, 24-h dietary recall, Colombians, community dwellers,
-    food consumption, short-chain fatty acids
-  language: en
-  month: October
-  number: '10'
-  pages: '2938'
-  title: Diet Quality, Food Groups and Nutrients Associated with the Gut Microbiota
-    in a Nonwestern Population
-  url: https://www.mdpi.com/2072-6643/12/10/2938
-  urldate: '2024-01-22'
-  volume: '12'
-  year: 2020
-- ENTRYTYPE: article
-  ID: reyes_paving_2020
-  author: A Reyes, MJ Vives
-  copyright: http://creativecommons.org/licenses/by/3.0/
-  doi: 10.3390/v12090905
-  issn: 1999-4915
-  journal: Viruses
-  keywords: molecular methods, next generation sequencing, viral diversity, viral
-    evolution, viromes
-  language: en
-  month: September
-  number: '9'
-  pages: '905'
-  title: Paving the Way to Unveil the Diversity and Evolution of Phage Genomes
-  url: https://www.mdpi.com/1999-4915/12/9/905
-  urldate: '2024-01-22'
-  volume: '12'
-  year: 2020
-- ENTRYTYPE: article
-  ID: botero_genome-scale_2020
-  author: "D Botero, J Monk, MJ Rodr\xEDguez Cubillos, A Rodr\xEDguez Cubillos, M\
-    \ Restrepo, V Bernal-Galeano, A Reyes, A Gonz\xE1lez Barrios, B\xD8 Palsson, S\
-    \ Restrepo, A Bernal"
-  doi: 10.3389/fgene.2020.00837
-  issn: 1664-8021
-  journal: Frontiers in Genetics
-  shorttitle: Genome-{Scale} {Metabolic} {Model} of {Xanthomonas} phaseoli pv. manihotis
-  title: 'Genome-Scale Metabolic Model of Xanthomonas phaseoli pv. manihotis: An Approach
-    to Elucidate Pathogenicity at the Metabolic Level'
-  url: https://www.frontiersin.org/articles/10.3389/fgene.2020.00837
-  urldate: '2024-01-22'
-  volume: '11'
-  year: 2020
-- ENTRYTYPE: article
-  ID: pacheco-montealegre_fine_2020
-  author: "ME Pacheco-Montealegre, LL D\xE1vila-Mora, LM Botero-Rute, A Reyes, A Caro-Quintero"
-  doi: 10.3389/fmicb.2020.00650
-  issn: 1664-302X
-  journal: Frontiers in Microbiology
-  title: Fine Resolution Analysis of Microbial Communities Provides Insights Into
-    the Variability of Cocoa Bean Fermentation
-  url: https://www.frontiersin.org/articles/10.3389/fmicb.2020.00650
-  urldate: '2024-01-22'
-  volume: '11'
-  year: 2020
-- ENTRYTYPE: article
-  ID: keane_international_2020
-  author: C Keane, NS Fearnhead, L Bordeianou, P Christensen, E Espin Basany, S Laurberg,
-    A Mellgren, C Messick, GR Orangio, A Verjee, K Wing, I Bissett, tLIC Group
-  copyright: "\xA9 2020 The Author(s). Published by Wolters Kluwer Health, Inc. on\
-    \ behalf of the American Society of Colon and Rectal Surgeons, by John Wiley \\\
-    & Sons Limited on behalf of the Association of Coloproctology of Great Britain\
-    \ and Ireland and by John Wiley \\& Sons Australia on behalf of the Royal Australasian\
-    \ College of Surgeons. This is an open access article distributed under the terms\
-    \ of the Creative Commons Attribution-Non Commercial-No Derivatives License 4.0\
-    \ (CCBY-NC-ND), where it is permissible to download and share the work provided\
-    \ it is properly cited. The work cannot be changed in anyway or used commercially\
-    \ without permission from the journal."
-  doi: 10.1111/codi.14957
-  issn: 1463-1318
-  journal: Colorectal Disease
-  keywords: Consensus definition, low anterior resection syndrome, patient-reported,
-    rectal resection
-  language: en
-  number: '3'
-  pages: 331--341
-  title: International consensus definition of low anterior resection syndrome
-  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/codi.14957
-  urldate: '2024-01-22'
-  volume: '22'
-  year: 2020
-- ENTRYTYPE: article
-  ID: diaz-riano_computational_2019
-  author: "J D\xEDaz-Ria\xF1o, L Posada, IC Acosta, C Ru\xEDz-P\xE9rez, C Garc\xED\
-    a-Castillo, A Reyes, MM Zambrano"
-  doi: 10.1371/journal.pone.0221540
-  issn: 1932-6203
-  journal: PLOS ONE
-  keywords: Gene expression, RNA sequencing, Genomics, Ribosomal RNA, Cellular stress
-    responses, Non-coding RNA, Ultraviolet C, Ultraviolet radiation
+  ID: bravo-vega_estimating_2019
+  author: "CA Bravo-Vega, JM Cordovez, C Renjifo-Ib\xE1\xF1ez, M Santos-Vega, M Sasa"
+  doi: 10.1371/journal.pntd.0007914
+  issn: 1935-2735
+  journal: PLOS Neglected Tropical Diseases
+  keywords: Mathematical models, Epidemiology, Public and occupational health, Snakebite,
+    Snakes, Cartography, Census, Costa Rica
   language: en
   month: December
   number: '12'
-  pages: e0221540
-  title: Computational search for UV radiation resistance strategies in Deinococcus
-    swuensis isolated from Paramo ecosystems
-  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0221540
-  urldate: '2024-01-22'
-  volume: '14'
+  pages: e0007914
+  shorttitle: Estimating snakebite incidence from mathematical models
+  title: 'Estimating snakebite incidence from mathematical models: A test in Costa
+    Rica'
+  url: https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0007914
+  urldate: '2024-01-23'
+  volume: '13'
+  year: 2019
+- ENTRYTYPE: misc
+  ID: cordovez_is_2019
+  author: "JM Cordovez, M Santos-Vega, D Erazo, C Sanabria, LM Rend\xF3n, F Guhl"
+  copyright: "\xA9 2019, Posted by Cold Spring Harbor Laboratory. This pre-print is\
+    \ available under a Creative Commons License (Attribution 4.0 International),\
+    \ CC BY 4.0, as described at http://creativecommons.org/licenses/by/4.0/"
+  doi: 10.1101/860189
+  language: en
+  month: November
+  publisher: bioRxiv
+  title: Is vectorial transmission of Trypanosoma cruzi an efficient route to support
+    high infection rates in sylvatic hosts?
+  url: https://www.biorxiv.org/content/10.1101/860189v2
+  urldate: '2024-01-23'
   year: 2019
 - ENTRYTYPE: article
-  ID: edwards_global_2019
-  author: "RA Edwards, AA Vega, HM Norman, M Ohaeri, K Levi, EA Dinsdale, O Cinek,\
-    \ RK Aziz, K McNair, JJ Barr, K Bibby, SJJ Brouns, A Cazares, PA de Jonge, C Desnues,\
-    \ SL D\xEDaz Mu\xF1oz, PC Fineran, A Kurilshikov, R Lavigne, K Mazankova, DT McCarthy,\
-    \ FL Nobrega, A Reyes Mu\xF1oz, G Tapia, N Trefault, AV Tyakht, P Vinuesa, J Wagemans,\
-    \ A Zhernakova, FM Aarestrup, G Ahmadov, A Alassaf, J Anton, A Asangba, EK Billings,\
-    \ VA Cantu, JM Carlton, D Cazares, G Cho, T Condeff, P Cort\xE9s, M Cranfield,\
-    \ DA Cuevas, R De la Iglesia, P Decewicz, MP Doane, NJ Dominy, L Dziewit, BM Elwasila,\
-    \ AM Eren, C Franz, J Fu, C Garcia-Aljaro, E Ghedin, KM Gulino, JM Haggerty, SR\
-    \ Head, RS Hendriksen, C Hill, H Hy\xF6ty, EN Ilina, MT Irwin, TC Jeffries, J\
-    \ Jofre, RE Junge, ST Kelley, M Khan Mirzaei, M Kowalewski, D Kumaresan, SR Leigh,\
-    \ D Lipson, ES Lisitsyna, M Llagostera, JM Maritz, LC Marr, A McCann, S Molshanski-Mor,\
-    \ S Monteiro, B Moreira-Grez, M Morris, L Mugisha, M Muniesa, H Neve, N Nguyen,\
-    \ OD Nigro, AS Nilsson, T O\u2019Connell, R Odeh, A Oliver, M Piuri, AJ Prussin\
-    \ II, U Qimron, Z Quan, P Rainetova, A Ram\xEDrez-Rojas, R Raya, K Reasor, GAO\
-    \ Rice, A Rossi, R Santos, J Shimashita, EN Stachler, LC Stene, R Strain, R Stumpf,\
-    \ PJ Torres, A Twaddle, M Ugochi Ibekwe, N Villagra, S Wandro, B White, A Whiteley,\
-    \ KL Whiteson, C Wijmenga, MM Zambrano, H Zschach, BE Dutilh"
-  copyright: 2019 The Author(s), under exclusive licence to Springer Nature Limited
-  doi: 10.1038/s41564-019-0494-6
-  issn: 2058-5276
-  journal: Nature Microbiology
-  keywords: Microbiome, Environmental microbiology, Bacteriophages
+  ID: castro_development_2019
+  author: "MC Castro, A Baeza, CT Code\xE7o, ZM Cucunub\xE1, AP Dal\u2019Asta, GAD\
+    \ Leo, AP Dobson, G Carrasco-Escobar, RM Lana, R Lowe, AMV Monteiro, M Pascual,\
+    \ M Santos-Vega"
+  doi: 10.1371/journal.pbio.3000526
+  issn: 1545-7885
+  journal: PLOS Biology
+  keywords: Sustainability science, Malaria, Brazil, Deforestation, Environmental
+    economics, Global health, Health economics, Land use
+  language: en
+  month: November
+  number: '11'
+  pages: e3000526
+  title: Development, environmental degradation, and disease spread in the Brazilian
+    Amazon
+  url: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000526
+  urldate: '2024-01-23'
+  volume: '17'
+  year: 2019
+- ENTRYTYPE: article
+  ID: siraj_altitudinal_2014
+  author: AS Siraj, M Santos-Vega, MJ Bouma, D Yadeta, DR Carrascal, M Pascual
+  doi: 10.1126/science.1244325
+  journal: Science
+  month: March
+  number: '6175'
+  pages: 1154--1158
+  title: Altitudinal Changes in Malaria Incidence in Highlands of Ethiopia and Colombia
+  url: https://www.science.org/doi/full/10.1126/science.1244325
+  urldate: '2024-01-23'
+  volume: '343'
+  year: 2014
+- ENTRYTYPE: article
+  ID: siraj_temperature_2015
+  author: AS Siraj, MJ Bouma, M Santos-Vega, AK Yeshiwondim, DS Rothman, D Yadeta,
+    PC Sutton, M Pascual
+  doi: 10.1098/rspb.2015.1383
+  journal: 'Proceedings of the Royal Society B: Biological Sciences'
+  keywords: malaria, persistence, reservoir
+  month: December
+  number: '1820'
+  pages: '20151383'
+  title: Temperature and population density determine reservoir regions of seasonal
+    persistence in highland malaria
+  url: https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.1383
+  urldate: '2024-01-23'
+  volume: '282'
+  year: 2015
+- ENTRYTYPE: article
+  ID: santos-vega_climate_2016
+  author: M Santos-Vega, PP Martinez, M Pascual
+  copyright: "\xA9 2016 New York Academy of Sciences."
+  doi: 10.1111/nyas.13229
+  issn: 1749-6632
+  journal: Annals of the New York Academy of Sciences
+  keywords: heterogeneity, infectious diseases, climate, transmission models, urbanization
+  language: en
+  number: '1'
+  pages: 44--55
+  shorttitle: Climate forcing and infectious disease transmission in urban landscapes
+  title: 'Climate forcing and infectious disease transmission in urban landscapes:
+    integrating demographic and socioeconomic heterogeneity'
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/nyas.13229
+  urldate: '2024-01-23'
+  volume: '1382'
+  year: 2016
+- ENTRYTYPE: article
+  ID: santos-vega_population_2016
+  author: M Santos-Vega, MJ Bouma, V Kohli, M Pascual
+  doi: 10.1371/journal.pntd.0005155
+  issn: 1935-2735
+  journal: PLOS Neglected Tropical Diseases
+  keywords: Epidemiology, Malaria, Medical risk factors, Cities, Humidity, Malarial
+    parasites, Plasmodium vivax, Urban environments
+  language: en
+  month: December
+  number: '12'
+  pages: e0005155
+  title: Population Density, Climate Variables and Poverty Synergistically Structure
+    Spatial Risk in Urban Malaria in India
+  url: https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0005155
+  urldate: '2024-01-23'
+  volume: '10'
+  year: 2016
+- ENTRYTYPE: article
+  ID: baeza_rise_2017
+  author: A Baeza, M Santos-Vega, AP Dobson, M Pascual
+  copyright: 2017 Macmillan Publishers Limited, part of Springer Nature.
+  doi: 10.1038/s41559-017-0108
+  issn: 2397-334X
+  journal: Nature Ecology \& Evolution
+  keywords: Population dynamics, Ecological epidemiology
+  language: en
+  month: March
+  number: '5'
+  pages: 1--7
+  title: The rise and fall of malaria under land-use change in frontier regions
+  url: https://www.nature.com/articles/s41559-017-0108
+  urldate: '2024-01-23'
+  volume: '1'
+  year: 2017
+- ENTRYTYPE: misc
+  ID: bravo-vega_estimating_2021
+  author: "C Bravo-Vega, C Renjifo-Iba\xF1ez, M Santos-Vega, LJL Nu\xF1ez, T Angarita-Sierra,\
+    \ JM Cordovez"
+  copyright: "\xA9 2021, Posted by Cold Spring Harbor Laboratory. This pre-print is\
+    \ available under a Creative Commons License (Attribution-NonCommercial-NoDerivs\
+    \ 4.0 International), CC BY-NC-ND 4.0, as described at http://creativecommons.org/licenses/by-nc-nd/4.0/"
+  doi: 10.1101/2021.12.09.472006
+  language: en
+  month: December
+  publisher: bioRxiv
+  title: Estimating real snakebite incidence in Colombia by using mathematical modelling
+    and statistical inference
+  url: https://www.biorxiv.org/content/10.1101/2021.12.09.472006v1
+  urldate: '2024-01-23'
+  year: 2021
+- ENTRYTYPE: article
+  ID: carrasquilla_entomological_2021
+  author: "MC Carrasquilla, MI Ortiz, C Le\xF3n, S Rond\xF3n, MA Kulkarni, B Talbot,\
+    \ B Sander, H V\xE1squez, JM Cordovez, C Gonz\xE1lez, B Sander, MA Kulkarni, J\
+    \ Wu, C Gonz\xE1lez, M Miretti, M Espinel, V Cevallos, RR Team"
+  doi: 10.1186/s13071-021-04908-x
+  issn: 1756-3305
+  journal: Parasites \& Vectors
+  keywords: Aedes aegypti, Aedes albopictus, Chikungunya, Colombia, Dengue, Zika
+  language: en
+  month: September
+  number: '1'
+  pages: '446'
+  title: "Entomological characterization of Aedes mosquitoes and arbovirus detection\
+    \ in Ibagu\xE9, a Colombian city with co-circulation of Zika, dengue and chikungunya\
+    \ viruses"
+  url: https://doi.org/10.1186/s13071-021-04908-x
+  urldate: '2024-01-23'
+  volume: '14'
+  year: 2021
+- ENTRYTYPE: article
+  ID: lopez_measuring_2021
+  author: "M L\xF3pez, D Erazo, J Hoyos, C Le\xF3n, P Fuya, L Lugo, JM Cordovez, C\
+    \ Gonz\xE1lez"
+  copyright: 2021 The Author(s)
+  doi: 10.1038/s41598-021-85763-9
+  issn: 2045-2322
+  journal: Scientific Reports
+  keywords: Ecological modelling, Ecological epidemiology
+  language: en
+  month: March
+  number: '1'
+  pages: '6789'
+  title: Measuring spatial co-occurrences of species potentially involved in Leishmania
+    transmission cycles through a predictive and fieldwork approach
+  url: https://www.nature.com/articles/s41598-021-85763-9
+  urldate: '2024-01-23'
+  volume: '11'
+  year: 2021
+- ENTRYTYPE: article
+  ID: calderon_how_2020
+  author: "JM Calder\xF3n, D Erazo, TJ Kieran, NL Gottdenker, C Le\xF3n, J Cordovez,\
+    \ F Guhl, TC Glenn, C Gonz\xE1lez"
+  doi: 10.1016/j.actatropica.2020.105674
+  issn: 0001-706X
+  journal: Acta Tropica
+  keywords: Chagas disease, Cleptohematophagy, Disease ecology, Habitat selection,
+    Triatomines, Vector ecology
+  month: December
+  pages: '105674'
+  title: How microclimatic variables and blood meal sources influence Rhodnius prolixus
+    abundance and Trypanosoma cruzi infection in Attalea butyracea and Elaeis guineensis
+    palms?
+  url: https://www.sciencedirect.com/science/article/pii/S0001706X20307580
+  urldate: '2024-01-23'
+  volume: '212'
+  year: 2020
+- ENTRYTYPE: article
+  ID: cordovez_estudio_2020
+  author: JM Cordovez
+  copyright: Derechos de autor 2020
+  doi: 10.16924/revinge.50.2
+  issn: 2011-0049
+  journal: "Revista de Ingenier\xEDa"
+  keywords: "contagios de COVID, din\xE1mica de contagios, propagaci\xF3n de virus,\
+    \ reactivaci\xF3n de actividades acad\xE9mica, SARS-CoV-2"
+  language: es
+  month: June
+  number: '50'
+  pages: 14--21
+  title: "Estudio sobre los efectos de virtualizar el campus como estrategia para\
+    \ minimizar los contagios por SARS-COV-2 producidos en los espacios acad\xE9micos"
+  url: https://revistas.uniandes.edu.co/index.php/rdi/article/view/7499
+  urldate: '2024-01-23'
+  year: 2020
+- ENTRYTYPE: article
+  ID: erazo_rhodnius_2020
+  author: "D Erazo, C Gonz\xE1lez, F Guhl, JD Uma\xF1a, JA Morales-Betancourt, J Cordovez"
+  doi: 10.4269/ajtmh.19-0331
+  issn: 0002-9637, 1476-1645
+  journal: The American Journal of Tropical Medicine and Hygiene
+  language: EN
+  month: May
+  number: '1'
+  pages: 428--436
+  title: Rhodnius prolixus Colonization and Trypanosoma cruzi Transmission in Oil
+    Palm (Elaeis guineensis) Plantations in the Orinoco Basin, Colombia
+  url: https://www.ajtmh.org/view/journals/tpmd/103/1/article-p428.xml
+  urldate: '2024-01-23'
+  volume: '103'
+  year: 2020
+- ENTRYTYPE: article
+  ID: ortegon_mathematical_2020
+  author: S Ortegon, LS Franco, G McFadden, J Cordovez
+  copyright: "\xA9 FASEB"
+  doi: 10.1096/fasebj.2020.34.s1.07088
+  issn: 1530-6860
+  journal: The FASEB Journal
+  language: en
+  number: S1
+  pages: 1--1
+  title: Mathematical model of oncolytic virotherapy with Myxoma virus infection in
+    cancer cells
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.2020.34.s1.07088
+  urldate: '2024-01-23'
+  volume: '34'
+  year: 2020
+- ENTRYTYPE: article
+  ID: erazo_generalist_2019
+  author: "D Erazo, NL Gottdenker, C Gonz\xE1lez, F Guhl, M Cuellar, TJ Kieran, TC\
+    \ Glenn, JD Uma\xF1a, J Cordovez"
+  doi: 10.1186/s13071-019-3519-3
+  issn: 1756-3305
+  journal: Parasites \& Vectors
+  keywords: Blood meal analysis, Elaeis guineensis, Generalist host, Host community
+    composition, Rhodnius prolixus, Trypanosoma cruzi
+  language: en
+  month: May
+  number: '1'
+  pages: '274'
+  title: Generalist host species drive Trypanosoma cruzi vector infection in oil palm
+    plantations in the Orinoco region, Colombia
+  url: https://doi.org/10.1186/s13071-019-3519-3
+  urldate: '2024-01-23'
+  volume: '12'
+  year: 2019
+- ENTRYTYPE: article
+  ID: pizano_ventilation-perfusion_2019
+  author: A Pizano, P Calvacci, F Giron, J Cordovez
+  copyright: "\xA9 2019 FASEB"
+  doi: 10.1096/fasebj.2019.33.1_supplement.600.9
+  issn: 1530-6860
+  journal: The FASEB Journal
+  language: en
+  number: S1
+  pages: 600.9--600.9
+  shorttitle: Ventilation-perfusion ratio
+  title: 'Ventilation-perfusion ratio: A Mathematical Approach for Gas Exchange in
+    the Lungs'
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.2019.33.1_supplement.600.9
+  urldate: '2024-01-23'
+  volume: '33'
+  year: 2019
+- ENTRYTYPE: article
+  ID: calvachi_effect_2019
+  author: P Calvachi, A Pizano, F Giron, J Cordovez
+  copyright: "\xA9 2019 FASEB"
+  doi: 10.1096/fasebj.2019.33.1_supplement.600.8
+  issn: 1530-6860
+  journal: The FASEB Journal
+  language: en
+  number: S1
+  pages: 600.8--600.8
+  shorttitle: Effect of systemic pressure on kidney perfusion rate
+  title: 'Effect of systemic pressure on kidney perfusion rate: insights from a mathematical
+    model'
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.2019.33.1_supplement.600.8
+  urldate: '2024-01-23'
+  volume: '33'
+  year: 2019
+- ENTRYTYPE: article
+  ID: arango_mathematical_2018
+  author: "FG Arango, AP Uma\xF1a, PC Prieto, JM Cordovez"
+  copyright: "\xA9 FASEB"
+  doi: 10.1096/fasebj.2018.32.1_supplement.925.2
+  issn: 1530-6860
+  journal: The FASEB Journal
+  language: en
+  number: S1
+  pages: 925.2--925.2
+  shorttitle: A {Mathematical} {Model} for the {Population} {Dynamics} of {Intestinal}
+    {Microbiota}
+  title: 'A Mathematical Model for the Population Dynamics of Intestinal Microbiota:
+    Obese Versus Healthy Gastrointestinal Tract'
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.2018.32.1_supplement.925.2
+  urldate: '2024-01-23'
+  volume: '32'
+  year: 2018
+- ENTRYTYPE: article
+  ID: pizano_mathematical_2018
+  author: "A Pizano, P Calvachi, F Gir\xF3n, JM Cordovez"
+  copyright: "\xA9 FASEB"
+  doi: 10.1096/fasebj.2018.32.1_supplement.627.2
+  issn: 1530-6860
+  journal: The FASEB Journal
+  language: en
+  number: S1
+  pages: 627.2--627.2
+  title: A Mathematical Approach for Gas Exchange in the Lungs; Balance Between Ventilation
+    and Perfusion
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.2018.32.1_supplement.627.2
+  urldate: '2024-01-23'
+  volume: '32'
+  year: 2018
+- ENTRYTYPE: article
+  ID: gonzalez_diversity_2018
+  author: "C Gonz\xE1lez, C Le\xF3n, A Paz, M L\xF3pez, G Molina, D Toro, M Ortiz,\
+    \ JM Cordovez, MC Atencia, G Aguilera, C Tovar"
+  doi: 10.1371/journal.pone.0190686
+  issn: 1932-6203
+  journal: PLOS ONE
+  keywords: Gene pool, Parasitic diseases, Blood, DNA barcoding, Leishmania, Leishmania
+    infantum, Sand flies, Vector-borne diseases
+  language: en
+  month: January
+  number: '1'
+  pages: e0190686
+  title: Diversity patterns, Leishmania DNA detection, and bloodmeal identification
+    of Phlebotominae sand flies in villages in northern Colombia
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190686
+  urldate: '2024-01-23'
+  volume: '13'
+  year: 2018
+- ENTRYTYPE: article
+  ID: quintero_theoretical_2017
+  author: MC Quintero, RW Putnam, JM Cordovez
+  doi: 10.1371/journal.pcbi.1005853
+  issn: 1553-7358
+  journal: PLOS Computational Biology
+  keywords: Neurons, Behavior, Acidosis, Action potentials, Brainstem, Functional
+    electrical stimulation, Locus coeruleus, Membrane potential
+  language: en
+  month: December
+  number: '12'
+  pages: e1005853
+  shorttitle: Theoretical perspectives on central chemosensitivity
+  title: 'Theoretical perspectives on central chemosensitivity: CO2/H+-sensitive neurons
+    in the locus coeruleus'
+  url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005853
+  urldate: '2024-01-23'
+  volume: '13'
+  year: 2017
+- ENTRYTYPE: article
+  ID: erazo_modelling_2017
+  author: "D Erazo, J Cordovez, C Cabrera, JE Calzada, A Salda\xF1a, NL Gottdenker"
+  doi: 10.1017/S0031182017001287
+  issn: 0031-1820, 1469-8161
+  journal: Parasitology
+  keywords: Chagas disease, Trypanosoma cruzi, deforestation, host community composition,
+    host life history strategy, mathematical model, Multi-host vector borne pathogen
+  language: en
+  month: December
+  number: '14'
+  pages: 1881--1889
+  title: Modelling the influence of host community composition in a sylvatic Trypanosoma
+    cruzi system
+  url: https://www.cambridge.org/core/journals/parasitology/article/abs/modelling-the-influence-of-host-community-composition-in-a-sylvatic-trypanosoma-cruzi-system/936602C1D171BFD822BCE74BB7E6F240
+  urldate: '2024-01-23'
+  volume: '144'
+  year: 2017
+- ENTRYTYPE: article
+  ID: giron_mathematical_2017
+  author: F Giron, A Pizano, P Calvachi, JM Cordovez
+  copyright: "\xA9 FASEB"
+  doi: 10.1096/fasebj.31.1_supplement.lb807
+  issn: 1530-6860
+  journal: The FASEB Journal
+  language: en
+  number: S1
+  pages: lb807--lb807
+  shorttitle: A {Mathematical} {Model} for the {Population} {Dynamics} of {Intestinal}
+    {Microbiota}
+  title: 'A Mathematical Model for the Population Dynamics of Intestinal Microbiota:
+    Obese Versus Healthy Gastrointestinal Tract'
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.31.1_supplement.lb807
+  urldate: '2024-01-23'
+  volume: '31'
+  year: 2017
+- ENTRYTYPE: article
+  ID: quintero_looking_2017
+  author: MC Quintero, JM Cordovez
+  doi: 10.1007/s12591-015-0256-8
+  issn: 0974-6870
+  journal: Differential Equations and Dynamical Systems
+  keywords: Arrhenius integral, Bio-heat equation, Diffusion equation, Method of lines,
+    Regional hyperthermia
+  language: en
+  month: April
+  number: '2'
+  pages: 137--150
+  shorttitle: Looking for an {Efficient} and {Safe} {Hyperthermia} {Therapy}
+  title: 'Looking for an Efficient and Safe Hyperthermia Therapy: Insights from a
+    Partial Differential Equations Based Model'
+  url: https://doi.org/10.1007/s12591-015-0256-8
+  urldate: '2024-01-23'
+  volume: '25'
+  year: 2017
+- ENTRYTYPE: article
+  ID: erazo_modeling_2016
+  author: D Erazo, J Cordovez
+  doi: 10.1186/s13071-016-1884-8
+  issn: 1756-3305
+  journal: Parasites \& Vectors
+  keywords: Mathematical modeling, Chagas disease, Rhodnius prolixus, House infestation,
+    Palm proximity, Risk factors
+  month: November
+  number: '1'
+  pages: '592'
+  title: Modeling the effects of palm-house proximity on the theoretical risk of Chagas
+    disease transmission in a rural locality of the Orinoco basin, Colombia
+  url: https://doi.org/10.1186/s13071-016-1884-8
+  urldate: '2024-01-23'
+  volume: '9'
+  year: 2016
+- ENTRYTYPE: article
+  ID: erazo_role_2016
+  author: D Erazo, J Cordovez
+  doi: 10.1186/s13071-015-1240-4
+  issn: 1756-3305
+  journal: Parasites \& Vectors
+  keywords: Mathematical modeling, Chagas disease, Rhodnius prolixus, House infestation,
+    Risk factors, Domestic lights
+  month: January
+  number: '1'
+  pages: '9'
+  title: The role of light in Chagas disease infection risk in Colombia
+  url: https://doi.org/10.1186/s13071-015-1240-4
+  urldate: '2024-01-23'
+  volume: '9'
+  year: 2016
+- ENTRYTYPE: article
+  ID: lemoine_using_2016
+  author: PD Lemoine, JM Cordovez, JM Zambrano, OL Sarmiento, JD Meisel, JA Valdivia,
+    R Zarama
+  doi: 10.1016/j.ypmed.2016.03.015
+  issn: 0091-7435
+  journal: Preventive Medicine
+  keywords: Agent based model, Bus Rapid Transit, Physical activity
+  month: July
+  pages: 39--45
+  title: Using agent based modeling to assess the effect of increased Bus Rapid Transit
+    system infrastructure on walking for transportation
+  url: https://www.sciencedirect.com/science/article/pii/S009174351630038X
+  urldate: '2024-01-23'
+  volume: '88'
+  year: 2016
+- ENTRYTYPE: article
+  ID: quintero_how_2016
+  author: MC Quintero, JM Cordovez, R Putnam
+  copyright: "\xA9 FASEB"
+  doi: 10.1096/fasebj.30.1_supplement.772.16
+  issn: 1530-6860
+  journal: The FASEB Journal
+  language: en
+  number: S1
+  pages: 772.16--772.16
+  title: How Inhibition of CO2/H+-sensitive Ionic Currents affects the Firing Rate
+    of a Single-Neuron Model of Central Chemoreceptors?
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.30.1_supplement.772.16
+  urldate: '2024-01-23'
+  volume: '30'
+  year: 2016
+- ENTRYTYPE: article
+  ID: lemoine_transmilenio_2016
+  author: "PD Lemoine, OL Sarmiento, JD Pinz\xF3n, JD Meisel, F Montes, D Hidalgo,\
+    \ M Pratt, JM Zambrano, JM Cordovez, R Zarama"
+  doi: 10.1007/s11524-015-0019-4
+  issn: 1468-2869
+  journal: Journal of Urban Health
+  keywords: Transportation, Physical activity, Bus rapid transit, Walking
+  language: en
+  month: April
+  number: '2'
+  pages: 256--270
+  title: TransMilenio, a Scalable Bus Rapid Transit System for Promoting Physical
+    Activity
+  url: https://doi.org/10.1007/s11524-015-0019-4
+  urldate: '2024-01-23'
+  volume: '93'
+  year: 2016
+- ENTRYTYPE: article
+  ID: cordovez_impact_2015
+  author: JM Cordovez, F Guhl
+  doi: 10.1016/j.actatropica.2015.07.030
+  issn: 0001-706X
+  journal: Acta Tropica
+  keywords: Chagas disease, Household spraying, Landscape transformation, Reinfestation
+  month: November
+  pages: 73--79
+  series: Ecology and diversity of {Trypanosoma} cruzi
+  title: The impact of landscape transformation on the reinfestation rates of Rhodnius
+    prolixus in the Orinoco Region, Colombia
+  url: https://www.sciencedirect.com/science/article/pii/S0001706X15300772
+  urldate: '2024-01-23'
+  volume: '151'
+  year: 2015
+- ENTRYTYPE: article
+  ID: ferro_spatial_2015
+  author: "C Ferro, M L\xF3pez, P Fuya, L Lugo, JM Cordovez, C Gonz\xE1lez"
+  doi: 10.1371/journal.pone.0139391
+  issn: 1932-6203
+  journal: PLOS ONE
+  keywords: Species diversity, Ecosystems, Colombia, Leishmania, Sand flies, Insect
+    vectors, Leishmaniasis, Protozoan infections
   language: en
   month: October
   number: '10'
-  pages: 1727--1736
-  title: Global phylogeography and ancient evolution of the widespread human gut virus
-    crAssphage
-  url: https://www.nature.com/articles/s41564-019-0494-6
-  urldate: '2024-01-22'
-  volume: '4'
-  year: 2019
-- ENTRYTYPE: article
-  ID: posada-perlaza_bogota_2019
-  author: "CE Posada-Perlaza, A Ram\xEDrez-Rojas, P Porras, B Adu-Oppong, A Botero-Coy,\
-    \ F Hern\xE1ndez, JM Anzola, L D\xEDaz, G Dantas, A Reyes, MM Zambrano"
-  copyright: 2019 The Author(s)
-  doi: 10.1038/s41598-019-48200-6
-  issn: 2045-2322
-  journal: Scientific Reports
-  keywords: Metagenomics, Antimicrobial resistance
-  language: en
-  month: August
-  number: '1'
-  pages: '11764'
-  title: "Bogot\xE1 River anthropogenic contamination alters microbial communities\
-    \ and promotes spread of antibiotic resistance genes"
-  url: https://www.nature.com/articles/s41598-019-48200-6
-  urldate: '2024-01-22'
-  volume: '9'
-  year: 2019
-- ENTRYTYPE: article
-  ID: andrade-martinez_defining_2019
-  author: "JS Andrade-Mart\xEDnez, JL Moreno-Gallego, A Reyes"
-  copyright: 2019 The Author(s)
-  doi: 10.1038/s41598-019-47742-z
-  issn: 2045-2322
-  journal: Scientific Reports
-  keywords: Phylogenetics, Classification and taxonomy, Viral evolution, Herpes virus,
-    Phylogeny
-  language: en
-  month: August
-  number: '1'
-  pages: '11342'
-  title: Defining a Core Genome for the Herpesvirales and Exploring their Evolutionary
-    Relationship with the Caudovirales
-  url: https://www.nature.com/articles/s41598-019-47742-z
-  urldate: '2024-01-22'
-  volume: '9'
-  year: 2019
-- ENTRYTYPE: article
-  ID: moreno-gallego_virome_2019
-  author: JL Moreno-Gallego, S Chou, SCD Rienzi, JK Goodrich, TD Spector, JT Bell,
-    ND Youngblut, I Hewson, A Reyes, RE Ley
-  doi: 10.1016/j.chom.2019.01.019
-  issn: 1931-3128
-  journal: Cell Host \& Microbe
-  keywords: human gut microbiome, concordant and discordant monozygotic twins, human
-    gut virome
-  language: English
-  month: February
-  number: '2'
-  pages: 261--272.e5
-  pmid: '30763537'
-  title: Virome Diversity Correlates with Intestinal Microbiome Diversity in Adult
-    Monozygotic Twins
-  url: https://www.cell.com/cell-host-microbe/abstract/S1931-3128(19)30059-9
-  urldate: '2024-01-22'
-  volume: '25'
-  year: 2019
-- ENTRYTYPE: article
-  ID: amann_toward_2019
-  author: "RI Amann, S Baichoo, BJ Blencowe, P Bork, M Borodovsky, C Brooksbank, PSG\
-    \ Chain, RR Colwell, DG Daffonchio, A Danchin, V de Lorenzo, PC Dorrestein, RD\
-    \ Finn, CM Fraser, JA Gilbert, SJ Hallam, P Hugenholtz, JPA Ioannidis, JK Jansson,\
-    \ JF Kim, H Klenk, MG Klotz, R Knight, KT Konstantinidis, NC Kyrpides, CE Mason,\
-    \ AC McHardy, F Meyer, CA Ouzounis, AAN Patrinos, M Podar, KS Pollard, J Ravel,\
-    \ AR Mu\xF1oz, RJ Roberts, R Rossell\xF3-M\xF3ra, S Sansone, PD Schloss, LM Schriml,\
-    \ JC Setubal, R Sorek, RL Stevens, JM Tiedje, A Turjanski, GW Tyson, DW Ussery,\
-    \ GM Weinstock, O White, WB Whitman, I Xenarios"
-  doi: 10.1126/science.aaw1280
-  journal: Science
-  month: January
-  number: '6425'
-  pages: 350--352
-  title: Toward unrestricted use of public genomic data
-  url: https://www.science.org/doi/full/10.1126/science.aaw1280
-  urldate: '2024-01-22'
-  volume: '363'
-  year: 2019
-- ENTRYTYPE: article
-  ID: roux_minimum_2019
-  author: "S Roux, EM Adriaenssens, BE Dutilh, EV Koonin, AM Kropinski, M Krupovic,\
-    \ JH Kuhn, R Lavigne, JR Brister, A Varsani, C Amid, RK Aziz, SR Bordenstein,\
-    \ P Bork, M Breitbart, GR Cochrane, RA Daly, C Desnues, MB Duhaime, JB Emerson,\
-    \ F Enault, JA Fuhrman, P Hingamp, P Hugenholtz, BL Hurwitz, NN Ivanova, JM Labont\xE9\
-    , K Lee, RR Malmstrom, M Martinez-Garcia, IK Mizrachi, H Ogata, D P\xE1ez-Espino,\
-    \ M Petit, C Putonti, T Rattei, A Reyes, F Rodriguez-Valera, K Rosario, L Schriml,\
-    \ F Schulz, GF Steward, MB Sullivan, S Sunagawa, CA Suttle, B Temperton, SG Tringe,\
-    \ RV Thurber, NS Webster, KL Whiteson, SW Wilhelm, KE Wommack, T Woyke, KC Wrighton,\
-    \ P Yilmaz, T Yoshida, MJ Young, N Yutin, LZ Allen, NC Kyrpides, EA Eloe-Fadrosh"
-  copyright: 2018 The Author(s)
-  doi: 10.1038/nbt.4306
-  issn: 1546-1696
-  journal: Nature Biotechnology
-  keywords: Metagenomics, Environmental microbiology, Phage biology, Virology, Genetic
-    databases
-  language: en
-  month: January
-  number: '1'
-  pages: 29--37
-  title: Minimum Information about an Uncultivated Virus Genome (MIUViG)
-  url: https://www.nature.com/articles/nbt.4306
-  urldate: '2024-01-22'
-  volume: '37'
-  year: 2019
-- ENTRYTYPE: article
-  ID: quintanilla_local_2018
-  author: "E Quintanilla, C Ram\xEDrez-Portilla, B Adu-Oppong, G Walljasper, SP Glaeser,\
-    \ T Wilke, AR Mu\xF1oz, JA S\xE1nchez"
-  copyright: 2018 The Author(s)
-  doi: 10.1038/s41598-018-33007-8
-  issn: 2045-2322
-  journal: Scientific Reports
-  keywords: Microbiome, Symbiosis
-  language: en
-  month: October
-  number: '1'
-  pages: '14636'
-  title: Local confinement of disease-related microbiome facilitates recovery of gorgonian
-    sea fans from necrotic-patch disease
-  url: https://www.nature.com/articles/s41598-018-33007-8
-  urldate: '2024-01-22'
-  volume: '8'
-  year: 2018
-- ENTRYTYPE: article
-  ID: restrepo_pirvp_2018
-  author: "L Restrepo, B Bayot, S Arciniegas, L Baja\xF1a, I Betancourt, F Panchana,\
-    \ A Reyes Mu\xF1oz"
-  copyright: 2018 The Author(s)
-  doi: 10.1038/s41598-018-30903-x
-  issn: 2045-2322
-  journal: Scientific Reports
-  keywords: Pathogens, Comparative genomics, Molecular evolution
-  language: en
-  month: August
-  number: '1'
-  pages: '13080'
-  title: PirVP genes causing AHPND identified in a new Vibrio species (Vibrio punensis)
-    within the commensal Orientalis clade
-  url: https://www.nature.com/articles/s41598-018-30903-x
-  urldate: '2024-01-22'
-  volume: '8'
-  year: 2018
-- ENTRYTYPE: article
-  ID: restrepo_draft_2018
-  author: "L Restrepo, A Reyes, L Baja\xF1a, I Betancourt, B Bayot"
-  doi: 10.1128/genomea.00605-18
-  journal: Genome Announcements
-  month: June
-  number: '26'
-  pages: 10.1128/genomea.00605--18
-  title: Draft Genome Sequence of a White Spot Syndrome Virus Isolate Obtained in
-    Ecuador
-  url: https://journals.asm.org/doi/full/10.1128/genomea.00605-18
-  urldate: '2024-01-22'
-  volume: '6'
-  year: 2018
-- ENTRYTYPE: article
-  ID: gonzalez-zapata_holobiont_2018
-  author: "FL Gonzalez-Zapata, P Bongaerts, C Ram\xEDrez-Portilla, B Adu-Oppong, G\
-    \ Walljasper, A Reyes, JA Sanchez"
-  doi: 10.3389/fmars.2018.00029
-  issn: 2296-7745
-  journal: Frontiers in Marine Science
-  title: Holobiont Diversity in a Reef-Building Coral over Its Entire Depth Range
-    in the Mesophotic Zone
-  url: https://www.frontiersin.org/articles/10.3389/fmars.2018.00029
-  urldate: '2024-01-22'
-  volume: '5'
-  year: 2018
-- ENTRYTYPE: incollection
-  ID: castro-mejia_extraction_2018
-  address: New York, NY
-  author: "JL Castro-Mej\xEDa, L Deng, FK Vogensen, A Reyes, DS Nielsen"
-  booktitle: 'The {Human} {Virome}: {Methods} and {Protocols}'
-  doi: 10.1007/978-1-4939-8682-8_5
-  editor: "Moya, Andr\xE9s and P\xE9rez Brocal, Vicente"
-  isbn: 978-1-4939-8682-8
-  keywords: Extraction procedures, Gut-virome, Metagenome of extracellular viral-like
-    particles (eVLPs), Morphology, Polyethylene-glycol (PEG) precipitation
-  language: en
-  pages: 49--57
-  publisher: Springer
-  series: Methods in {Molecular} {Biology}
-  title: Extraction and Purification of Viruses from Fecal Samples for Metagenome
-    and Morphology Analyses
-  url: https://doi.org/10.1007/978-1-4939-8682-8_5
-  urldate: '2024-01-22'
-  year: 2018
-- ENTRYTYPE: article
-  ID: dutilh_editorial_2017
-  author: BE Dutilh, A Reyes, RJ Hall, KL Whiteson
-  doi: 10.3389/fmicb.2017.01710
-  issn: 1664-302X
-  journal: Frontiers in Microbiology
-  shorttitle: Editorial
-  title: 'Editorial: Virus Discovery by Metagenomics: The (Im)possibilities'
-  url: https://www.frontiersin.org/articles/10.3389/fmicb.2017.01710
-  urldate: '2024-01-22'
-  volume: '8'
-  year: 2017
-- ENTRYTYPE: article
-  ID: buitrago_florez_changing_2017
-  author: "F Buitrago Fl\xF3rez, R Casallas, M Hern\xE1ndez, A Reyes, S Restrepo,\
-    \ G Danies"
-  doi: 10.3102/0034654317710096
-  issn: 0034-6543
-  journal: Review of Educational Research
-  language: en
-  month: August
-  number: '4'
-  pages: 834--860
-  shorttitle: "Changing a {Generation}\u2019s {Way} of {Thinking}"
-  title: "Changing a Generation\u2019s Way of Thinking: Teaching Computational Thinking\
-    \ Through Programming"
-  url: https://doi.org/10.3102/0034654317710096
-  urldate: '2024-01-22'
-  volume: '87'
-  year: 2017
-- ENTRYTYPE: article
-  ID: reyes_use_2017
-  author: A Reyes, J Marcelo P Alves, AM Durham, A Gruber
-  doi: 10.2147/AGG.S136574
-  issn: 'null'
-  journal: Advances in Genomics and Genetics
-  keywords: profile hidden Markov models, de novo diagnosis, DNA assembly, metagenomic
-    analysis, molecular markers, viral discovery
-  month: July
-  pages: 29--45
-  shorttitle: Use of profile hidden {Markov} models in viral discovery
-  title: 'Use of profile hidden Markov models in viral discovery: current insights'
-  url: https://www.tandfonline.com/doi/abs/10.2147/AGG.S136574
-  urldate: '2024-01-22'
-  volume: '7'
-  year: 2017
-- ENTRYTYPE: article
-  ID: borbon-garcia_captivity_2017
-  author: "A Borb\xF3n-Garc\xEDa, A Reyes, M Vives-Fl\xF3rez, S Caballero"
-  doi: 10.3389/fmicb.2017.01316
-  issn: 1664-302X
-  journal: Frontiers in Microbiology
-  shorttitle: Captivity {Shapes} the {Gut} {Microbiota} of {Andean} {Bears}
-  title: 'Captivity Shapes the Gut Microbiota of Andean Bears: Insights into Health
-    Surveillance'
-  url: https://www.frontiersin.org/articles/10.3389/fmicb.2017.01316
-  urldate: '2024-01-22'
-  volume: '8'
-  year: 2017
-- ENTRYTYPE: article
-  ID: rodriguez-castano_advances_2017
-  author: "GP Rodriguez-Casta\xF1o, A Caro-Quintero, A Reyes, F Lizcano"
-  doi: 10.3389/fgene.2016.00224
-  issn: 1664-8021
-  journal: Frontiers in Genetics
-  title: Advances in Gut Microbiome Research, Opening New Strategies to Cope with
-    a Western Lifestyle
-  url: https://www.frontiersin.org/articles/10.3389/fgene.2016.00224
-  urldate: '2024-01-22'
-  volume: '7'
-  year: 2017
-- ENTRYTYPE: article
-  ID: alves_genseed-hmm_2016
-  author: JMP Alves, AL de Oliveira, TOM Sandberg, JL Moreno-Gallego, MAF de Toledo,
-    EMM de Moura, LS Oliveira, AM Durham, DU Mehnert, PMdA Zanotto, A Reyes, A Gruber
-  doi: 10.3389/fmicb.2016.00269
-  issn: 1664-302X
-  journal: Frontiers in Microbiology
-  shorttitle: '{GenSeed}-{HMM}'
-  title: 'GenSeed-HMM: A Tool for Progressive Assembly Using Profile HMMs as Seeds
-    and its Application in Alpavirinae Viral Discovery from Metagenomic Data'
-  url: https://www.frontiersin.org/articles/10.3389/fmicb.2016.00269
-  urldate: '2024-01-22'
-  volume: '7'
-  year: 2016
-- ENTRYTYPE: article
-  ID: reyes_gut_2015
-  author: A Reyes, LV Blanton, S Cao, G Zhao, M Manary, I Trehan, MI Smith, D Wang,
-    HW Virgin, F Rohwer, JI Gordon
-  doi: 10.1073/pnas.1514285112
-  journal: Proceedings of the National Academy of Sciences
-  month: September
-  number: '38'
-  pages: 11941--11946
-  title: Gut DNA viromes of Malawian twins discordant for severe acute malnutrition
-  url: https://www.pnas.org/doi/abs/10.1073/pnas.1514285112
-  urldate: '2024-01-22'
-  volume: '112'
+  pages: e0139391
+  title: Spatial Distribution of Sand Fly Vectors and Eco-Epidemiology of Cutaneous
+    Leishmaniasis Transmission in Colombia
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0139391
+  urldate: '2024-01-23'
+  volume: '10'
   year: 2015
 - ENTRYTYPE: article
-  ID: dorsett_hcodes_2014
-  author: Y Dorsett, Y Zhou, AT Tubbs, B Chen, C Purman, B Lee, R George, AL Bredemeyer,
-    J Zhao, E Sodergen, GM Weinstock, ND Han, A Reyes, EM Oltz, D Dorsett, Z Misulovin,
-    JE Payton, BP Sleckman
-  doi: 10.1016/j.molcel.2014.10.024
-  issn: 1097-2765
-  journal: Molecular Cell
-  language: English
-  month: December
-  number: '6'
-  pages: 808--818
-  pmid: '25435138'
-  title: HCoDES Reveals Chromosomal DNA End Structures with Single-Nucleotide Resolution
-  url: https://www.cell.com/molecular-cell/abstract/S1097-2765(14)00834-X
-  urldate: '2024-01-22'
-  volume: '56'
-  year: 2014
+  ID: contreras_computational_2015
+  author: S Contreras, M Quintero, R Putnam, J Santin, L Hartzler, J Cordovez
+  copyright: "\xA9 FASEB"
+  doi: 10.1096/fasebj.29.1_supplement.860.10
+  issn: 1530-6860
+  journal: The FASEB Journal
+  language: en
+  number: S1
+  pages: '860.10'
+  title: A Computational Model of Temperature-Dependent Intracellular pH Regulation
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.29.1_supplement.860.10
+  urldate: '2024-01-23'
+  volume: '29'
+  year: 2015
 - ENTRYTYPE: article
-  ID: seedorf_bacteria_2014
-  author: "H Seedorf, NW Griffin, VK Ridaura, A Reyes, J Cheng, FE Rey, MI Smith,\
-    \ GM Simon, RH Scheffrahn, D Woebken, AM Spormann, W Van\_Treuren, LK Ursell,\
-    \ M Pirrung, A Robbins-Pianka, BL Cantarel, V Lombard, B Henrissat, R Knight,\
-    \ JI Gordon"
-  doi: 10.1016/j.cell.2014.09.008
-  issn: 0092-8674, 1097-4172
-  journal: Cell
-  language: English
-  month: October
-  number: '2'
-  pages: 253--266
-  pmid: '25284151'
-  title: Bacteria from Diverse Habitats Colonize and Compete in the Mouse Gut
-  url: https://www.cell.com/cell/abstract/S0092-8674(14)01156-8
-  urldate: '2024-01-22'
-  volume: '159'
-  year: 2014
+  ID: quintero_preliminary_2015
+  author: M Quintero, J Cordovez, R Putnam
+  copyright: "\xA9 FASEB"
+  doi: 10.1096/fasebj.29.1_supplement.860.11
+  issn: 1530-6860
+  journal: The FASEB Journal
+  language: en
+  number: S1
+  pages: '860.11'
+  title: A Preliminary Ionic Current Model for Central Chemosensitive Neurons
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.29.1_supplement.860.11
+  urldate: '2024-01-23'
+  volume: '29'
+  year: 2015
 - ENTRYTYPE: article
-  ID: reyes_gnotobiotic_2013
-  author: A Reyes, M Wu, NP McNulty, FL Rohwer, JI Gordon
-  doi: 10.1073/pnas.1319470110
-  journal: Proceedings of the National Academy of Sciences
-  month: December
-  number: '50'
-  pages: 20236--20241
-  title: "Gnotobiotic mouse model of phage\u2013bacterial host dynamics in the human\
-    \ gut"
-  url: https://www.pnas.org/doi/abs/10.1073/pnas.1319470110
-  urldate: '2024-01-22'
+  ID: rendon_new_2015
+  author: "LM Rend\xF3n, F Guhl, JM Cordovez, D Erazo"
+  doi: 10.1590/0074-02760140403
+  issn: 0074-0276, 1678-8060
+  journal: "Mem\xF3rias do Instituto Oswaldo Cruz"
+  keywords: Chagas disease, Rhodnius prolixus, Attalea butyracea, infection index,
+    infestation index, insect domiciliation
+  language: en
+  month: March
+  pages: 283--288
+  title: New scenarios of \textitTrypanosoma cruzi transmission in the Orinoco region
+    of Colombia
+  url: https://www.scielo.br/j/mioc/a/Mk9d3zZYcYmMKbZ4yQhfp6y/?lang=en
+  urldate: '2024-01-23'
   volume: '110'
-  year: 2013
+  year: 2015
 - ENTRYTYPE: article
-  ID: lim_discovery_2013
-  author: ES Lim, A Reyes, M Antonio, D Saha, UN Ikumapayi, M Adeyemi, OC Stine, R
-    Skelton, DC Brennan, RS Mkakosya, MJ Manary, JI Gordon, D Wang
-  doi: 10.1016/j.virol.2012.12.005
-  issn: 0042-6822
-  journal: Virology
-  keywords: Recombination, Alternative splicing, Polyomavirus, Tumor antigen, Virus
-    discovery
-  month: February
-  number: '2'
-  pages: 295--303
-  title: Discovery of STL polyomavirus, a polyomavirus of ancestral recombinant origin
-    that encodes a unique T antigen by alternative splicing
-  url: https://www.sciencedirect.com/science/article/pii/S0042682212005971
-  urldate: '2024-01-22'
-  volume: '436'
-  year: 2013
-- ENTRYTYPE: article
-  ID: reyes_is-seq_2012
-  author: "A Reyes, A Sandoval, A Cubillos-Ruiz, KE Varley, I Hern\xE1ndez-Neuta,\
-    \ S Samper, C Mart\xEDn, MJ Garc\xEDa, V Ritacco, L L\xF3pez, J Robledo, MM Zambrano,\
-    \ RD Mitra, P Del Portillo"
-  doi: 10.1186/1471-2164-13-249
-  issn: 1471-2164
-  journal: BMC Genomics
-  keywords: Tuberculosis, Conditional Mutual Information, Insertion Site, IS6110 Element,
-    Restriction Fragment Length Polymorphism
-  month: June
-  number: '1'
-  pages: '249'
-  shorttitle: '{IS}-seq'
-  title: 'IS-seq: a novel high throughput survey of in vivo IS6110 transposition in
-    multiple Mycobacterium tuberculosis genomes'
-  url: https://doi.org/10.1186/1471-2164-13-249
-  urldate: '2024-01-22'
-  volume: '13'
-  year: 2012
-- ENTRYTYPE: article
-  ID: siebrasse_identification_2012
-  author: EA Siebrasse, A Reyes, ES Lim, G Zhao, RS Mkakosya, MJ Manary, JI Gordon,
-    D Wang
-  doi: 10.1128/jvi.01210-12
-  journal: Journal of Virology
-  month: October
-  number: '19'
-  pages: 10321--10326
-  title: Identification of MW Polyomavirus, a Novel Polyomavirus in Human Stool
-  url: https://journals.asm.org/doi/full/10.1128/jvi.01210-12
-  urldate: '2024-01-22'
-  volume: '86'
-  year: 2012
-- ENTRYTYPE: article
-  ID: reyes_going_2012
-  author: A Reyes, NP Semenkovich, K Whiteson, F Rohwer, JI Gordon
-  copyright: 2012 Springer Nature Limited
-  doi: 10.1038/nrmicro2853
-  issn: 1740-1534
-  journal: Nature Reviews Microbiology
-  keywords: Metagenomics, Microbiota, Phage biology, Next-generation sequencing
+  ID: bernal-escobar_sex_2015
+  author: A Bernal-Escobar, E Payan, JM Cordovez
+  doi: 10.1016/j.ecolmodel.2014.12.002
+  issn: 0304-3800
+  journal: Ecological Modelling
+  keywords: "Population dynamics, Human\u2013jaguar conflict, Jaguar conservation,\
+    \ Reaction-diffusion models, Sex-biased behaviour"
+  month: March
+  pages: 40--50
+  title: Sex dependent spatially explicit stochastic dispersal modeling as a framework
+    for the study of jaguar conservation and management in South America
+  url: https://www.sciencedirect.com/science/article/pii/S0304380014006085
+  urldate: '2024-01-23'
+  volume: '299'
+  year: 2015
+- ENTRYTYPE: inproceedings
+  ID: cordovez_biodiversity_2015
+  address: Cham
+  author: JM Cordovez, C Sanabria
+  booktitle: Analysis, {Modelling}, {Optimization}, and {Numerical} {Techniques}
+  doi: 10.1007/978-3-319-12583-1_17
+  editor: Tost, Gerard Olivar and Vasilieva, Olga
+  isbn: 978-3-319-12583-1
+  keywords: Virulence, Biodiversity, Cycles, Epidemiological network
   language: en
-  month: September
-  number: '9'
-  pages: 607--617
-  shorttitle: Going viral
-  title: 'Going viral: next-generation sequencing applied to phage populations in
-    the human gut'
-  url: https://www.nature.com/articles/nrmicro2853
-  urldate: '2024-01-22'
-  volume: '10'
-  year: 2012
+  pages: 247--256
+  publisher: Springer International Publishing
+  series: Springer {Proceedings} in {Mathematics} \& {Statistics}
+  title: Biodiversity and its Role on Diseases Transmission Cycles
+  year: 2015
 - ENTRYTYPE: article
-  ID: forsberg_shared_2012
-  author: KJ Forsberg, A Reyes, B Wang, EM Selleck, MOA Sommer, G Dantas
-  doi: 10.1126/science.1220761
-  journal: Science
-  month: August
-  number: '6098'
-  pages: 1107--1111
-  title: The Shared Antibiotic Resistome of Soil Bacteria and Human Pathogens
-  url: https://www.science.org/doi/full/10.1126/science.1220761
-  urldate: '2024-01-22'
-  volume: '337'
-  year: 2012
-- ENTRYTYPE: article
-  ID: kim_noncomplementation_2012
-  author: HS Kim, J Huh, L Riles, A Reyes, JC Fay
-  doi: 10.1534/g3.112.002550
-  issn: 2160-1836
-  journal: G3 Genes{\textbar}Genomes{\textbar}Genetics
-  month: July
-  number: '7'
-  pages: 753--760
-  title: A Noncomplementation Screen for Quantitative Trait Alleles in Saccharomyces
-    cerevisiae
-  url: https://doi.org/10.1534/g3.112.002550
-  urldate: '2024-01-22'
-  volume: '2'
-  year: 2012
-- ENTRYTYPE: incollection
-  ID: cardona_genomic_2012
-  author: M Mercedes, G Hernndez-Neuta, I Hernndez-Neuta, A Sandoval, A Cubillos-Ruiz,
-    A Reyes, P Del
-  booktitle: Understanding {Tuberculosis} - {Deciphering} the {Secret} {Life} of the
-    {Bacilli}
-  doi: 10.5772/31276
-  editor: Cardona, Pere-Joan
-  isbn: 978-953-307-946-2
+  ID: geritano_implementation_2014
+  author: M Geritano, S Lam, M O'Neal, J Cordovez, I Solomon
+  copyright: "\xA9 FASEB"
+  doi: 10.1096/fasebj.28.1_supplement.714.4
+  issn: 1530-6860
+  journal: The FASEB Journal
   language: en
-  month: February
-  publisher: InTech
-  title: Genomic Variability of Mycobacterium tuberculosis
-  url: http://www.intechopen.com/books/understanding-tuberculosis-deciphering-the-secret-life-of-the-bacilli/genomic-variability-of-mycobacterium-tuberculosis
-  urldate: '2024-01-22'
-  year: 2012
+  number: S1
+  pages: '714.4'
+  title: "Implementation of rapid prototyping to produce a 3-dimensional physical\
+    \ model of the anatomical distribution of functionally identified cat pre-B\xF6\
+    tzinger complex microinjection sites (714.4)"
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.28.1_supplement.714.4
+  urldate: '2024-01-23'
+  volume: '28'
+  year: 2014
 - ENTRYTYPE: article
-  ID: goodman_extensive_2011
-  author: AL Goodman, G Kallstrom, JJ Faith, A Reyes, A Moore, G Dantas, JI Gordon
-  doi: 10.1073/pnas.1102938108
-  journal: Proceedings of the National Academy of Sciences
+  ID: cordovez_assessment_2014
+  author: J Cordovez, M O'Neal III, I Solomon
+  copyright: "\xA9 FASEB"
+  doi: 10.1096/fasebj.28.1_supplement.712.15
+  issn: 1530-6860
+  journal: The FASEB Journal
+  language: en
+  number: S1
+  pages: '712.15'
+  title: "Assessment of multivariate classification analysis methods on 3-dimensional\
+    \ anatomical distribution of functionally identified cat pre-B\xF6tzinger complex\
+    \ microinjection sites (712.15)"
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.28.1_supplement.712.15
+  urldate: '2024-01-23'
+  volume: '28'
+  year: 2014
+- ENTRYTYPE: article
+  ID: putnam_computational_2014
+  author: R Putnam, M Quintero, J Santin, J Cordovez, L Hartzler
+  copyright: "\xA9 FASEB"
+  doi: 10.1096/fasebj.28.1_supplement.1128.3
+  issn: 1530-6860
+  journal: The FASEB Journal
+  language: en
+  number: S1
+  pages: '1128.3'
+  title: Computational modeling of the effects of temperature on chemosensitive locus
+    coeruleus neurons from bullfrogs (1128.3)
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.28.1_supplement.1128.3
+  urldate: '2024-01-23'
+  volume: '28'
+  year: 2014
+- ENTRYTYPE: article
+  ID: cordovez_environmental_2014
+  author: JM Cordovez, C Sanabria
+  doi: 10.4137/EHI.S16002
+  issn: 1178-6302
+  journal: Environmental Health Insights
+  language: en
+  month: January
+  pages: EHI.S16002
+  title: Environmental Changes Can Produce Shifts in Chagas Disease Infection Risk
+  url: https://doi.org/10.4137/EHI.S16002
+  urldate: '2024-01-23'
+  volume: 8s2
+  year: 2014
+- ENTRYTYPE: article
+  ID: cordovez_using_2014
+  author: JM Cordovez, LM Rendon, C Gonzalez, F Guhl
+  doi: 10.1016/j.actatropica.2013.10.003
+  issn: 0001-706X
+  journal: Acta Tropica
+  keywords: Chagas disease, Basic reproduction number, Climate change, Next generation
+    matrix, Temperature
+  month: January
+  pages: 74--82
+  series: Human {Infectious} {Diseases} and {Environmental} {Changes}
+  title: Using the basic reproduction number to assess the effects of climate change
+    in the risk of Chagas disease transmission in Colombia
+  url: https://www.sciencedirect.com/science/article/pii/S0001706X13002775
+  urldate: '2024-01-23'
+  volume: '129'
+  year: 2014
+- ENTRYTYPE: inproceedings
+  ID: quintero_role_2013
+  author: MC Quintero, JM Cordovez, RW Putnam
+  booktitle: 2013 {Pan} {American} {Health} {Care} {Exchanges} ({PAHCE})
+  doi: 10.1109/PAHCE.2013.6568212
+  keywords: Mathematical model, Neurons, brainstem, chemosensitive neuron, Data models,
+    Drugs, Educational institutions, Firing, Hodking-Huxley model, hypercapnia, Sleep
+    apnea
   month: April
-  number: '15'
-  pages: 6252--6257
-  title: Extensive personal human gut microbiota culture collections characterized
-    and manipulated in gnotobiotic mice
-  url: https://www.pnas.org/doi/abs/10.1073/pnas.1102938108
-  urldate: '2024-01-22'
-  volume: '108'
+  pages: 1--1
+  title: The role of calcium-activated braking pathways in chemosensitive neurons
+  url: https://ieeexplore.ieee.org/abstract/document/6568212
+  urldate: '2024-01-23'
+  year: 2013
+- ENTRYTYPE: inproceedings
+  ID: erazo_spatial_2013
+  author: DC Erazo, JM Cordovez
+  booktitle: 2013 {Pan} {American} {Health} {Care} {Exchanges} ({PAHCE})
+  doi: 10.1109/PAHCE.2013.6568207
+  keywords: Biological system modeling, Mathematical model, Diseases, Chagas disease,
+    Rhodnius prolixus, Data models, infestation, Insects, Materials, risk factors,
+    Vectors
+  month: April
+  pages: 1--2
+  title: A spatial agent based model for the simulation of house infestation by R.
+    prolixus the principal vector of Chagas disease in Colombia
+  url: https://ieeexplore.ieee.org/abstract/document/6568207
+  urldate: '2024-01-23'
+  year: 2013
+- ENTRYTYPE: inproceedings
+  ID: plata_effect_2013
+  author: CA Plata, MC Quintero, JM Cordovez
+  booktitle: 2013 {Pan} {American} {Health} {Care} {Exchanges} ({PAHCE})
+  doi: 10.1109/PAHCE.2013.6568216
+  keywords: Mathematical model, Neurons, Firing, Air pollution, Atmospheric modeling,
+    Chemosensitive, firing rate, Hodgkin and Huxley, pH-sensitive, Rhythm, Ventilation
+  month: April
+  pages: 1--1
+  title: The effect of atmospheric CO2 on mammal's ventilatory rate
+  url: https://ieeexplore.ieee.org/abstract/document/6568216
+  urldate: '2024-01-23'
+  year: 2013
+- ENTRYTYPE: article
+  ID: quintero_accelerators_2013
+  author: MC Quintero, JM Cordovez, RW Putnam
+  copyright: "\xA9 FASEB"
+  doi: 10.1096/fasebj.27.1_supplement.1137.25
+  issn: 1530-6860
+  journal: The FASEB Journal
+  language: en
+  number: S1
+  pages: 1137.25--1137.25
+  title: Accelerators and brakes in CO2 chemosensitive neurons
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.27.1_supplement.1137.25
+  urldate: '2024-01-23'
+  volume: '27'
+  year: 2013
+- ENTRYTYPE: incollection
+  ID: cordovez_population_2013
+  author: "JM Cordovez, JR Arteaga B, M Mari\xF1o, AG De Luna, A Link"
+  booktitle: '{BIOMAT} 2012'
+  doi: 10.1142/9789814520829_0017
+  isbn: 978-981-4520-81-2
+  keywords: Ateles hybridus, conservation biology, population biology, patch model
+  month: June
+  pages: 282--300
+  publisher: WORLD SCIENTIFIC
+  title: Population dynamics of spider monkey (ateles hybridus) in a fragmented landscape
+    in colombia
+  url: https://www.worldscientific.com/doi/abs/10.1142/9789814520829_0017
+  urldate: '2024-01-23'
+  year: 2013
+- ENTRYTYPE: incollection
+  ID: bernal_spatially_2012
+  author: AM Bernal, J Cordovez, E Payan
+  booktitle: '{BIOMAT} 2011'
+  doi: 10.1142/9789814397711_0003
+  isbn: 978-981-4397-70-4
+  month: March
+  pages: 23--42
+  publisher: WORLD SCIENTIFIC
+  title: Spatially explicit dispersal modeling for the conservation of jaguars in
+    colombia
+  url: https://www.worldscientific.com/doi/abs/10.1142/9789814397711_0003
+  urldate: '2024-01-23'
+  year: 2012
+- ENTRYTYPE: article
+  ID: horn_exploring_2011
+  author: KG Horn, JM Cordovez, IC Solomon
+  copyright: "\xA9 FASEB"
+  doi: 10.1096/fasebj.25.1_supplement.653.3
+  issn: 1530-6860
+  journal: The FASEB Journal
+  language: en
+  number: S1
+  pages: 653.3--653.3
+  title: Exploring hypoglossal motoneuron behavior using dynamical systems analysis
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.25.1_supplement.653.3
+  urldate: '2024-01-23'
+  volume: '25'
   year: 2011
 - ENTRYTYPE: article
-  ID: reyes_viruses_2010
-  author: A Reyes, M Haynes, N Hanson, FE Angly, AC Heath, F Rohwer, JI Gordon
-  copyright: 2010 Springer Nature Limited
-  doi: 10.1038/nature09199
-  issn: 1476-4687
-  journal: Nature
-  keywords: Microbiota, Genomics, Virology
+  ID: cordovez_functional_2011
+  author: J Cordovez, MC Quintero, IC Solomon
+  copyright: "\xA9 FASEB"
+  doi: 10.1096/fasebj.25.1_supplement.lb636
+  issn: 1530-6860
+  journal: The FASEB Journal
   language: en
-  month: July
-  number: '7304'
-  pages: 334--338
-  title: Viruses in the faecal microbiota of monozygotic twins and their mothers
-  url: https://www.nature.com/articles/nature09199
-  urldate: '2024-01-22'
-  volume: '466'
+  number: S1
+  pages: lb636--lb636
+  title: Functional homeostatic-excitable cell model for CO2 chemosensing
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.25.1_supplement.lb636
+  urldate: '2024-01-23'
+  volume: '25'
+  year: 2011
+- ENTRYTYPE: article
+  ID: reid_influence_2011
+  author: IM Reid, JM Garzon, JM Cordovez, IC Solomon
+  copyright: "\xA9 FASEB"
+  doi: 10.1096/fasebj.25.1_supplement.847.19
+  issn: 1530-6860
+  journal: The FASEB Journal
+  language: en
+  number: S1
+  pages: 847.19--847.19
+  title: Influence of different classes of anesthetics on the acute hypoxic ventilatory
+    response (HVR) in adult Sprague-Dawley rat in vivo
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.25.1_supplement.847.19
+  urldate: '2024-01-23'
+  volume: '25'
+  year: 2011
+- ENTRYTYPE: article
+  ID: cordovez_role_2010
+  author: JM Cordovez, C Clausen, LC Moore, IC Solomon
+  copyright: "\xA9 2010 FASEB"
+  doi: 10.1096/fasebj.24.1_supplement.1026.1
+  issn: 1530-6860
+  journal: The FASEB Journal
+  language: en
+  number: S1
+  pages: 1026.1--1026.1
+  title: Role of pH regulatory components in the transduction response of central
+    CO2 chemoreceptors
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.24.1_supplement.1026.1
+  urldate: '2024-01-23'
+  volume: '24'
+  year: 2010
+- ENTRYTYPE: inproceedings
+  ID: cordovez_geometrical_2010
+  address: New York, NY
+  author: JM Cordovez, CG Wilson, IC Solomon
+  booktitle: New {Frontiers} in {Respiratory} {Control}
+  doi: 10.1007/978-1-4419-5692-7_9
+  editor: Homma, Ikuo and Onimaru, Hiroshi and Fukuchi, Yoshinosuke
+  isbn: 978-1-4419-5692-7
+  language: en
+  pages: 45--48
+  publisher: Springer
+  series: Advances in {Experimental} {Medicine} and {Biology}
+  shorttitle: Geometrical {Analysis} of {Bursting} {Pacemaker} {Neurons} {Generated}
+    by {Computational} {Models}
+  title: "Geometrical Analysis of Bursting Pacemaker Neurons Generated by Computational\
+    \ Models: Comparison to In Vitro Pre-B\xF6tzinger Complex Bursting Neurons"
   year: 2010
 - ENTRYTYPE: article
-  ID: garcia_differential_2009
-  author: "JC Garc\xEDa, A Reyes, M Salazar, CB Granja"
-  doi: 10.1016/j.aquaculture.2009.01.020
-  issn: 0044-8486
-  journal: Aquaculture
-  keywords: (), Differential gene expression, Haemocytes, Real time PCR, Suppression
-    Subtractive Hybridization, White Spot Syndrome Virus
-  month: April
-  number: '3'
-  pages: 253--258
-  title: "Differential gene expression in White Spot Syndrome Virus (WSSV)-infected\
-    \ na\xEFve and previously challenged Pacific white shrimp Penaeus (Litopenaeus)\
-    \ vannamei"
-  url: https://www.sciencedirect.com/science/article/pii/S004484860900060X
-  urldate: '2024-01-22'
-  volume: '289'
+  ID: perkins_nhe1_2009
+  author: MH Perkins, MM Pritz, JM Cordovez, IC Solomon
+  copyright: "\xA9 2009 FASEB"
+  doi: 10.1096/fasebj.23.1_supplement.621.3
+  issn: 1530-6860
+  journal: The FASEB Journal
+  language: en
+  number: S1
+  pages: 621.3--621.3
+  title: NHE1, NHE3, and NHE5 mRNA expression in brainstem and cortex of Sprague-Dawley
+    rat
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.23.1_supplement.621.3
+  urldate: '2024-01-23'
+  volume: '23'
   year: 2009
 - ENTRYTYPE: article
-  ID: olano_mutations_2007
-  author: "J Olano, B L\xF3pez, A Reyes, M del Pilar Lemos, N Correa, P Del Portillo,\
-    \ L Barrera, J Robledo, V Ritacco, M Mercedes Zambrano"
-  doi: 10.1016/j.tube.2007.05.011
-  issn: 1472-9792
-  journal: Tuberculosis
-  keywords: DNA repair enzymes, Multi-drug resistant tuberculosis, Single nucleotide
-    polymorphism
-  month: November
-  number: '6'
-  pages: 502--508
-  title: Mutations in DNA repair genes are associated with the Haarlem lineage of
-    Mycobacterium tuberculosis independently of their antibiotic resistance
-  url: https://www.sciencedirect.com/science/article/pii/S1472979207000637
-  urldate: '2024-01-22'
-  volume: '87'
-  year: 2007
-- ENTRYTYPE: incollection
-  ID: portillo_chapter_2007
-  author: "PD Portillo, A Reyes, L Salazar, MJ Garc\xEDa"
-  booktitle: Tuberculosis {Textbook}
+  ID: cordovez_study_2009
+  author: JM Cordovez, C Clausen, L Moore, I Solomon
+  copyright: "\xA9 2009 FASEB"
+  doi: 10.1096/fasebj.23.1_supplement.621.1
+  issn: 1530-6860
+  journal: The FASEB Journal
   language: en
-  title: 'Chapter 4: Genomics and Proteomics'
-  year: 2007
+  number: S1
+  pages: 621.1--621.1
+  title: "Study of central CO2 chemosensitivity using a combined Goldman\u2013Hodgkin-Katz\
+    \ (GHK) and Hodgkin-Huxley (HH) type of model"
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.23.1_supplement.621.1
+  urldate: '2024-01-23'
+  volume: '23'
+  year: 2009
 - ENTRYTYPE: article
-  ID: reyes_temperature_2007
-  author: A Reyes, M Salazar, C Granja
-  doi: 10.1016/j.dci.2006.05.003
-  issn: 0145-305X
-  journal: Developmental \& Comparative Immunology
-  keywords: Gene expression, -actin, Hyperthermia, SSH, Subcuticular epithelium, Viral
-    proteins, White spot syndrome virus
-  month: January
-  number: '1'
-  pages: 23--29
-  title: Temperature modifies gene expression in subcuticular epithelial cells of
-    white spot syndrome virus-infected Litopenaeus vannamei
-  url: https://www.sciencedirect.com/science/article/pii/S0145305X06000784
-  urldate: '2024-01-22'
-  volume: '31'
+  ID: cordovez_exploring_2008
+  author: JM Cordovez, C Clausen, LC Moore, IC Solomon
+  copyright: "\xA9 FASEB"
+  doi: 10.1096/fasebj.22.1_supplement.1172.7
+  issn: 1530-6860
+  journal: The FASEB Journal
+  language: en
+  number: S1
+  pages: 1172.7--1172.7
+  title: Exploring the mechanisms for pH regulation in central respiratory chemoreceptors
+    using a mathematical model
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.22.1_supplement.1172.7
+  urldate: '2024-01-23'
+  volume: '22'
+  year: 2008
+- ENTRYTYPE: incollection
+  ID: cordovez_mathematical_2008
+  address: New York, NY
+  author: JM Cordovez, C Clausen, LC Moore, IC Solomon
+  booktitle: 'Integration in {Respiratory} {Control}: {From} {Genes} to {Systems}'
+  doi: 10.1007/978-0-387-73693-8_53
+  editor: Poulin, Marc J. and Wilson, Richard J. A.
+  isbn: 978-0-387-73693-8
+  keywords: Chemosensitive Neuron, Hypercapnic Acidosis, Intrinsic Buffer Capacity,
+    Maintained Reduction, Model Formulation
+  language: en
+  pages: 306--311
+  publisher: Springer
+  series: Advances in {Experimental} {Medicine} and {Biology}
+  title: A Mathematical Model of pHi Regulation in Central CO2 - Chemoreception
+  url: https://doi.org/10.1007/978-0-387-73693-8_53
+  urldate: '2024-01-23'
+  year: 2008
+- ENTRYTYPE: article
+  ID: cordovez_mathematical_2007
+  author: JM Cordovez, C Clausen, LC Moore, IC Solomon
+  copyright: "\xA9 FASEB"
+  doi: 10.1096/fasebj.21.6.A916-d
+  issn: 1530-6860
+  journal: The FASEB Journal
+  language: en
+  number: '6'
+  pages: A916--A917
+  title: A mathematical model of pHi regulation in central CO2 chemoreception
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.21.6.A916-d
+  urldate: '2024-01-23'
+  volume: '21'
   year: 2007
+- ENTRYTYPE: inproceedings
+  ID: cordovez_differences_2006
+  author: JM Cordovez, C Clausen, LC Moore, IC Solomon
+  booktitle: 2006 {International} {Conference} of the {IEEE} {Engineering} in {Medicine}
+    and {Biology} {Society}
+  doi: 10.1109/IEMBS.2006.260895
+  keywords: Mathematical model, Neurons, Physiology, Biophysics, Cities and towns,
+    Kinetic theory, Steady-state, Testing, USA Councils, Water
+  month: August
+  pages: 6589--6592
+  shorttitle: Differences {In} {pHi} {Recovery} {In} {CO}/sub 2/-{Chemosensitive}
+    {And} {Non}-{Chemosensitive} {Cells}
+  title: 'Differences In pHi Recovery In CO/sub 2/-Chemosensitive And Non-Chemosensitive
+    Cells: Predictions From A Mathematical model'
+  url: https://ieeexplore.ieee.org/abstract/document/4030606
+  urldate: '2024-01-23'
+  volume: Supplement
+  year: 2006
+- ENTRYTYPE: article
+  ID: cordovez_phi_2006
+  author: JM Cordovez, C Clausen, LC Moore, IC Solomon
+  copyright: "\xA9 FASEB"
+  doi: 10.1096/fasebj.20.4.A786-c
+  issn: 1530-6860
+  journal: The FASEB Journal
+  language: en
+  number: '4'
+  pages: A786--A787
+  shorttitle: '{pHi} {Regulation} {In} {Central} {CO2}-{Chemosensitive} {And} {Non}-{Chemosensitive}
+    {Cells}'
+  title: 'pHi Regulation In Central CO2-Chemosensitive And Non-Chemosensitive Cells:
+    A Mathematical Model'
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.20.4.A786-c
+  urldate: '2024-01-23'
+  volume: '20'
+  year: 2006
+- ENTRYTYPE: article
+  ID: rosas_morbilidad_2002
+  author: F Rosas, F Guhl, V Velasco, L Jumbo, C Jaramillo, D Rodriguez, E Gil, G
+    Aguilera, C Herrera, N Pinto, D Barrios, JM Cordovez, J Zipa, H Becerra, R Montoya,
+    I Cepeda, C Sarmiento, V Alvarez
+  journal: Rev. colomb. cardiol
+  language: es
+  pages: 349--359
+  title: Morbilidad de la enfermedad de Chagas en fase cronica en Colombia. Deteccion
+    de pacientes chagasicos con cardiopatia en un area endemica del departamento de
+    Boyaca
+  url: http://www.scc.org.co/revista.cfm?do=verarticulo&id=107
+  urldate: '2024-01-23'
+  year: 2002

@@ -68,8 +68,10 @@ The BCEM is a research group based on principles of excellence and scientific ri
 [Here]({{ site.url }}{{ site.baseurl }}/research) is a more detailed description of our research interests.
 
 
-<figure class="fourth">
+<figure class="fourth" style="text-align: center;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Uniandes.png" style="width: 200px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/harmonize.png" style="width: 225px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-tracelac.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Ciencias.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nfs.jpg" style="width: 100px">
 </figure>

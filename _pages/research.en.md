@@ -39,7 +39,7 @@ In our Research Group in Mathematical and Computational Biology, we engage in pr
 ---
 
 #### **Health Logistics**
-![]({{ site.url }}{{ site.baseurl }}/images/research/LdI_Politicas_Publicas.jpg){: style="width: 350px; float: right; margin: 0px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/research/LdI_Logistica_en_Salud.jpg){: style="width: 350px; float: right; margin: 0px  10px"}
 
 In our Research Group in Mathematical and Computational Biology, we focus on projects related to Health Logistics. We address the issue of poisoning caused by snakebites (Ophidian Accident) and seek to implement prevention and control strategies. Additionally, we investigate organ allocation for transplantation using a stochastic agent-based model with the goal of proposing more effective allocation schemes. Furthermore, we explore oncolytic virotherapy as an innovative alternative in cancer treatment, utilizing mathematical models to understand the dynamics of interaction between cancer cells and the myxoma virus. For this project, we collaborate with the Center for Immunotherapy, Vaccinology, and Virotherapy at the Institute for Biodesign at Arizona State University (ASU) to contribute to the improvement of health logistics and the well-being of society.
 

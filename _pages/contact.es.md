@@ -17,11 +17,11 @@ inheader_order:
 <h3>Juan Manuel Cordovez</h3>
 <i class="fa fa-map-marker"></i> Universidad de los Andes <br>
 Cra 1 Nº 18A - 10, Bogotá, Colombia <br>
-<i class="fa fa-building"></i> Edificio ML, Oficina 821 <br>
+<i class="fa fa-building"></i> Edificio Mario Laserna (ML), Oficina 821 <br>
 
 <i class="fa fa-envelope-o"></i> jucordov[at]uniandes.edu.co <br>
 
-<i class="fa fa-phone"></i> +(601) 339 49 99 
+<i class="fa fa-phone"></i> +(601) 339 49 49 Ext.1824
 </div>
 
 <div class="col-sm-4 clearfix">
@@ -32,18 +32,18 @@ Cra 1 Nº 18A - 10, Bogotá, Colombia <br>
 
 <i class="fa fa-envelope-o"></i> om.santos[at]uniandes.edu.co <br>   
 
-<i class="fa fa-phone"></i> +(601) 339 49 99
+<i class="fa fa-phone"></i> 
 </div>
 
 <div class="col-sm-4 clearfix">
 <h3>José R. Arteaga</h3>
 <i class="fa fa-map-marker"></i> Universidad de los Andes <br>
 Cra 1 Nº 18A - 10, Bogotá, Colombia <br>
-<i class="fa fa-building"></i> Edificio J, Oficina 211 <br>
+<i class="fa fa-building"></i> Edificio H, Oficina 405 <br>
 
 <i class="fa fa-envelope-o"></i> jarteaga[at]uniandes.edu.co <br>
 
-<i class="fa fa-phone"></i> +(601) 339 49 99
+<i class="fa fa-phone"></i> +(601) 339 49 99 Ext. 2707
 </div>
 
 

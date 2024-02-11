@@ -1,80 +1,84 @@
 - ENTRYTYPE: article
-  image: virify.png
-  ID: rangel-pineros_virify_2023
-  author: "G Rangel-Pineros, A Almeida, M Beracochea, E Sakharova, M Marz, AR Mu\xF1\
-    oz, M H\xF6lzer, RD Finn"
-  doi: 10.1371/journal.pcbi.1011422
-  issn: 1553-7358
-  journal: PLOS Computational Biology
-  keywords: Metagenomics, Genome annotation, Taxonomy, Bacteriophages, Eukaryota,
-    Hidden Markov models, Viral genomics, Viral taxonomy
+  ID: ferro_spatial_2015
+  author: "C Ferro, M L\xF3pez, P Fuya, L Lugo, JM Cordovez, C Gonz\xE1lez"
+  doi: 10.1371/journal.pone.0139391
+  issn: 1932-6203
+  journal: PLOS ONE
+  keywords: Species diversity, Ecosystems, Colombia, Leishmania, Sand flies, Insect
+    vectors, Leishmaniasis, Protozoan infections
   language: en
-  month: August
-  number: '8'
-  pages: e1011422
-  shorttitle: '{VIRify}'
-  title: 'VIRify: An integrated detection, annotation and taxonomic classification
-    pipeline using virus-specific protein profile hidden Markov models'
-  url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011422
-  description: El estudio presenta VIRify, un proceso computacional para caracterizar comunidades virales a partir de datos de secuenciación. VIRify identifica con precisión contigs virales y profagos, utilizando modelos de Markov ocultos de perfil para la clasificación taxonómica, demostrando una alta precisión en diversos conjuntos de datos, incluyendo comunidades microbianas simuladas y estudios metagenómicos.
-  urldate: '2024-01-22'
-  volume: '19'
-  year: 2023
+  month: October
+  number: '10'
+  pages: e0139391
+  title: 'Spatial Distribution of Sand Fly Vectors and Eco-Epidemiology
+    of Cutaneous Leishmaniasis Transmission in Colombia'
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0139391
+  urldate: '2024-01-23'
+  volume: '10'
+  year: 2015
+  description: La leishmaniasis, principalmente cutánea, es endémica en Colombia, donde el reordenamiento de los ciclos de transmisión debido a la intervención humana en zonas selváticas repercute en su propagación. Analizando la distribución del vector en relación con el clima, el uso del suelo y la prevalencia, este estudio constata que los flebótomos, especialmente Lutzomyia gomezi y Psychodopygus panamensis, prevalecen en zonas perturbadas, lo que subraya la necesidad de estrategias de prevención específicas.
+  image: 'leishmania.png'
 - ENTRYTYPE: article
-  image: tools_viromes.png
-  ID: andrade-martinez_computational_2022
-  author: "JS Andrade-Mart\xEDnez, LC Camelo Valera, LA Chica C\xE1rdenas, L Forero-Junco,\
-    \ G L\xF3pez-Leal, JL Moreno-Gallego, G Rangel-Pineros, A Reyes"
-  doi: 10.1128/mmbr.00004-21
-  journal: Microbiology and Molecular Biology Reviews
-  month: March
-  number: '2'
-  pages: e00004--21
-  title: Computational Tools for the Analysis of Uncultivated Phage Genomes
-  url: https://journals.asm.org/doi/full/10.1128/mmbr.00004-21
-  description: Esta revisión profundiza en los significativos avances de la investigación sobre bacteriófagos, destacando el impacto de la metagenómica para desvelar la vasta diversidad genética de los fagos, lo que ha llevado al desarrollo de herramientas computacionales para analizar las secuencias genómicas de los fagos a través de cinco análisis clave.
-  urldate: '2024-01-22'
-  volume: '86'
+  ID: cascante-vega_how_2022
+  author: J Cascante-Vega, S Torres-Florez, J Cordovez, M Santos-Vega
+  doi: 10.1098/rsos.210803
+  journal: Royal Society Open Science
+  keywords: behaviour, game theory, mathematical epidemiology, transmission drivers
+  month: January
+  number: '1'
+  pages: '210803'
+  shorttitle: How disease risk awareness modulates transmission
+  title: 'How disease risk awareness modulates transmission: coupling infectious disease
+    models with behavioural dynamics'
+  url: https://royalsocietypublishing.org/doi/full/10.1098/rsos.210803
+  urldate: '2024-01-23'
+  volume: '9'
   year: 2022
+  description: La dinámica del comportamiento, en particular las respuestas adaptativas debidas a la concienciación sobre la infección, influyen significativamente en la transmisión de enfermedades. Un marco teórico que integra la teoría de juegos con modelos epidemiológicos revela que una mayor concienciación conduce a una disminución de las tasas de infección en modelos susceptibles-infectados-susceptibles (SIS). Además, la estructura espacial de las redes de contacto influye en los resultados en estado estacionario, lo que indica la importancia de considerar tanto los factores conductuales como los espaciales en la dinámica de la enfermedad.
+  image: 'behaviour.png'
 - ENTRYTYPE: article
-  image: covid.jpg
-  ID: hufsky_computational_2021
-  author: "F Hufsky, K Lamkiewicz, A Almeida, A Aouacheria, C Arighi, A Bateman, J\
-    \ Baumbach, N Beerenwinkel, C Brandt, ... A Reyes, L Richardson, DL Robertson, S Sadegh, JB Singer, K Theys,\
-    \ C Upton, M Welzel, L Williams, M Marz"
-  doi: 10.1093/bib/bbaa232
-  issn: 1477-4054
-  journal: Briefings in Bioinformatics
-  month: March
-  number: '2'
-  pages: 642--663
-  shorttitle: Computational strategies to combat {COVID}-19
-  title: 'Computational strategies to combat COVID-19: useful tools to accelerate
-    SARS-CoV-2 and coronavirus research'
-  url: https://doi.org/10.1093/bib/bbaa232
-  description: Este trabajo explora la aparición de herramientas bioinformáticas adaptadas al SARS-CoV-2, ofreciendo una visión completa de sus aplicaciones en la detección de infecciones, el análisis de datos de secuenciación, el seguimiento de la pandemia, el estudio de la evolución del virus y el desarrollo de estrategias terapéuticas para hacer frente a la actual crisis del COVID-19.
-  urldate: '2024-01-22'
-  volume: '22'
+  ID: ballesteros_deciphering_2021
+  author: "N Ballesteros, M Mu\xF1oz, LH Pati\xF1o, C Hern\xE1ndez, F Gonz\xE1lez-Casabianca,\
+    \ I Carroll, M Santos-Vega, J Cascante, A Angel, A Feged-Rivadeneira, M Palma-Cuero,\
+    \ C Fl\xF3rez, S Gomez, Avd Guchte, Z Khan, J Dutta, A Obla, HA Alshammary, AS\
+    \ Gonzalez-Reiche, MM Hernandez, EM Sordillo, V Simon, Hv Bakel, AE Paniz-Mondolfi,\
+    \ JD Ram\xEDrez"
+  doi: 10.1371/journal.pntd.0009327
+  issn: 1935-2735
+  journal: PLOS Neglected Tropical Diseases
+  keywords: Genomics, Phylogenetic analysis, Genome analysis, Epidemiology, SARS CoV
+    2, Colombia, Brazil, Indigenous populations
+  language: en
+  month: April
+  number: '4'
+  pages: e0009327
+  title: 'Deciphering the introduction and transmission of SARS-CoV-2 in the Colombian Amazon Basin'
+  url: https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0009327
+  urldate: '2024-01-23'
+  volume: '15'
   year: 2021
+  description: La epidemiología genómica del SRAS-CoV-2 en el departamento colombiano del Amazonas revela la existencia de dos clusters distintos del virus, lo que indica introducciones independientes, una asociada a la transmisión local y otra a genomas sudamericanos vecinos. Este estudio subraya la importancia de comprender la dinámica de transmisión del virus en poblaciones vulnerables, en particular las comunidades indígenas, y hace hincapié en la necesidad de adoptar medidas específicas de prevención y control de la infección, especialmente a la luz de la aparición de la preocupante variante P.1.
+  image: 'covid.png'
 - ENTRYTYPE: article
-  image: twins.png
-  ID: moreno-gallego_virome_2019
-  author: JL Moreno-Gallego, S Chou, SCD Rienzi, JK Goodrich, TD Spector, JT Bell,
-    ND Youngblut, I Hewson, A Reyes, RE Ley
-  doi: 10.1016/j.chom.2019.01.019
-  issn: 1931-3128
-  journal: Cell Host & Microbe
-  keywords: human gut microbiome, concordant and discordant monozygotic twins, human
-    gut virome
-  language: English
+  ID: bravo-vega_generalized_2023
+  author: "C Bravo-Vega, C Renjifo-Iba\xF1ez, M Santos-Vega, LJL Nu\xF1ez, T Angarita-Sierra,\
+    \ JM Cordovez"
+  doi: 10.1371/journal.pntd.0011117
+  issn: 1935-2735
+  journal: PLOS Neglected Tropical Diseases
+  keywords: Ecological niches, Epidemiology, Colombia, Ecological risk, Medical risk
+    factors, Public and occupational health, Snakebite, Snakes
+  language: en
   month: February
   number: '2'
-  pages: 261--272.e5
-  pmid: '30763537'
-  title: Virome Diversity Correlates with Intestinal Microbiome Diversity in Adult
-    Monozygotic Twins
-  url: https://www.cell.com/cell-host-microbe/abstract/S1931-3128(19)30059-9
-  description: El viroma sigue siendo un componente relativamente inexplorado del microbioma. Moreno-Gallego y Chou et al. examinaron los viromas de gemelos monocigóticos para averiguar cómo se relaciona la diversidad del microbioma con la diversidad del viroma, sin variables genéticas del huésped. Las parejas de gemelos se clasificaron según su concordancia alta o baja en el microbioma, lo que reveló una correlación entre los viromas.
-  urldate: '2024-01-22'
-  volume: '25'
-  year: 2019
+  pages: e0011117
+  shorttitle: A generalized framework for estimating snakebite underreporting using
+    statistical models
+  title: 'A generalized framework for estimating snakebite underreporting using statistical
+    models: A study in Colombia'
+  url: https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011117
+  urldate: '2024-01-23'
+  volume: '17'
+  year: 2023
+  description: El envenenamiento por mordedura de serpiente, a menudo desatendido, presenta desafíos debido a la falta de notificación, especialmente en regiones donde se prefiere la medicina tradicional o la accesibilidad a la atención sanitaria es limitada. Un novedoso marco que integra la distribución de las serpientes, los niveles de pobreza y el acceso a la atención médica estima que aproximadamente el 10,19% de los casos de mordedura de serpiente en Colombia no se notifican anualmente, sobre todo en las regiones de la Orinoquia y la Amazonia. Este enfoque ofrece una herramienta valiosa para estimar y abordar el subregistro, ayudando en el desarrollo de estrategias de gestión específicas, aunque no sustituye la necesidad de sistemas de vigilancia robustos.
+  image: 'snakes.png'

@@ -37,7 +37,7 @@ En nuestro Grupo de Investigación en Biología Matemática y Computacional, nos
 ---
 
 #### **Logística en Salud**
-![]({{ site.url }}{{ site.baseurl }}/images/research/LdI_Politicas_Publicas.jpg){: style="width: 350px; float: right; margin: 0px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/research/LdI_Logistica_en_Salud.jpg){: style="width: 350px; float: right; margin: 0px  10px"}
 
 En nuestro Grupo de Investigación en Biología Matemática y Computacional, nos enfocamos en proyectos relacionados con Logística en Salud. Abordamos la problemática del envenenamiento causado por mordeduras de serpiente (Accidente Ofídico), y buscamos implementar estrategias de prevención y control. Además, investigamos la asignación de órganos para trasplante mediante un modelo estocástico basado en agentes, con el objetivo de proponer esquemas de asignación más efectivos. Adicionalmente, exploramos la viroterapia oncolítica como una alternativa innovadora en el tratamiento del cáncer, utilizando modelos matemáticos para entender la dinámica de interacción entre células cancerígenas y el virus del mixoma. Para este proyecto contamos con la colaboración del Centro de Inmunoterapia, Vacunología y Viroterapia del Instituto de Biodiseño de Arizona State University (ASU) para contribuir al mejoramiento de la logística en salud y al bienestar de la sociedad. 
 

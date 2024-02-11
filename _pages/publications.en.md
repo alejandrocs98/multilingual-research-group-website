@@ -10,8 +10,7 @@ inheader_order: 3
 
 # Publications
 
-For a full list see [below](#full-list) or go to
-[<i class="ai ai-google-scholar"></i>  Google Scholar](https://scholar.google.ch/citations?user={{ site.scholar_username }})
+For a full list see [below](#full-list) 
 <!-- [<i class="ai ai-researchgate"></i>  Research Gate](http://www.researchgate.net/profile/{{ site.resgate_username }}),
 [<i class="ai ai-orcid"></i> Orcid](http://orcid.org/{{ site.orcid_username }}) <br>
 Pre-prints are [here](#preprints) or on
