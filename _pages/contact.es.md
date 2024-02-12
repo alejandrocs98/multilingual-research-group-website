@@ -15,8 +15,8 @@ inheader_order:
 
 <i class="fa fa-map-marker"></i> 
 Universidad de los Andes <br>
-Edificio Hermes, Oficina 201 <br>
 Cra 1 Nº 18A - 10, Bogotá, Colombia <br>
+<i class="fa fa-building"></i> Edificio Hermes (Ch), Oficina 201 <br>
 
 <i class="fa fa-envelope-o"></i> a.reyes[at]uniandes.edu.co
 
