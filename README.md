@@ -1,4 +1,4 @@
-# Multilingual research group website template
+# BIOMAC research group website 
 
 
 
