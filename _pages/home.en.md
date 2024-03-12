@@ -10,14 +10,14 @@ inheader_order:
 {% assign lang = site.active_lang %}
 <div style="text-align: left; margin-bottom: 20px;">
 
-![]({{ site.url }}{{ site.baseurl }}/images/bcem_logo_nt.png){: style="width: 155px; float: left; margin: 0px  10px"}
-# Computational Biology and Microbial Ecology
+![]({{ site.url }}{{ site.baseurl }}/images/biomac_logo_nt.png){: style="width: 95px; float: left; margin: 0px  10px"}
+# Mathematical and Computational Biology
 
 </div>
 
 <div style="text-align: center; margin-bottom: 0px;">
 
-##### ( _Para ver la página en español [haga click aquí]({{ site.url }}{{ site.baseurl }}/es/ ) <span class="flag-icon flag-icon-esp"></span>_ )
+##### ( _Para ver la página en español [haga click aquí]({{ site.url }}{{ site.baseurl }} ) <span class="flag-icon flag-icon-esp"></span>_ )
 
 </div>
 
