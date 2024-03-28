@@ -8,9 +8,6 @@
       {{ include.member.name }}
     {% endif %}
   </b>
-  {% if include.member.website %}
-    <a target="_blank" href="http://{{ include.member.website }}"></a>
-  {% endif %}
   ({{ include.member.started }}-{{ include.member.ended }}) {{ include.member.info }}
   {% if include.member.after %}
     <strong>&rarr;</strong> {{ include.member.after }} <span class="flag-icon flag-icon-{{ include.member.country_after }}"></span>
