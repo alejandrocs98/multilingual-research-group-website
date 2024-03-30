@@ -1,16 +1,10 @@
 ---
-name: Juan Manuel Anzola
+name: Mauricio Pacheco
 country: col
 website: 
-photo: 
-info: Postdoc
-started: 2017
-ended: 2019
-number_educ: 
-education1: 
-education2: 
-education3: 
-education4: 
+info: M.Sc.
+started: 2000
+ended: 2010
 email: 
 cv: 
 scholarusername: 
@@ -22,7 +16,6 @@ biorxivusername:
 linkedinusername: 
 twitterusername: 
 githubusername:  
-interests:
-after: Associate Professor @ Universidad Central
+after: Bioinformatician @ Public Health Laboratory of the Secretariat of Health of Bogota
 country_after: col
 ---

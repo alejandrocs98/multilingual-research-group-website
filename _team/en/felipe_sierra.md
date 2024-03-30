@@ -3,7 +3,7 @@ name: Felipe Sierra
 country: col
 website: 
 photo: 
-info: M.Sc.
+info: M.Sc. (co-advised Diego Jimenez)
 started: 2021
 ended: 2023
 number_educ: 

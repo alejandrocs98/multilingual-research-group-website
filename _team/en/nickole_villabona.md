@@ -13,13 +13,13 @@ education3:
 education4: 
 email: 
 cv: 
-scholarusername: 
+scholarusername: odpyW8YAAAAJ&hl
 resgateusername: 
-orcidusername: 
+orcidusername: 0000-0001-5269-2270
 publonsusername: 
 arxivusername: 
 biorxivusername: 
-linkedinusername: 
+linkedinusername: nickole-villabona-b48357232
 twitterusername: 
 githubusername: 
 interests:

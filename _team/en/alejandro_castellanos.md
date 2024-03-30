@@ -4,8 +4,9 @@ country: col
 website: 
 photo: alejandro_castellanos.jpg
 info: Visiting Researcher
+# info: Graduate Student
 started: 2018
-ended: 
+# ended: 2024
 email: a.castellanoss@uniandes.edu.co
 number_educ: 3
 education1: M.Sc. in Computational Biology, Universidad de los Andes, Bogotá, Colombia
@@ -19,6 +20,6 @@ twitterusername: alejandrocs_98
 githubusername:  alejandrocs98
 linkedinusername: alejandrocs98
 interests: Ecological and metabolic modeling of the gut microbiome
-after: 
-country_after: 
+after: Graduate Student @ Duke University
+country_after: usa
 ---

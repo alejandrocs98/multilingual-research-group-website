@@ -14,8 +14,8 @@ education4:
 email: 
 cv: 
 scholarusername: 
-resgateusername: 
-orcidusername: 
+resgateusername: https://www.researchgate.net/profile/Edgar-Rico-Sierra
+orcidusername: 0000-0003-4291-7119
 publonsusername: 
 arxivusername: 
 biorxivusername: 

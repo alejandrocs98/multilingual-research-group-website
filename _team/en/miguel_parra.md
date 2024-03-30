@@ -1,16 +1,10 @@
 ---
-name: Juan Manuel Anzola
+name: Miguel Parra
 country: col
 website: 
-photo: 
 info: Postdoc
-started: 2017
-ended: 2019
-number_educ: 
-education1: 
-education2: 
-education3: 
-education4: 
+started: 2016
+ended: 2018
 email: 
 cv: 
 scholarusername: 
@@ -22,7 +16,6 @@ biorxivusername:
 linkedinusername: 
 twitterusername: 
 githubusername:  
-interests:
-after: Associate Professor @ Universidad Central
+after: Research Associate @ Universidad del Bosque
 country_after: col
 ---

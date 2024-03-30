@@ -1,11 +1,11 @@
 ---
-name: Leda Restrepo
+name: Dayanne P. Chaparro
 country: col
 website: 
 photo: 
-info: Ph.D.
-started: 2017
-ended: 2022
+info: M.Sc. (co-advised Diego Jimenez)
+started: 2022
+ended: 2023
 number_educ: 
 education1: 
 education2: 
@@ -15,14 +15,14 @@ email:
 cv: 
 scholarusername: 
 resgateusername: 
-orcidusername: 0000-0003-1784-3752
+orcidusername: 
 publonsusername: 
 arxivusername: 
 biorxivusername: 
-linkedinusername: 
+linkedinusername:
 twitterusername: 
-githubusername:  
+githubusername: 
 interests:
-after: Postdoctoral Fellow @ Johns Hopkins University
-country_after: usa
+after: 
+country_after: col
 ---

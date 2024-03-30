@@ -1,5 +1,5 @@
 ---
-name: Angela Peña
+name: Ángela Peña
 country: col
 website: 
 photo: 

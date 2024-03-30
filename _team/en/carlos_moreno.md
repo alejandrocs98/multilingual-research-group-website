@@ -1,16 +1,10 @@
 ---
-name: Juan Manuel Anzola
+name: Carlos Moreno Ibargüen
 country: col
 website: 
-photo: 
-info: Postdoc
+info: M.Sc.
 started: 2017
-ended: 2019
-number_educ: 
-education1: 
-education2: 
-education3: 
-education4: 
+ended: 2020
 email: 
 cv: 
 scholarusername: 
@@ -19,10 +13,9 @@ orcidusername:
 publonsusername: 
 arxivusername: 
 biorxivusername: 
-linkedinusername: 
+linkedinusername: carlos-moreno-ibargüen-5b642a28
 twitterusername: 
 githubusername:  
-interests:
-after: Associate Professor @ Universidad Central
+after: HPC Research Services Engineer @ Universidad de los Andes
 country_after: col
 ---

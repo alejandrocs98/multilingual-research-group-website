@@ -15,7 +15,7 @@ email:
 cv: 
 scholarusername: 
 resgateusername: 
-orcidusername: 
+orcidusername: 0000-0001-6089-9298
 publonsusername: 
 arxivusername: 
 biorxivusername: 
