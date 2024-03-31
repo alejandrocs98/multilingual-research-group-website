@@ -2,7 +2,7 @@
 name: Mauricio Pacheco
 country: col
 website: 
-info: M.Sc.
+position: M.Sc.
 started: 2000
 ended: 2010
 email: 
@@ -16,6 +16,7 @@ biorxivusername:
 linkedinusername: 
 twitterusername: 
 githubusername:  
-after: Bioinformatician @ Public Health Laboratory of the Secretariat of Health of Bogota
+position_after: Bioinformatician
+affiliation_after: Public Health Laboratory of the Secretariat of Health of Bogota
 country_after: col
 ---

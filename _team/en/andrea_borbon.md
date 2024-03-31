@@ -2,7 +2,7 @@
 name: Andrea Borbón
 country: col
 website: 
-info: M.Sc.
+position: M.Sc.
 started: 2000
 ended: 2010
 email: 
@@ -16,6 +16,7 @@ biorxivusername:
 linkedinusername: andrea-borb%C3%B3n-b147b9b8
 twitterusername: 
 githubusername:  
-after: Graduate Student @ Max Planck Institute for Biology in Tübingen
+position_after: Graduate Student
+affiliation_after: Max Planck Institute for Biology in Tübingen
 country_after: deu
 ---

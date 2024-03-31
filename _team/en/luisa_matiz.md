@@ -3,7 +3,7 @@ name: Luisa Fernanda Matiz Cerón
 country: col
 website: 
 photo: 
-info: M.Sc.
+position: M.Sc.
 started: 2018
 ended: 2021
 number_educ: 
@@ -23,6 +23,7 @@ linkedinusername:
 twitterusername: 
 githubusername:  
 interests:
-after: Graduate Student @ Hokkaido University
+position_after: Graduate Student
+affiliation_after: Hokkaido University
 country_after: jpn
 ---

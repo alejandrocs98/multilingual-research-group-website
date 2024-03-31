@@ -3,7 +3,8 @@ name: Nathalia A. Portilla
 country: col
 website: 
 photo: nathalia_portilla.jpg
-info: M.Sc. Student, Computational Biology
+position: M.Sc. Student
+affiliation: Computational Biology
 started: 2020
 ended:  
 number_educ: 1
@@ -23,6 +24,7 @@ linkedinusername:
 twitterusername: 
 githubusername: portillanath
 interests: Phage taxonomy
-after:
+position_after:
+affiliation_after: 
 country_after: 
 ---

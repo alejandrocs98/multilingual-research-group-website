@@ -2,7 +2,7 @@
 name: Camila Martinez
 country: col
 website: 
-info: B.Sc. & M.Sc.
+position: B.Sc. & M.Sc.
 started: 2014
 ended: 2018
 email: 
@@ -16,6 +16,7 @@ biorxivusername:
 linkedinusername: kamymartinez
 twitterusername: KamyBytes
 githubusername: KamyNz
-after: Lead Research Assistant in Bioinformatics & Data Expert @ Cenicaña
+position_after: Lead Research Assistant in Bioinformatics & Data Expert
+affiliation_after: Cenicaña
 country_after: col
 ---

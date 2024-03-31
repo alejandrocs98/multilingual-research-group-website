@@ -2,7 +2,7 @@
 name: Liliane Santana
 country: bra
 website: 
-info: Visiting Graduate Student
+position: Visiting Graduate Student
 started: 2000
 ended: 2010
 email: 
@@ -16,6 +16,7 @@ biorxivusername:
 linkedinusername: 
 twitterusername: 
 githubusername:  
-after: 
+position_after: 
+affiliation_after:  
 country_after: 
 ---

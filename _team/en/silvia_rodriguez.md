@@ -1,11 +1,11 @@
 ---
-name: 
-country: 
+name: Silvia Rodríguez
+country: col
 website: 
-photo: 
-position: 
-affiliation: 
-started:
+photo: bio_photo.jpg
+position: B.Sc. Student
+affiliation: Biology
+started: 2023
 ended:  
 number_educ: 
 education1: 

@@ -3,7 +3,7 @@ name: Felipe Sierra
 country: col
 website: 
 photo: 
-info: M.Sc. (co-advised Diego Jimenez)
+position: M.Sc. co-advised Diego Jimenez
 started: 2021
 ended: 2023
 number_educ: 
@@ -23,6 +23,7 @@ linkedinusername:
 twitterusername: 
 githubusername: 
 interests:
-after: Bioinformatician @ Center for Sustainable Development for Latin America
+position_after: Bioinformatician
+affiliation_after: Center for Sustainable Development for Latin America
 country_after: col
 ---

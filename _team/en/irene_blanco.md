@@ -3,7 +3,8 @@ name: Irene Blanco
 country: col
 website: 
 photo: bio_photo.jpg
-info: M.Sc. Student, Biological Sciences
+position: M.Sc. Student
+affiliation: Biological Sciences
 started: 2022
 ended:  
 number_educ: 2
@@ -22,7 +23,8 @@ biorxivusername:
 linkedinusername: 
 twitterusername: 
 githubusername:  
-interests: Fungal diversity
-after: M.Sc. Student @ Michigan State University
+interests: 
+position_after: M.Sc. Student
+affiliation_after: Michigan State University
 country_after: usa
 ---

@@ -3,7 +3,7 @@ name: Nickole Villabona
 country: col
 website: 
 photo: 
-info: B.Sc.
+position: B.Sc.
 started: 2018
 ended: 2022
 number_educ: 
@@ -23,6 +23,7 @@ linkedinusername: nickole-villabona-b48357232
 twitterusername: 
 githubusername: 
 interests:
-after: Graduate Student @ University of California, Irvine
+position_after: Graduate Student
+affiliation_after: University of California, Irvine
 country_after: usa
 ---

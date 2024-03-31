@@ -2,7 +2,7 @@
 name: Laura Avellaneda-Franco
 country: col
 website: 
-info: B.Sc & M.Sc.
+position: B.Sc & M.Sc.
 started: 2016
 ended: 2019
 email: 
@@ -16,6 +16,7 @@ biorxivusername:
 linkedinusername: laura-avellaneda-franco-03a757290
 twitterusername: 
 githubusername:  
-after: Graduate Student @ Monash University
+position_after: Graduate Student
+affiliation_after: Monash University
 country_after: aus
 ---

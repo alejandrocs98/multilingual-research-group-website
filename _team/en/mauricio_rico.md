@@ -3,7 +3,7 @@ name: E. Mauricio Rico
 country: col
 website: 
 photo: 
-info: M.Sc.
+position: M.Sc.
 started: 2020
 ended: 2023
 number_educ: 
@@ -23,6 +23,7 @@ linkedinusername:
 twitterusername: 
 githubusername:  
 interests:
-after: Research Assistant @ AGROSAVIA (Centro de Investigación Nataima)
+position_after: Research Assistant
+affiliation_after: AGROSAVIA (Centro de Investigación Nataima)
 country_after: col
 ---

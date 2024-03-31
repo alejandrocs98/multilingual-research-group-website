@@ -1,11 +1,11 @@
 ---
-name: 
-country: 
+name: Joshua M. Kirsch
+country: usa
 website: 
-photo: 
-position: 
-affiliation: 
-started:
+photo: bio_photo.jpg
+position: Visiting Graduate Student
+affiliation: University of Colorado School of Medicine
+started: 2024
 ended:  
 number_educ: 
 education1: 

@@ -2,7 +2,8 @@
 name: Juan Pablo Londoño
 country: col
 website: 
-info: B.Sc. (co-advised Jorge Duitama)
+position: B.Sc. co-advised Jorge Duitama
+affiliation: 
 started: 2022
 ended: 2023
 email: 
@@ -16,6 +17,7 @@ biorxivusername:
 linkedinusername: 
 twitterusername: 
 githubusername:  
-after: Visiting Student @ KAUST
+position_after: Visiting Student
+affiliation_after: KAUST
 country_after: sau
 ---

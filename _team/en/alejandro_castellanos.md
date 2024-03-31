@@ -3,8 +3,9 @@ name: Alejandro Castellanos
 country: col
 website: 
 photo: alejandro_castellanos.jpg
-info: Visiting Researcher
-# info: Graduate Student
+position: Visiting Researcher
+# position: B.Sc. & M.Sc.
+# affiliation: Computational Biology
 started: 2018
 # ended: 2024
 email: a.castellanoss@uniandes.edu.co
@@ -21,5 +22,7 @@ githubusername:  alejandrocs98
 linkedinusername: alejandrocs98
 interests: Ecological and metabolic modeling of the gut microbiome
 after: Graduate Student @ Duke University
+position_after: Graduate Student
+affiliation_after: Duke University
 country_after: usa
 ---

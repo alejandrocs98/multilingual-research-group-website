@@ -3,7 +3,7 @@ name: Maryam Chaib De Mares
 country: col
 website: 
 photo: 
-info: Postdoc
+position: Postdoc
 started: 2019
 ended: 2023
 number_educ: 
@@ -23,6 +23,7 @@ linkedinusername: maryamchaibdemares
 twitterusername: 
 githubusername:  
 interests:
-after: Assistant Professor @ Universidad Nacional de Colombia
+position_after: Assistant Professor
+affiliation_after: Universidad Nacional de Colombia
 country_after: col
 ---

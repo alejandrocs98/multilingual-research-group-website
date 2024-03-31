@@ -2,7 +2,7 @@
 name: Guillermo Rangel-Pineros
 country: col
 website: 
-info: Secondee
+position: Secondee
 started: 2018
 ended: 2020
 email: 
@@ -16,6 +16,7 @@ biorxivusername:
 linkedinusername: guillermorangelp
 twitterusername: 
 githubusername: guille0387
-after: Postdoctoral Researcher @ University of Copenhagen
+position_after: Postdoctoral Researcher
+affiliation_after: University of Copenhagen
 country_after: dnk
 ---

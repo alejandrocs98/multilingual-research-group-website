@@ -2,7 +2,7 @@
 name: Pablo Cárdenas
 country: col
 website: https://pablo-cardenas.com/
-info: B.Sc.
+position: B.Sc.
 started: 2000
 ended: 2010
 email: 
@@ -16,6 +16,7 @@ biorxivusername:
 linkedinusername: pablocarderam
 twitterusername: pcr_guy
 githubusername: pablocarderam
-after: Graduate Student @ MIT
+position_after: Graduate Student
+affiliation_after: MIT
 country_after: usa
 ---

@@ -3,7 +3,7 @@ name: Ángela Peña
 country: col
 website: 
 photo: 
-info: Postdoc
+position: Postdoc
 started: 2019
 ended: 2022
 number_educ: 
@@ -23,6 +23,7 @@ linkedinusername:
 twitterusername: 
 githubusername:  
 interests:
-after: Lead Bioinformatics Programmer @ Baylor College of Medicine
+position_after: Lead Bioinformatics Programmer
+affiliation_after: Baylor College of Medicine
 country_after: usa
 ---

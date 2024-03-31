@@ -3,7 +3,8 @@ name: Camilo García-Botero
 country: col
 website: https://camilogarciabotero.github.io/
 photo: camilo-garcia.jpeg
-info: Graduate Student, Biology
+position: Graduate Student
+affiliation: Biology
 started: 2023
 ended: 
 number_educ: 2
@@ -21,6 +22,7 @@ linkedinusername: alejandrocs98
 twitterusername: Gaspardelanoche
 githubusername:  camilogarciabotero
 interests: Phage genes discovery and classification
-after: 
+position_after: 
+affiliation_after: 
 country_after: 
 ---

@@ -3,7 +3,7 @@ name: Juan Manuel Anzola
 country: col
 website: 
 photo: 
-info: Postdoc
+position: Postdoc
 started: 2017
 ended: 2019
 number_educ: 
@@ -23,6 +23,7 @@ linkedinusername:
 twitterusername: 
 githubusername:  
 interests:
-after: Associate Professor @ Universidad Central
+position_after: Associate Professor
+affiliation_after: Universidad Central
 country_after: col
 ---

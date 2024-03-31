@@ -3,7 +3,7 @@ name: Leda Restrepo
 country: col
 website: 
 photo: 
-info: Ph.D.
+position: Ph.D.
 started: 2017
 ended: 2022
 number_educ: 
@@ -23,6 +23,7 @@ linkedinusername:
 twitterusername: 
 githubusername:  
 interests:
-after: Postdoctoral Fellow @ Johns Hopkins University
+position_after: Postdoctoral Fellow
+affiliation_after: Johns Hopkins University
 country_after: usa
 ---

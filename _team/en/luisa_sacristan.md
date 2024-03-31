@@ -3,7 +3,8 @@ name: Luisa Sacristán
 country: col
 website: 
 photo: luisa_sacristan.jpg
-info: Researcher
+position: Researcher
+affiliation: CABANA
 started: 2022
 ended:  
 number_educ: 2
@@ -23,6 +24,7 @@ linkedinusername:
 twitterusername: 
 githubusername: lusacristan
 interests: Ancient DNA metagenomics
-after:
+position_after:
+affiliation_after: 
 country_after: 
 ---

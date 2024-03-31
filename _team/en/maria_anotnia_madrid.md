@@ -3,7 +3,7 @@ name: María Antonia Madrid
 country: col
 website: 
 photo: 
-info: B.Sc.
+position: B.Sc.
 started: 2020
 ended: 2022
 number_educ: 
@@ -23,6 +23,7 @@ linkedinusername: maria-antonia-madrid-restrepo
 twitterusername: mariamadrid26
 githubusername: mariamadrid19
 interests:
-after: M.Sc. Student @ KU Leuven
+position_after: M.Sc. Student
+affiliation_after: KU Leuven
 country_after: bel
 ---

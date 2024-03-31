@@ -1,14 +1,14 @@
 ---
-name: 
-country: 
+name: Juanita Puentes
+country: col
 website: 
-photo: 
-position: 
-affiliation: 
-started:
+photo: bio_photo.jpg
+position: B.Sc. Student
+affiliation: Microbiology
+started: 2023
 ended:  
-number_educ: 
-education1: 
+number_educ: 1
+education1: B. Eng. in Biomedical Engineering, Universidad de los Andes, Colombia
 education2: 
 education3: 
 education4: 

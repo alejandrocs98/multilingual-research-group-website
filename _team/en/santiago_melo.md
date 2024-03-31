@@ -2,7 +2,7 @@
 name: Santiago Melo
 country: col
 website: 
-info: 
+position: 
 started: 2000
 ended: 2010
 email: 
@@ -16,6 +16,7 @@ biorxivusername:
 linkedinusername: 
 twitterusername: 
 githubusername:  
-after: 
+position_after:
+affiliation_after: 
 country_after: 
 ---

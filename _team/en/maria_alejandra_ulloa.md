@@ -3,7 +3,7 @@ name: María Alejandra Ulloa
 country: col
 website: 
 photo: 
-info: B.Sc.
+position: B.Sc.
 started: 2020
 ended: 2023
 number_educ: 
@@ -23,6 +23,7 @@ linkedinusername: ma-alejandra-ulloa
 twitterusername: 
 githubusername: 
 interests:
-after: M.Sc. Student @ KTH | Stockholm University | Karolinska Institute
+position_after: M.Sc. Student
+affiliation_after: KTH | Stockholm University | Karolinska Institute
 country_after: swe
 ---

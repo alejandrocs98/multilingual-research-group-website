@@ -3,7 +3,7 @@ name: Laura Camelo Varela
 country: col
 website: 
 photo: 
-info: B.Sc. & M.Sc.
+position: B.Sc. & M.Sc.
 started: 2017
 ended: 2021
 number_educ: 
@@ -23,6 +23,7 @@ linkedinusername:
 twitterusername: 
 githubusername:  
 interests:
-after: Graduate Student @ McGill University
+position_after: Graduate Student
+affiliation_after: McGill University
 country_after: can
 ---

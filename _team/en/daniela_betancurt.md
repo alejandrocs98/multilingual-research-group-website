@@ -3,7 +3,7 @@ name: Daniela Betancurt
 country: col
 website: 
 photo: 
-info: M.Sc.
+position: M.Sc.
 started: 2020
 ended: 2022
 number_educ: 
@@ -23,6 +23,7 @@ linkedinusername:
 twitterusername: 
 githubusername:  
 interests:
-after: Graduate Student @ The Pennsylvania State University
+position_after: Graduate Student
+affiliation_after: The Pennsylvania State University
 country_after: usa
 ---

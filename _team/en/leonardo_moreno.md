@@ -2,7 +2,7 @@
 name: J. Leonardo Moreno-Gallego
 country: col
 website: 
-info: M.Sc.
+position: M.Sc.
 started: 2014
 ended: 2016
 email: 
@@ -16,6 +16,7 @@ biorxivusername:
 linkedinusername: j-leonardo-moreno-gallego-60154249
 twitterusername: 
 githubusername:  
-after: Graduate Student @ Max Planck Institute for Biology in Tübingen
+position_after: Graduate Student
+affiliation_after: Max Planck Institute for Biology in Tübingen
 country_after: deu
 ---

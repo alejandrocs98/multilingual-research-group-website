@@ -2,7 +2,7 @@
 name: Luisa Arias
 country: col
 website: 
-info: B.Sc
+position: B.Sc
 started: 2020
 ended: 2022
 email: 
@@ -16,6 +16,7 @@ biorxivusername:
 linkedinusername: 
 twitterusername: 
 githubusername:  
-after: M.Sc. Student @ Uniersidad de los Andes
+position_after: M.Sc. Student
+affiliation_after: Uniersidad de los Andes
 country_after: col
 ---

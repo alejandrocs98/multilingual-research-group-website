@@ -2,7 +2,7 @@
 name: David Alzate
 country: 
 website: 
-info: M.Sc.
+position: M.Sc.
 started: 
 ended: 2000
 email: 2010
@@ -16,6 +16,7 @@ biorxivusername:
 linkedinusername: 
 twitterusername: 
 githubusername:  
-after: 
+position_after: 
+affiliation_after:  
 country_after: 
 ---

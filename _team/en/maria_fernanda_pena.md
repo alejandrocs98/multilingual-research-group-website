@@ -3,7 +3,8 @@ name: María Fernanda Peña
 country: col
 website: 
 photo: maria_fernanda_pena.jpg
-info: M.Sc. Student, Biological Sciences
+position: M.Sc. Student co-advised Diego Jimenez
+affiliation: Biological Sciences
 started: 2022
 ended:  
 number_educ: 1
@@ -23,6 +24,7 @@ linkedinusername:
 twitterusername: 
 githubusername:  
 interests: Microbial ecology of mangrove soils
-after:
+position_after:
+affiliation_after: 
 country_after: 
 ---

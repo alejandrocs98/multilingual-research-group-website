@@ -3,7 +3,7 @@ name: Gamaliel López Leal
 country: mex
 website: 
 photo: 
-info: Postdoc
+position: Postdoc
 started: 2020
 ended: 2022
 number_educ: 
@@ -23,6 +23,7 @@ linkedinusername:
 twitterusername: 
 githubusername:  
 interests:
-after: Research Professor Associate @ Universidad Autónoma del Estado de Morelos
+position_after: Research Professor Associate
+affiliation_after: Universidad Autónoma del Estado de Morelos
 country_after: mex
 ---

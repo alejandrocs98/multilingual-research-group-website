@@ -2,7 +2,7 @@
 name: Ángela S. García-Vega
 country: col
 website: 
-info: M.Sc.
+position: M.Sc.
 started: 2000
 ended: 2010
 email: 
@@ -16,6 +16,7 @@ biorxivusername:
 linkedinusername: angela-garcia-2246aa49
 twitterusername: 
 githubusername:  
-after: Research Associate @ AGROSAVIA
+position_after: Research Associate
+affiliation_after: AGROSAVIA
 country_after: col
 ---

@@ -3,7 +3,8 @@ name: Alejandro Reyes
 photo: BCEM-22.jpg
 country: col
 website: https://cienciasbiologicas.uniandes.edu.co/es/profesores/alejandro-reyes-mu%C3%B1oz
-info: Associate Professor, Biological Sciences Department
+position: Associate Professor
+affiliation: Biological Sciences Department
 started: 2013
 email: a.reyes@uniandes.edu.co
 number_educ: 3

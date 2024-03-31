@@ -2,7 +2,7 @@
 name: Ruth Hernández
 country: col
 website: 
-info: Ph.D.
+position: Ph.D.
 started: 2000
 ended: 2010
 email: 
@@ -16,6 +16,7 @@ biorxivusername:
 linkedinusername: 
 twitterusername: 
 githubusername:  
-after: 
+position_after: 
+affiliation_after: 
 country_after: 
 ---
