@@ -31,7 +31,7 @@ Pre-prints are [here](#preprints) or on
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
+  <pubtit style="font-size: 110%;">{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p align = "justify">{{ publi.description }}</p>
   <p>{{ publi.author }}<br /><strong><a target="_blank" href="http://doi.org/{{ publi.doi }}"><em>{{ publi.journal }}</em>{% if publi.volume != nil %} {{publi.volume}}{% endif %}{% if publi.number != nil %}({{publi.number}}){% endif %}{% if publi.pages != nil %}, {{publi.pages}}{% endif %} ({{publi.year}})</a> </strong></p>
