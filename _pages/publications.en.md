@@ -33,8 +33,8 @@ Pre-prints are [here](#preprints) or on
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p align = "justify"><em>{{ publi.description }}</em></p>
-  <p>{{ publi.author }}<br /><strong><a target="_blank" href="http://doi.org/{{ publi.doi }}">{{ publi.journal }}{% if publi.volume != nil %} {{publi.volume}}{% endif %}{% if publi.number != nil %}({{publi.number}}){% endif %}{% if publi.pages != nil %}, {{publi.pages}}{% endif %} ({{publi.year}})</a> </strong></p>
+  <p align = "justify">{{ publi.description }}</p>
+  <p>{{ publi.author }}<br /><strong><a target="_blank" href="http://doi.org/{{ publi.doi }}"><em>{{ publi.journal }}</em>{% if publi.volume != nil %} {{publi.volume}}{% endif %}{% if publi.number != nil %}({{publi.number}}){% endif %}{% if publi.pages != nil %}, {{publi.pages}}{% endif %} ({{publi.year}})</a> </strong></p>
   {% if publi.news %}<p><strong><em>News:</em></strong> {{ publi.news }}</p>{% endif %} 
   <div data-badge-popover="right" data-badge-type="bar" data-doi="{{ publi.doi }}" data-hide-no-mentions="true" class="altmetric-embed"></div>
  </div>
@@ -76,9 +76,9 @@ Pre-prints are [here](#preprints) or on
   <h3>{{ publi.year }}</h3>
     {% assign current_year = publi.year %}
   {% endif %}
-  <b>{{ publi.title }}</b> <br />
+  <a target="_blank" href="http://doi.org/{{ publi.doi }}"><b style="font-size: 110%;">{{ publi.title }}</b></a> <br />
   {{ publi.author }}<br />
-  <a target="_blank" href="http://doi.org/{{ publi.doi }}">{{ publi.journal }}{% if publi.volume != nil %} {{publi.volume}}{% endif %}{% if publi.number != nil %}({{publi.number}}){% endif %}{% if publi.pages != nil %}, {{publi.pages}}{% endif %} ({{publi.year}})</a> <br />
+  <em>{{ publi.journal }}</em>{% if publi.volume != nil %} {{publi.volume}}{% endif %}{% if publi.number != nil %}({{publi.number}}){% endif %}{% if publi.pages != nil %}, {{publi.pages}}{% endif %} ({{publi.year}}) 
   <span style="display:inline;" class="__dimensions_badge_embed__" data-doi="{{ publi.doi }}" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 {% endif %}
 {% endfor %}

@@ -26,23 +26,20 @@
     <strong>{{ include.member.position }}{% if include.member.affiliation != nil %}, {{ include.member.affiliation }}{% endif %}</strong> (<em>{{ site.started[lang] }} {{ include.member.started }}</em>)
   </p>
   <p style="text-align: left; font-size: 95%; color: #676767; margin-bottom: 0px;">  
-    {% if include.member.number_educ == 1 %}
+    {% if include.member.education4 != nil %}
       • {{ include.member.education1 }} 
-    {% endif %}
-    {% if include.member.number_educ == 2 %}
+      <br>• {{ include.member.education2 }} 
+      <br>• {{ include.member.education3 }} 
+      <br>• {{ include.member.education4 }}
+    {% elsif include.member.education3 != nil %}
+    • {{ include.member.education1 }}
+    <br>• {{ include.member.education2 }} 
+    <br>• {{ include.member.education3 }} 
+    {% elsif include.member.education2 != nil %}
       • {{ include.member.education1 }}
       <br>• {{ include.member.education2 }}
-    {% endif %}
-    {% if include.member.number_educ == 3 %}
+    {% elsif include.member.education1 != nil %}
       • {{ include.member.education1 }}
-      <br>• {{ include.member.education2 }} 
-      <br>• {{ include.member.education3 }} 
-    {% endif %}
-    {% if include.member.number_educ == 4 %}
-      • {{ include.member.education1 }} 
-      <br>• {{ include.member.education2 }} 
-      <br>• {{ include.member.education3 }} 
-      <br>• {{ include.member.education4 }} 
     {% endif %}
   </p>
   {% if include.member.interests != nil %}

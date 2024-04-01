@@ -5,9 +5,8 @@ website:
 photo: 
 position: 
 affiliation: 
-started:
-ended:  
-number_educ: 
+started: 
+ended: 
 education1: 
 education2: 
 education3: 
@@ -25,6 +24,6 @@ twitterusername:
 githubusername: 
 interests: 
 position_after: 
-affiliation_after:
+affiliation_after: 
 country_after: 
 ---

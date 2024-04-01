@@ -5,7 +5,7 @@ excerpt: "BCEM - Vacantes"
 sitemap: false
 permalink: vacancies/
 lang: es
-inheader: false
+inheader_order: 
 ---
 
 # Open positions
