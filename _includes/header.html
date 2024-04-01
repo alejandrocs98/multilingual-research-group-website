@@ -28,7 +28,7 @@
             <!-- {% assign empty = '' %}
             {% for tongue in site.languages %}
             <li><a {% if tongue == lang %}style="font-weight: bold;"{% endif %}
-            href="{% if tongue == site.default_lang %}/{{ empty }}{{ page.url }}{% else %}/{{ tongue }}{{ page.url }}{% endif %}">{{ tongue }} {% if tongue == 'en' %} <span class="flag-icon flag-icon-gbr"></span> {% else %} <span class="flag-icon flag-icon-esp"></span> {% endif %} </a></li>
+            href="{% if tongue == site.default_lang %}{{ page.permalink }} {% else %}/{{ tongue }}{{ page.url }}{% endif %}">{{ tongue }} {% if tongue == 'en' %} <span class="flag-icon flag-icon-gbr"></span> {% else %} <span class="flag-icon flag-icon-esp"></span> {% endif %} </a></li>
             {% if forloop.last == false %}<li role="separator" class="divider"></li>{% endif %}
             {% endfor %} -->
 
