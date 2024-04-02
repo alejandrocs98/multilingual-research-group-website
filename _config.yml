@@ -67,7 +67,7 @@ languages: ["en", "es"]
 default_lang: "en"
 exclude_from_localization: ["js", "images", "fonts", "flags", "css"]
 parallel_localization: false
-lang_from_path: true
+lang_from_path: false
 whitelist:
   - jekyll-redirect-from
 
