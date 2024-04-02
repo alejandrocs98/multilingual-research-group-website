@@ -26,15 +26,15 @@
           <ul class="dropdown-menu">
 
             <!-- {% assign empty = '' %}
-            {% for tongue in site.languages %}
-            <li><a {% if tongue == lang %}style="font-weight: bold;"{% endif %}
-            href="{% if tongue == site.default_lang %}{{ page.permalink }} {% else %}/{{ tongue }}{{ page.url }}{% endif %}">{{ tongue }} {% if tongue == 'en' %} <span class="flag-icon flag-icon-gbr"></span> {% else %} <span class="flag-icon flag-icon-esp"></span> {% endif %} </a></li>
+            {% for l in site.languages %}
+            <li><a {% if l == lang %}style="font-weight: bold;"{% endif %}
+            href="{% if l == site.default_lang %}{{ page.permalink }} {% else %}/{{ l }}{{ page.url }}{% endif %}">{{ l }} {% if l == 'en' %} <span class="flag-icon flag-icon-gbr"></span> {% else %} <span class="flag-icon flag-icon-esp"></span> {% endif %} </a></li>
             {% if forloop.last == false %}<li role="separator" class="divider"></li>{% endif %}
             {% endfor %} -->
 
-            {% for tongue in site.languages %}
-              <li><a {% if tongue == lang %}style="font-weight: bold;"{% endif %}
-                {% static_href %}href="{% if tongue == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/{{ tongue }}{{page.url}}{% endif %}"{% endstatic_href %}>{{ tongue }} {% if tongue == 'en' %} <span class="flag-icon flag-icon-gbr"></span> {% else %} <span class="flag-icon flag-icon-esp"></span> {% endif %} </a></li>
+            {% for l in site.languages %}
+              <li><a {% if l == lang %}style="font-weight: bold;"{% endif %}
+                {% static_href %}href="{% if l == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/{{ l }}{{page.url}}{% endif %}"{% endstatic_href %}>{{ l }} {% if l == 'en' %} <span class="flag-icon flag-icon-gbr"></span> {% else %} <span class="flag-icon flag-icon-esp"></span> {% endif %} </a></li>
               {% if forloop.last == false %}<li role="separator" class="divider"></li>{% endif %}
             {% endfor %}
           </ul>
