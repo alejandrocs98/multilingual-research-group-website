@@ -2,7 +2,7 @@
 name: Juan Pablo Londoño
 country: col
 website: 
-position: B.Sc. co-advised Jorge Duitama
+position: B.Sc. [co-advised Jorge Duitama]
 affiliation: 
 started: 2022
 ended: 2023

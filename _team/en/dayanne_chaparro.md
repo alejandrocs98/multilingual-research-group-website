@@ -3,7 +3,7 @@ name: Dayanne P. Chaparro
 country: col
 website: 
 photo: 
-position: M.Sc. co-advised Diego Jimenez
+position: M.Sc. [co-advised Diego Jiménez]
 started: 2022
 ended: 2023
 number_educ: 

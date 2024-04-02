@@ -2,7 +2,7 @@
 name: Catalina Ramirez Portilla
 country: col
 website: 
-position: M.Sc. co-advised J. Armando Sánchez
+position: M.Sc. [co-advised J. Armando Sánchez]
 started: 2012
 ended: 2015
 email: 

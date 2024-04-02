@@ -2,7 +2,7 @@
 name: David O. Botero
 country: col
 website: 
-position: Ph.D. co-advised Silvia Restrepo
+position: Ph.D. [co-advised Silvia Restrepo]
 started: 2013
 ended: 2018
 email: 

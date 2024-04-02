@@ -3,7 +3,7 @@ name: María Fernanda Peña
 country: col
 website: 
 photo: maria_fernanda_pena.jpg
-position: M.Sc. Student co-advised Diego Jimenez
+position: M.Sc. Student [co-advised Diego Jiménez]
 affiliation: Biological Sciences
 started: 2022
 ended:  

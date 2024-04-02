@@ -2,7 +2,7 @@
 name: Aurelia Ayala Usma
 country: col
 website: 
-position: M.Sc. co-advised Silvia Restrepo
+position: M.Sc. [co-advised Silvia Restrepo]
 started: 2000
 ended: 2010
 email: 
