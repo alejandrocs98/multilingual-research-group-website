@@ -25,18 +25,20 @@
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{site.langmenu[lang]}} {% if lang == 'en' %} <span class="flag-icon flag-icon-gbr"></span> {% else %} <span class="flag-icon flag-icon-esp"></span> {% endif %} <span class="caret"></span></a>
           <ul class="dropdown-menu">
 
-            <!-- {% assign empty = '' %}
             {% for l in site.languages %}
-            <li><a {% if l == lang %}style="font-weight: bold;"{% endif %}
-            href="{% if l == site.default_lang %}{{ page.permalink }} {% else %}/{{ l }}{{ page.url }}{% endif %}">{{ l }} {% if l == 'en' %} <span class="flag-icon flag-icon-gbr"></span> {% else %} <span class="flag-icon flag-icon-esp"></span> {% endif %} </a></li>
-            {% if forloop.last == false %}<li role="separator" class="divider"></li>{% endif %}
-            {% endfor %} -->
+              <li>{% if l == site.default_lang %}
+                <a {% if l == lang %}style="font-weight: bold;"{% endif %} {% static_href %}href="{{site.baseurl}}{{page.url}}"{% endstatic_href %}>{{ l }} {% if l == 'en' %} <span class="flag-icon flag-icon-gbr"></span> {% else %} <span class="flag-icon flag-icon-esp"></span> {% endif %} </a>
+                {% else %}
+                <a {% if l == lang %}style="font-weight: bold;"{% endif %} {% static_href %}href="{{site.baseurl}}/{{ l }}{{page.url}}"{% endstatic_href %}>{{ l }} {% if l == 'en' %} <span class="flag-icon flag-icon-gbr"></span> {% else %} <span class="flag-icon flag-icon-esp"></span> {% endif %} </a> 
+                {% endif %}</li>
+              {% if forloop.last == false %}<li role="separator" class="divider"></li>{% endif %}
+            {% endfor %}
 
-            {% for l in site.languages %}
+            <!-- {% for l in site.languages %}
               <li><a {% if l == lang %}style="font-weight: bold;"{% endif %}
                 {% static_href %}href="{% if l == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/{{ l }}{{page.url}}{% endif %}"{% endstatic_href %}>{{ l }} {% if l == 'en' %} <span class="flag-icon flag-icon-gbr"></span> {% else %} <span class="flag-icon flag-icon-esp"></span> {% endif %} </a></li>
               {% if forloop.last == false %}<li role="separator" class="divider"></li>{% endif %}
-            {% endfor %}
+            {% endfor %} -->
           </ul>
         </li>
       </ul>
