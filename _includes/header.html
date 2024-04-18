@@ -27,9 +27,9 @@
 
             {% for l in site.languages %}
               <li>{% if l == site.default_lang %}
-                <a {% if l == lang %}style="font-weight: bold;"{% endif %} {% static_href %}href="{{site.baseurl}}{{page.url}}"{% endstatic_href %}>{{ l }} {% if l == 'en' %} <span class="flag-icon flag-icon-gbr"></span> {% else %} <span class="flag-icon flag-icon-esp"></span> {% endif %} </a>
+                <a {% if l == lang %}style="font-weight: bold;"{% endif %} {% static_href -%}href="{{site.baseurl}}{{page.url}}"{%- endstatic_href %}>{{ l }} {% if l == 'en' %} <span class="flag-icon flag-icon-gbr"></span> {% else %} <span class="flag-icon flag-icon-esp"></span> {% endif %} </a>
                 {% else %}
-                <a {% if l == lang %}style="font-weight: bold;"{% endif %} {% static_href %}href="{{site.baseurl}}/{{ l }}{{page.url}}"{% endstatic_href %}>{{ l }} {% if l == 'en' %} <span class="flag-icon flag-icon-gbr"></span> {% else %} <span class="flag-icon flag-icon-esp"></span> {% endif %} </a> 
+                <a {% if l == lang %}style="font-weight: bold;"{% endif %} {% static_href -%}href="{{site.baseurl}}/{{ l }}{{page.url}}"{%- endstatic_href %}>{{ l }} {% if l == 'en' %} <span class="flag-icon flag-icon-gbr"></span> {% else %} <span class="flag-icon flag-icon-esp"></span> {% endif %} </a> 
                 {% endif %}</li>
               {% if forloop.last == false %}<li role="separator" class="divider"></li>{% endif %}
             {% endfor %}
